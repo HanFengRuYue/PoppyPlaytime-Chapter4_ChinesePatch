@@ -8,7 +8,7 @@ on:
 
 jobs:
   build-and-release:
-    runs-on: windows-latest # 使用 Windows 环境
+    runs-on: windows-2025 # 使用 Windows 环境
 
     steps:
       - name: Checkout repository
