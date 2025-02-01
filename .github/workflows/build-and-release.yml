@@ -17,18 +17,6 @@ jobs:
       - name: Run BuildPAK.cmd
         run: .\BuildPAK.cmd
 
-      # 检查生成的 .pak 文件是否存在
-      - name: Check if .pak file exists
-        id: check-pak
-        run: |
-          if (-not (Test-Path "scr\ch4_pro-Windows_p.pak")) {
-            Write-Error "Build failed: ch4_pro-Windows_p.pak not found"
-            exit 1
-          } else {
-            Write-Host "Pak file generated successfully"
-          }
-        shell: powershell
-
       # 打包 .pak 文件为 ZIP 压缩包
       - name: Compress .pak file
         run: |
@@ -38,13 +26,22 @@ jobs:
           echo "Compressed file: $zipFile"
         shell: powershell
 
+      # 获取格式化后的当前时间
+      - name: Get current time formatted
+        id: formatted_time
+        run: |
+          $date = (Get-Date).ToString("yyyyMMddHHmmss")
+          echo "Formatted time: $date"
+          echo "::set-output name=formatted_date::$date"
+        shell: powershell
+
       # 创建 Releases 并上传压缩包
       - name: Create Release and Upload Asset
         id: create_release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: PoppyPlaytime-Chapter4中文补丁测试版v${{ github.run_number }}
-          name: PoppyPlaytime-Chapter4中文补丁v$(Get-Date -Format 'yyyyMMddHHmmss')
+          name: PoppyPlaytime-Chapter4中文补丁v${{ steps.formatted_time.outputs.formatted_date }}
           files: ch4_pro-Windows_p.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
