@@ -12,11 +12,10 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
-      - name: Run BuildPAK.ps1
-        run: .\BuildPAK.ps1
-        shell: powershell
+      - name: Run BuildPAK.cmd
+        run: .\BuildPAK.cmd
 
       # 检查生成的 .pak 文件是否存在
       - name: Check if .pak file exists
