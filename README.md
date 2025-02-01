@@ -8,7 +8,7 @@
 
 [最新汉化补丁下载](https://github.com/HanFengRuYue/PoppyPlaytime-Chapter4_Chinese/releases)
 
-ch4_pro-Windows_p.zip
+ch4_pro-Windows_p.zip为补丁文件。
 
 
 ## 补丁使用方法
