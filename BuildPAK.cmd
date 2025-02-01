@@ -1,0 +1,1 @@
+UnrealPakSwitchv10\v5.3\2\3\UnrealPak.exe ..\..\..\ch4_pro-Windows_p.pak -Create=lista.txt -compress

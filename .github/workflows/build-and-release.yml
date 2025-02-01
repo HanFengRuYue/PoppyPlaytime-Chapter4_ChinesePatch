@@ -15,8 +15,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Run Build.cmd
-        run: .\Build.cmd
+      - name: Run BuildLocres.cmd
+        run: .\BuildLocres.cmd
+
+      - name: Run BuildPAK.cmd
+        run: .\BuildPAK.cmd
 
       # 检查生成的 .pak 文件是否存在
       - name: Check if .pak file exists
