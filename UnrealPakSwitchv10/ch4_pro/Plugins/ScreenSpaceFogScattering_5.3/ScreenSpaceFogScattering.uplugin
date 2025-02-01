@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 7,
+	"VersionName": "1.13",
+	"FriendlyName": "Screen Space Fog Scattering",
+	"Description": "Post process shader that enhances the look of Exponential Height Fog by adding the simulation of light scattering inside it.",
+	"Category": "Rendering",
+	"CreatedBy": "Dmitry Karpukhin",
+	"CreatedByURL": "com.epicgames.launcher://ue/marketplace/profile/Dmitry+Karpukhin",
+	"DocsURL": "https://dmkarpukhin.com/screen-space-fog-scattering/documentation/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/260929cfa39b43238302154c98311fc7",
+	"SupportURL": "mailto:skxdoom@gmail.com",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ScreenSpaceFogScattering",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	]
+}

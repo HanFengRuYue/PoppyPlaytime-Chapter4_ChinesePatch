@@ -1,0 +1,48 @@
+{
+	"FileVersion": 3,
+	"Version": 24,
+	"VersionName": "2023.0.8",
+	"FriendlyName": "Bridge",
+	"Description": "Megascans Link for Quixel Bridge.",
+	"Category": "Editor",
+	"CreatedBy": "Quixel",
+	"CreatedByURL": "https://www.quixel.se",
+	"DocsURL": "https://support.fab.com/s/?ProductOrigin=Quixeltier1",
+	"MarketplaceURL": "",
+	"SupportURL": "https://support.fab.com/s/?ProductOrigin=Quixeltier1",
+	"CanContainContent": true,
+	"EnabledByDefault": true,
+	"SupportedTargetPlatforms": [
+		"Win64",
+		"Mac",
+		"Linux"
+	],
+	"Modules": [
+		{
+			"Name": "Bridge",
+			"Type": "Editor",
+			"LoadingPhase": "PostDefault",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		},
+		{
+			"Name": "MegascansPlugin",
+			"Type": "Editor",
+			"LoadingPhase": "PostDefault",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		}
+	]
+}

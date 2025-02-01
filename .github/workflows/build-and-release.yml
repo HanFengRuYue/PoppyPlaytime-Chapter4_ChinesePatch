@@ -1,0 +1,53 @@
+name: Build and Release
+
+on:
+  push:
+    branches:
+      - main # 触发条件：推送到 main 分支时运行
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  build-and-release:
+    runs-on: windows-latest # 使用 Windows 环境
+
+    steps:
+      # 检出代码
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 运行 Build.cmd 脚本
+      - name: Run Build.cmd
+        run: .\Build.cmd
+        shell: cmd
+
+      # 检查生成的 .pak 文件是否存在
+      - name: Check if .pak file exists
+        id: check-pak
+        run: |
+          if not exist "ch4_pro-Windows_p.pak" (
+            echo "::error::Build failed: ch4_pro-Windows_p.pak not found"
+            exit 1
+          ) else (
+            echo "Pak file generated successfully"
+          )
+        shell: cmd
+
+      # 打包 .pak 文件为 ZIP 压缩包
+      - name: Compress .pak file
+        run: |
+          $pakFile = "ch4_pro-Windows_p.pak"
+          $zipFile = "ch4_pro-Windows_p.zip"
+          Compress-Archive -Path $pakFile -DestinationPath $zipFile
+          echo "Compressed file: $zipFile"
+        shell: powershell
+
+      # 创建 Releases 并上传压缩包
+      - name: Create Release and Upload Asset
+        id: create_release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: PoppyPlaytime-Chapter4中文补丁测试版v${{ github.run_number }}
+          name: PoppyPlaytime-Chapter4中文补丁v$(Get-Date -Format 'yyyyMMddHHmmss')
+          files: ch4_pro-Windows_p.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

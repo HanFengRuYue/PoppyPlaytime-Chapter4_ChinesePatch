@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2023.7.3",
+	"FriendlyName": "PostProcessWidget",
+	"Description": "Add post-process effects for the widget's covered region.",
+	"Category": "Widget",
+	"CreatedBy": "Qibo Pang",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/681964e1c10b466a9b803073e582f48a",
+	"SupportURL": "",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "PostProcessWidget",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit",
+			"PlatformAllowList": [
+				"Win64",
+				"Android",
+				"IOS"
+			]
+		}
+	]
+}

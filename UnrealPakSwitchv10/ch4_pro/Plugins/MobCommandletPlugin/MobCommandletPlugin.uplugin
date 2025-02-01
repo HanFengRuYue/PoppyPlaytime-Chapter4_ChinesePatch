@@ -1,0 +1,22 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "Mob Commandlet Plugin",
+  "Description": "A plugin that provides a commandlet to run GPU Lightmass until completion.",
+  "Category": "Automation",
+  "EnabledByDefault": true,
+  "Modules": [
+    {
+      "Name": "MobCommandletPlugin",
+      "Type": "Editor",
+      "LoadingPhase": "PreDefault"
+    }
+  ],
+  "Plugins": [
+    {
+      "Name": "GPULightmass",
+      "Enabled": true
+    }
+  ]
+}

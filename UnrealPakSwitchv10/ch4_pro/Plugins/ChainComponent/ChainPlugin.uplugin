@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 18,
+	"VersionName": "1.2.3",
+	"FriendlyName": "ChainPlugin",
+	"Description": "A Math simulation of a chain component",
+	"Category": "Code Plugins",
+	"CreatedBy": "Saeid Gholizade",
+	"CreatedByURL": "https://www.unrealengine.com/marketplace/en-US/profile/saeid+gholizade?count=20&sortBy=effectiveDate&sortDir=DESC&start=0",
+	"DocsURL": "https://www.youtube.com/c/saeidgholizade",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/96eb704f096d401ca29a7efbfa362ec7",
+	"SupportURL": "saeid.gholizade@gmail.com",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ChainPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

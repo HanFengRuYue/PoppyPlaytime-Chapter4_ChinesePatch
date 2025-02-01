@@ -1,0 +1,38 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.3.2",
+	"FriendlyName": "Mob LOD Toolkit",
+	"Description": "Tech artist created tooling for generating and managing baked LODs, using Geometry Scripting as an alternative to the built-in simplification options",
+	"Category": "Optimization",
+	"CreatedBy": "Tristan Moore",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.3.0",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "MobLODToolkit",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GeometryScripting",
+			"Enabled": true
+		},
+		{
+			"Name": "SkeletalMeshModelingTools",
+			"Enabled": true
+		},
+		{
+			"Name": "SkeletalReduction",
+			"Enabled": true
+		}
+	]
+}

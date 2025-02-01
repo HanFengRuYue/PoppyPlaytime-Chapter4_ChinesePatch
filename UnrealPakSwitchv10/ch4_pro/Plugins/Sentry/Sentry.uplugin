@@ -1,0 +1,32 @@
+{
+	"EngineVersion" : "5.3.0",
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "0.16.0",
+	"FriendlyName": "Sentry",
+	"Description": "Sentry catches all your errors and performance issues, and shows you how to fix them before they bring down the player experience.",
+	"Category": "Code Plugins",
+	"CreatedBy": "Sentry",
+	"CreatedByURL": "https://sentry.io/",
+	"DocsURL": "https://docs.sentry.io/",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/99f5c02de5fa49ab97976a3a852e5408",
+	"SupportURL": "https://docs.sentry.io/support/",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "Sentry",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [ "Win64", "Mac", "Android", "IOS", "Linux" ]
+		},
+		{
+			"Name": "SentryEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [ "Win64", "Mac", "Android", "IOS", "Linux" ]
+		}
+	]
+}
