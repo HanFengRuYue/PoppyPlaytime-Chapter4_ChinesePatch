@@ -15,6 +15,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Install Visual C++ Redistributable
+        run: |
+          $ErrorActionPreference = "Stop"
+          Invoke-WebRequest -Uri "https://aka.ms/vs/17/release/vc_redist.x64.exe" -OutFile "vc_redist.x64.exe"
+          Start-Process -Wait -FilePath "vc_redist.x64.exe" -ArgumentList "/quiet", "/install"
+          Remove-Item -Force "vc_redist.x64.exe"
+      
+
       # 运行 Build.cmd 脚本
       - name: Run Build.cmd
         run: .\Build.cmd
