@@ -21,7 +21,7 @@ jobs:
       - name: Check if .pak file exists
         id: check-pak
         run: |
-          if (-not (Test-Path "/scr/ch4_pro-Windows_p.pak")) {
+          if (-not (Test-Path "\scr\ch4_pro-Windows_p.pak")) {
             Write-Error "Build failed: ch4_pro-Windows_p.pak not found"
             exit 1
           } else {
@@ -32,7 +32,7 @@ jobs:
       # 打包 .pak 文件为 ZIP 压缩包
       - name: Compress .pak file
         run: |
-          $pakFile = "/scr/ch4_pro-Windows_p.pak"
+          $pakFile = "\scr\ch4_pro-Windows_p.pak"
           $zipFile = "ch4_pro-Windows_p.zip"
           Compress-Archive -Path $pakFile -DestinationPath $zipFile
           echo "Compressed file: $zipFile"
