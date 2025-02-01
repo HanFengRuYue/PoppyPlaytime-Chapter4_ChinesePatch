@@ -14,6 +14,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      - name: Install Visual C++ Redistributable
+        run: |
+          Invoke-WebRequest https://aka.ms/vs/17/release/vc_redist.x64.exe -OutFile vc_redist.x64.exe
+          .\vc_redist.x64.exe /install /quiet /norestart
+
       - name: Run BuildPAK.cmd
         run: .\BuildPAK.cmd
 
