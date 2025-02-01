@@ -44,7 +44,7 @@ jobs:
         uses: softprops/action-gh-release@v1
         with:
           tag_name: PoppyPlaytime-Chapter4中文补丁测试版v${{ github.run_number }}
-          name: PoppyPlaytime-Chapter4中文补丁v$(Get-Date -Format 'yyyyMMddHHmmss')
+          name: PoppyPlaytime-Chapter4中文补丁v${{ format('{0:yyyyMMddHHmmss}', github.run_started_at) }}
           files: ch4_pro-Windows_p.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
