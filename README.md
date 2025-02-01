@@ -39,3 +39,5 @@ ch4_pro-Windows_p.zip为补丁文件。
 5. **合并到主项目自动生成补丁**：一旦你的 PR 被合并，GitHub Actions 将会自动生成最新的汉化补丁。
 
 如有任何问题或建议，请随时在Issues中提出！
+
+如果想修改汉化但是不会用GitHub可以联系[寒枫如玥](https://space.bilibili.com/313281542)进行手动修改。
