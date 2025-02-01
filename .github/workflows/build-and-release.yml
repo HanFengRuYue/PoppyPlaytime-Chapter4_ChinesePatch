@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main # 触发条件：推送到 main 分支时运行
+    paths:
+      - Game.csv # 仅当 Game.csv 文件被修改时触发
   workflow_dispatch: # 允许手动触发
 
 jobs:
