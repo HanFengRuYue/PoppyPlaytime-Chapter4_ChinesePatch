@@ -7,4 +7,4 @@
 Move-Item -Path "scr\Game.locres" -Destination "scr\ch4_pro\Content\Localization\Game\en\Game.locres" -Force
 
 # Create the pak file using UnrealPak.exe
-.\scr\v11.27\2\3\UnrealPak.exe ..\..\..\ch4_pro-Windows_p.pak -Create=lista.txt -compressed
+.\scr\v11.27\2\3\UnrealPak.exe ..\..\..\ch4_pro-Windows_p.pak -Create=..\..\..\lista.txt -compress
