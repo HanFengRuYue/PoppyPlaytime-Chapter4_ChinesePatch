@@ -21,7 +21,7 @@ jobs:
 
       - name: Install Visual C++ Redistributable x86
         run: |
-          Invoke-WebRequest https://aka.ms/vs/17/release/vc_redist.x86.exe -OutFile vc_redist.x64.exe
+          Invoke-WebRequest https://aka.ms/vs/17/release/vc_redist.x86.exe -OutFile vc_redist.x86.exe
           .\vc_redist.x86.exe /install /quiet /norestart
 
       - name: Run BuildPAK.cmd
