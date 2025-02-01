@@ -6,19 +6,24 @@
 [最新汉化补丁下载](https://github.com/HanFengRuYue/PoppyPlaytime-Chapter4_Chinese/releases)
 
 ## 补丁使用方法
-
 测试版：
+
 解压到游戏目录Playtime_Chapter4\ch4_pro\Content\Paks中。
+
 
 稳定版：
 直接解压到游戏目录即可。
 
 ## 参与汉化者名单
+
 - [寒枫如玥](https://space.bilibili.com/313281542)
+
 
 ## 如何参与修改汉化
 
+
 要参与此项目的汉化工作，请按照以下步骤操作：
+
 
 1. **Fork 本仓库**：点击页面右上角的 "Fork" 按钮，将本仓库复制到你自己的 GitHub 账户下。
 
