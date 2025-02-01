@@ -23,6 +23,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
+      # 打印当前目录结构和文件列表
+      - name: List files for debugging
+        run: |
+          echo "Current directory structure:"
+          tree /F
+        shell: cmd
+
       # 运行 Build.cmd 脚本
       - name: Run Build.cmd
         run: .\Build.cmd
