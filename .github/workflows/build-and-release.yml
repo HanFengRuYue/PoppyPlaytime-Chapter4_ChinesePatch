@@ -15,10 +15,8 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 运行 Build.bat 脚本
-      - name: Run Build.bat
-        run: .\Build.bat
-        shell: cmd
+      - name: Run Build.cmd
+        run: .\Build.cmd
 
       # 检查生成的 .pak 文件是否存在
       - name: Check if .pak file exists
