@@ -11,12 +11,8 @@ jobs:
     runs-on: windows-latest # 使用 Windows 环境
 
     steps:
-      # 检出代码
       - name: Checkout repository
         uses: actions/checkout@v3
-
-      - name: Run BuildLocres.cmd
-        run: .\BuildLocres.cmd
 
       - name: Run BuildPAK.cmd
         run: .\BuildPAK.cmd
