@@ -1,4 +1,4 @@
-﻿key,source,target
+﻿﻿key,source,target
 /0009976F4EA6E05D7C0184AFABAE4671,Art Lead,艺术主管
 /001EFF4241704C3A42107DA9EA407818,03_Environment_K,03_环境_K
 /002BC1E94A29DB3757BE8787959C0650,XXX DEPRICATED,XXX 已弃用
@@ -2039,7 +2039,7 @@ Security
 Medallion","错误的
 安全
 奖章"
-/5D7989D34933E8638C7F03930BD4554E,Yarnaby is attracted to noise. Avoid Sprinting and using your GrabPack to prevent Yarnaby from finding you.,亚娜比会被噪音吸引。避免冲刺和使用抓包工具，防止亚娜比找到你。
+/5D7989D34933E8638C7F03930BD4554E,Yarnaby is attracted to noise. Avoid Sprinting and using your GrabPack to prevent Yarnaby from finding you.,亚娜比会被噪音吸引。避免冲刺和使用抓抓背包，防止亚娜比找到你。
 /5D7E233D4BE7497D2A318BBFCB63FF31,LS_OverservationDoorCreakOpen,LS_观察门嘎吱作响打开
 /5D80544042098BFEBF4A9D8D72ABD8F0,"You may find special items in the environment that you can pick up with <input id=""/PoppyPlugin/Core/Input/Actions/Grabpack/IA_Grab_Pack_Ability_Left.IA_Grab_Pack_Ability_Left""></>, <input id=""/PoppyPlugin/Core/Input/Actions/Grabpack/IA_Grab_Pack_Ability_Right.IA_Grab_Pack_Ability_Right""></>, or the <input id=""/PoppyPlugin/Core/Input/Actions/IA_Interact.IA_Interact""></> key.  Notes you’ve collected can be viewed in your inventory <input id=""/PoppyPlugin/Core/Input/Actions/IA_Inventory.IA_Inventory""></>.",你可能会在环境中找到一些可以用<input id="/PoppyPlugin/Core/Input/Actions/Grabpack/IA_Grab_Pack_Ability_Left.IA_Grab_Pack_Ability_Left"></>、<input id="/PoppyPlugin/Core/Input/Actions/Grabpack/IA_Grab_Pack_Ability_Right.IA_Grab_Pack_Ability_Right"></>或<input id="/PoppyPlugin/Core/Input/Actions/IA_Interact.IA_Interact"></>键拾取的特殊物品。你收集的笔记可以在库存<input id="/PoppyPlugin/Core/Input/Actions/IA_Inventory.IA_Inventory"></>中查看。
 /5D87609B467C2CD5E4207FB37D02041B,06_SafeHaven_F1,06_安全避难所_F1
@@ -4442,7 +4442,7 @@ Putting in the correct code will open this safe to reveal a lever for them to ta
 
 输入正确的密码将打开保险箱，露出一个可供拿取的控制杆。"
 /DEBDE9864AD7C5F247596CBA3645BD1A,LS_Visit2_UnlockWWSDoor,LS_第二次访问_解锁WWS门
-/DEC4F260425AFAC10F1C0894DE6BF5FD,CraftyCorn Cutout,巧手玉米立牌
+/DEC4F260425AFAC10F1C0894DE6BF5FD,CraftyCorn Cutout,CraftyCorn立牌
 /DED6E5684BBF7BCF242C9783E5513F04,dirt,污垢
 /DEDB13C840C6E52255EFCDAA8989FEE1,SW_DIA_Scout_Izzy_Conversation_S13_L06_Line01,SW_DIA_Scout_Izzy_对话_S13_L06_第1行
 /DEF267364E27088E268F1B9750200700,Shoot Liquid Nitrogen Canisters with a Flare to cause them to explode,用信号弹射击液氮罐以使其爆炸
@@ -4950,7 +4950,7 @@ PAL复合输出
 /FB9C6EED4FA49C9B996D3E9FD6865AD6,W,W
 /FBAC13C14CB3C40D6C24EDBAA55F4175,Ollie,奥利
 /FBC2E8EE402ED6CB9619AFB0FC08217A,GreenPaint,绿色颜料
-/FBD4509D494B153B1E0BB4BD810A085A,CraftyCorn:,巧手玉米:
+/FBD4509D494B153B1E0BB4BD810A085A,CraftyCorn:,CraftyCorn:
 /FBDD894948041D2232A1AE843A7DAFC6,Invert Look X,反转视角 X
 /FBE671984C03A0FD4F304AA9BDDE20FA,Move Backwards,向后移动
 /FBEB43A142BAC79A50EB0E9825F0E544,Checking heterogenous volume red gas system,检查异质体积红气系统
@@ -5122,7 +5122,7 @@ DT_Cutout_Bubba_01/Cutout_Bubba_01_02_Line,Hey! I remember you!,嘿!我记起你
 DT_Cutout_Bubba_02/Cutout_Bubba_02_Line,An elephant always remembers!,大象永远不会忘!
 DT_Cutout_Bubba_03/Cutout_Bubba_03_Line,Want to know what I remember about you?,想知道我记得你什么吗?
 DT_Cutout_Bubba_04/Cutout_Bubba_04_Line,[Screaming],[尖叫]
-DT_Cutout_CraftyCorn_01/Cutout_CraftyCorn_01_01_Line,H-Hi... I'm CraftyCorn.,哈...嗨...我是巧手玉米。
+DT_Cutout_CraftyCorn_01/Cutout_CraftyCorn_01_01_Line,H-Hi... I'm CraftyCorn.,哈...嗨...我是CraftyCorn。
 DT_Cutout_CraftyCorn_01/Cutout_CraftyCorn_01_02_Line,Can you help me with my painting?,能帮我画画吗?
 DT_Cutout_CraftyCorn_01/Cutout_CraftyCorn_01_03_Line,"Pass me the blue, please!",请把蓝色递给我!
 DT_Cutout_CraftyCorn_02/Cutout_CraftyCorn_02_01_Line,Thanks!,谢谢!
@@ -5196,7 +5196,7 @@ DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_05_Line,"You’ve blundered along the
 DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_06_Line,There are no shadows here that would be of use to you.,但是这里没有能为你所用的阴影。
 DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_07_Line,Not even the ground beneath your feet is yours.,连你脚下的土地都不属于你。
 DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_08_Line,There are no places you can hide.,没有你能藏身的地方。
-DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_09_Line,Not from me.,不是我叫你来的哦。
+DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_09_Line,Not from me.,这不是我做的。
 DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_10_Line,*Laughs*,*笑*
 DT_Doctor_S12_L12_Li08/Doctor_S12_L12_Li08_01_Line,"If you want to leave this room, it’ll come at a cost.",如果你要离开这个房间，需要付出代价。
 DT_Doctor_S12_L12_Li08/Doctor_S12_L12_Li08_02_Line,"It’s this little life, or yours.",要么是这条小生命，要么就是你的命。
@@ -5359,7 +5359,7 @@ DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_10_Line,Shelf Venti
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_11_Line,"Is this where you are, Poppy?",波比，你在这里吗?
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_12_Line,What?,什么?
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_13_Line,Stay where you are--,呆在原地--
-DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_14_Line,--and listen closely.,#NAME?
+DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_14_Line,--and listen closely.,--仔细听。
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_15_Line,You're not going to run.,你既不会逃跑。
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_16_Line,You're not going to fight.,你也不会去战斗。
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_17_Line,The charade is over.,这场骗局结束了。
