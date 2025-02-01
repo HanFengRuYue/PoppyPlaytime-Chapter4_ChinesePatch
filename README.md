@@ -4,6 +4,8 @@
 
 本项目完全开源免费，采用MIT License。
 
+![项目封面](https://clan.fastly.steamstatic.com/images/41150871/16b904fbe85fec4efb92b33946d1ce4d00b0f7ff_400x225.png)
+
 [最新汉化补丁下载](https://github.com/HanFengRuYue/PoppyPlaytime-Chapter4_Chinese/releases)
 
 ## 补丁使用方法
