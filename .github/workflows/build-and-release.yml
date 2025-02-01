@@ -20,7 +20,7 @@ jobs:
       # List all files in the current directory after running BuildPAK.cmd
       - name: List all files
         if: always()
-        run: dir /S /B
+        run: Get-ChildItem -Recurse -Name
 
       # 检查生成的 .pak 文件是否存在
       - name: Check if .pak file exists
