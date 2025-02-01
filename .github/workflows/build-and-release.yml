@@ -11,6 +11,14 @@ jobs:
     runs-on: windows-latest # 使用 Windows 环境
 
     steps:
+      # 安装 Visual C++ Redistributable
+      - name: Install Visual C++ Redistributable
+        run: |
+          Invoke-WebRequest -Uri "https://aka.ms/vs/17/release/vc_redist.x64.exe" -OutFile "vc_redist.x64.exe"
+          Start-Process -FilePath "vc_redist.x64.exe" -ArgumentList "/install /quiet /norestart" -Wait
+          Remove-Item -Path "vc_redist.x64.exe"
+        shell: powershell
+
       # 检出代码
       - name: Checkout repository
         uses: actions/checkout@v3
