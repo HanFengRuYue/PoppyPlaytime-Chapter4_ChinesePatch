@@ -14,18 +14,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Install Visual C++ Redistributable x64
-        run: |
-          Invoke-WebRequest https://aka.ms/vs/17/release/vc_redist.x64.exe -OutFile vc_redist.x64.exe
-          .\vc_redist.x64.exe /install /quiet /norestart
-
-      - name: Install Visual C++ Redistributable x86
-        run: |
-          Invoke-WebRequest https://aka.ms/vs/17/release/vc_redist.x86.exe -OutFile vc_redist.x86.exe
-          .\vc_redist.x86.exe /install /quiet /norestart
-
       - name: Run BuildPAK.cmd
         run: .\BuildPAK.cmd
+
+      # List all files in the current directory after running BuildPAK.cmd
+      - name: List all files
+        if: always()
+        run: dir /S /B
 
       # 检查生成的 .pak 文件是否存在
       - name: Check if .pak file exists
