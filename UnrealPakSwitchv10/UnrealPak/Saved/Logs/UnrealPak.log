@@ -1,0 +1,40 @@
+﻿Log file open, 02/01/25 21:11:06
+LogGenericPlatformMisc: Warning: Failed to determine engine directory: Defaulting to 
+LogTrace: Initializing trace...
+LogTrace: Finished trace initialization.
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-1A2A58664B680C9EB1A2E3BF80EC45D3
+         Session CrashGUID >====================================================
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Error: Plugin 'PlatformCrypto' failed to load because module 'PlatformCrypto' could not be found.  Please ensure the plugin is properly installed, otherwise consider disabling the plugin for this project.
+LogWindows: Error: Failed to create dialog. 找不到映像文件中指定的资源类型。 Error: 0x715 (1813)
+Message dialog closed, result: Ok, title: Message, text: Plugin 'PlatformCrypto' failed to load because module 'PlatformCrypto' could not be found.  Please ensure the plugin is properly installed, otherwise consider disabling the plugin for this project.
+LogPakFile: Display: Using command line for crypto configuration
+LogPakFile: Engine only spawned 14 worker threads, bumping up to 15!
+LogPakFile: Display: CompressionFormats in priority order: Zlib
+LogPakFile: Warning: -compress is deprecated, use -compressed with UAT instead
+LogPakFile: Display: Loading response file lista.txt
+LogPakFile: Display: Added 16 entries to add to pak file.
+LogPakFile: Display: Collecting files to add to pak file...
+LogPakFile: Display: Collected 16 files in 0.00s.
+LogPakFile: Display: Creating pak ../../../ch4_pro-Windows_p.pak.
+LogPakFile: Display: Created pak file: ../../../ch4_pro-Windows_p.pak
+LogPakFile: Display: CompressionFormat 0 [Zlib] : 16 files, 136153873 -> 78006001 bytes
+LogPakFile: Display: Added 16 files, 78051485 bytes total
+LogPakFile: Display: PrimaryIndex size: 8706 bytes
+LogPakFile: Display: PathHashIndex size: 1003 bytes
+LogPakFile: Display: FullDirectoryIndex size: 1330 bytes
+LogPakFile: Display: Compression summary: 57.29% of original size. Compressed Size 78006001 bytes, Original Size 136153873 bytes. 
+LogPakFile: Display: Encryption - DISABLED
+LogPakFile: Display: 
+LogPakFile: Display: Writer and Compression Threads exited.
+LogPakFile: Display: UnrealPak executed in 0.306833 seconds
+LogCore: Engine exit requested (reason: UnrealPak Exiting)
+LogExit: Preparing to exit.
+LogModuleManager: Shutting down and abandoning module CoreUObject (8)
+LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+LogModuleManager: Shutting down and abandoning module PakFile (4)
+LogPakFile: Destroying PakPlatformFile
+LogModuleManager: Shutting down and abandoning module RSA (3)
+LogExit: Exiting.
+Log file closed, 02/01/25 21:11:06
