@@ -1,18 +1,16 @@
 # Poppy Playtime Chapter 4 中文汉化补丁项目
 
 欢迎参与波比的游戏时间第四章的汉化项目！这个项目的目的是让中国玩家更好地享受波比的游戏时间！
+
 本项目完全开源免费，采用MIT License。
 
 [最新汉化补丁下载](https://github.com/HanFengRuYue/PoppyPlaytime-Chapter4_Chinese/releases)
 
 ## 补丁使用方法
-测试版：
-
-解压到游戏目录Playtime_Chapter4\ch4_pro\Content\Paks中。
+测试版：解压到游戏目录Playtime_Chapter4\ch4_pro\Content\Paks中。
 
 
-稳定版：
-直接解压到游戏目录即可。
+稳定版：直接解压到游戏目录即可。
 
 ## 参与汉化者名单
 
