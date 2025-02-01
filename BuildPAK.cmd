@@ -1,3 +1,3 @@
-UnrealPakSwitchv10\UnrealLocres.exe import Game.locres Game.csv -o UnrealPakSwitchv10\Game.locres
-move /Y "UnrealPakSwitchv10\Game.locres" "UnrealPakSwitchv10\ch4_pro\Content\Localization\Game\en\Game.locres"
-UnrealPakSwitchv10\v5.3\2\3\UnrealPak.exe ..\..\..\ch4_pro-Windows_p.pak -Create=lista.txt -compressed
+scr\UnrealLocres.exe import Game.locres Game.csv -o scr\Game.locres
+move /Y "scr\Game.locres" "scr\ch4_pro\Content\Localization\Game\en\Game.locres"
+scr\v5.3\2\3\UnrealPak.exe ..\..\..\ch4_pro-Windows_p.pak -Create=lista.txt -compressed
