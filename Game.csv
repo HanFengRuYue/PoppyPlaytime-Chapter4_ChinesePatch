@@ -5,7 +5,7 @@
 /002C6098486D45F6955DD782343EEC6A,Zipline drop open walls,滑索垂落敞开的墙壁
 /003600D94AAA59A0A889F690014FDE9B,Climb Handles,攀爬把手
 /0079D5E941F82E71D9FB2EB50101BDAE,MI_Decal_Diffuse,MI_贴花_漫反射
-/00A046074D1269F077316FA9D4273C7B,Power Up Machine Stations via Hand Scanners (1/3),通过掌上扫描仪启动机器站(1/3)
+/00A046074D1269F077316FA9D4273C7B,Power Up Machine Stations via Hand Scanners (1/3),通过手掌扫描仪启动机器站点(1/3)
 /00A14B444021893711F3369CB1F04F54,LS_Yarnaby_Death,LS_亚娜比_死亡
 /010DF1734AC085B7AEEBC19E99CF54E9,Testing whether Profiler Cam functions within Sequencer,测试分析工具摄像机是否在序列器中起作用
 /0110AF414EAF50F129A05EA49CCCBFC0,SUCCESS,成功
@@ -42,7 +42,7 @@ Placeholder","Keycard
 Placeholder"
 /0434E11A4684749033D911B40B921323,Restore Default Settings,恢复默认设置
 /044D7C6546185B0627ACB6B248B5D9BB,Deactive,停用
-/045FAE3142B7AB365D992FB06CD49A27,RESTART CHECKPOINT,重新启动检查点
+/045FAE3142B7AB365D992FB06CD49A27,RESTART CHECKPOINT,重新载入检查点
 /046DCA6B40E596188DBD508330BDD02E,Edition,版本
 /04806F064A61CA64CD7F30810AFBB63C,"UNCHANGED
 455 cm","未改变
@@ -98,7 +98,7 @@ AUTOPSY","男性
 /0752CC854E6F890AB8E23789083796BF,Dirty,脏的
 /0756162A49D229A01624069619DD29AB,5,
 /07612C314A623A6AB291DF961E2CEC4E,COMPLETED,已完成
-/07B5CA944E038A7C1C283888F23071AD,Red Hand Pick Up,捡起红色手
+/07B5CA944E038A7C1C283888F23071AD,Red Hand Pick Up,捡起红手
 /07BF09F641EFD0E37A8502B786CD247B,2,
 /07C1D05A4105844129235CBE2C5D4D1F,LS_MetalBlockerCollapse_002,LS_金属阻挡物坍塌_002
 /07CD18484369A525947EE5B9763637CD,Moss,苔藓
@@ -117,7 +117,7 @@ I promise this is on purpose","这将为从安全庇护所滑索下降到NML的�
 /0876444542907FEE26E273B0F2E78F6F,Doctor Controller,博士控制器
 /08777DDD4C8408231C8D8DA8BA185399,"The floor of this tunnel is manmade and part of the larger facility
 ",这条隧道的地面是人造的，属于更大的设施的一部分
-/0891C2954C6D55D7E8ADF093B8495D45,Red Hand,红色手
+/0891C2954C6D55D7E8ADF093B8495D45,Red Hand,红手
 /089CE37043AAF26936734BB2E5E38FE5,End swing tutorial,结束挥击教程
 /08C073004971CD3935BF43AAC8DEAA95,%,
 /08C823414463B7812694BEB583483055,TransitionToExit,过渡到退出
@@ -699,7 +699,7 @@ Department: Production","<Bold>每周检查:1172</>
 /2416A48F492DECFCB556DBA648B98DC2,Delete Save,删除存档
 /241B037440C08F8848A0EDB13B09FE7A,Riley Journal: Entry #3,莱利日记:条目#3
 /24647FA44FE9517197838A95263A7C72,Development and Operations,开发与运营
-/2474F1E94C06DF24D1F0F69FC72F3C94,Blue Hand,蓝色手
+/2474F1E94C06DF24D1F0F69FC72F3C94,Blue Hand,蓝手
 /248BF0AA4D4ED78E5948E3976297FDA8,14_Environment_C3,14_环境_C3
 /24955F8A4065947E7787C18B90FF8B94,Lorem ipsum dolor sit amet consectetur. Cras id sapien venenatis id sit at praesent enim id ante. Suspendisse nam massa tristique pulvinar eget. Diam ac ante tincidunt arcu maecenas.,Lorem ipsum dolor sit amet consectetur. Cras id sapien venenatis id sit at praesent enim id ante. Suspendisse nam massa tristique pulvinar eget. Diam ac ante tincidunt arcu maecenas.
 /24AF843E4223CDD4B60B4F8A58B5F50D,Room check,房间检查
@@ -860,7 +860,7 @@ What’s important to me:
 /2925827049C5989C334719866938415C,Get up.,站起来。
 /293269894A8677F4C0A4A4BE22A1632E,Lead Quality Assurance Tester,首席质量保证测试员
 /2934B8B14FAADE9E318A6EBAFA6CC69C,Warden,典狱长
-/2936714A4275D8955117B48C7338DE0A,"Found in the Gas Production Zone of Playcare, the Purple Hand allows for vertical movement via select “Jump Pads”.",在Playcare的气体生产区找到的紫色之手可以通过特定「跳跃垫」进行垂直移动。
+/2936714A4275D8955117B48C7338DE0A,"Found in the Gas Production Zone of Playcare, the Purple Hand allows for vertical movement via select “Jump Pads”.",在Playcare的气体生产区找到的紫手可以通过特定「跳跃垫」进行垂直移动。
 /296266664AA3E84233DB598035F17596,TEST_ScreenSpaceFogScatter_03_NoInsights,测试_屏幕空间雾散射_03_无洞察
 /2965F6DD459B312866A73CBB3626BCDB,Run,快跑
 /298EDBF74F183DE479BF32B23C638911,Waterfall,瀑布
@@ -1379,14 +1379,14 @@ Dr. Harley Sawyer","<Bold>行为:</>
 /3F9B1F644606BAA8E0D01EBD92332F8D,Name,名称
 /3FA55F3B44F5A7ACCC9BC6B4893BDF98,LS_PoppyKissy_SafeHavenVisit1_AvoidingPrototype,LS_波比Kissy_安全港访问1_避开原型
 /3FA889F74E6F4653E265AB91D7B5BBA6,Emissive,发光
-/3FAB37A04996F6D8FF1DBDAF646FC6D7,Red Hand,红色手
+/3FAB37A04996F6D8FF1DBDAF646FC6D7,Red Hand,红手
 /3FE801544042337EE2BF31AA4EDFF111,"20 DPS, fast tick",20 DPS，快速计时
 /40056A0F40AA4E6069BEA4B0921E938A,"(After door shuts behind player)
 
 Doey is already up ahead moving thru the hallways He ushers the player on before dashing into a side room.","(玩家背后的门关闭后)
 
 多伊已经提前在走廊里移动了，他示意玩家继续前进，随后快步进入侧室。"
-/40102CBE460042734090FB946E8B6BB1,"Found in the Security Room on the 1st Floor, the Blue Hand allows for basic employee access and manueverability. ",在1楼的安全房间发现的Blue Hand可提供员工基本通行和操作能力。
+/40102CBE460042734090FB946E8B6BB1,"Found in the Security Room on the 1st Floor, the Blue Hand allows for basic employee access and manueverability. ",在1楼的安全房间发现的蓝手可提供员工基本通行和操作能力。
 /40154A5F459FD4AA35FCA7A0712B84D3,LS_Poppy_HasOmniHand1,LS_Poppy_有全能手1
 /403ACDFC46D5E584E02B0693B9948B1A,Electric Crackle,电流噼啪声
 /407C4212475161F98BB2FEB0FAD7A798,Systems Administrator,系统管理员
@@ -1663,7 +1663,7 @@ Medallion","正确的
 /4D086ABA491CC025DC38A6BF2F89BC8A,Crawl,爬行
 /4D3E088E432D1B0FE44F779AE7F51675,Long Hallway,长走廊
 /4D44AA2941DE6F2D5A13DC9355D50AC2,Crouch,蹲下
-/4D5950534DF79B27C41C149737D4F93F,Pull the Handles on the Saw to lower the blade onto Doey,拉动锯子上的把手以降低刀片到多伊身上
+/4D5950534DF79B27C41C149737D4F93F,Pull the Handles on the Saw to lower the blade onto Doey,拉动锯子上的把手使刀片降低到多伊身上
 /4D6D9E5C459A0042204185916B91957D,Dust,灰尘
 /4D920EE045822F33E0DC1BB2DDBA7104,A key used to access Gas Distribution Operations,用于访问气体分配操作的钥匙
 /4D9712B243A622672F05439416AE160A,ADJUST GAMMA SETTINGS,调整伽马设置
@@ -1743,7 +1743,7 @@ ACCESS","受限的
 /52BF6893470BD5CDA8621C88A1B7F567,Progress,进度
 /52C5C9AA4CB8399B7CD1D6B84110317E,DogDay Cutout,太阳狗剪影
 /52C958CF4D57B39ACA6CEC9D4EDB0EAF,Marketing,市场营销
-/530053584D72621AD07129BE0678E797,Free Your Blue Hand,解放你的Blue Hand
+/530053584D72621AD07129BE0678E797,Free Your Blue Hand,解放你的蓝手
 /5310E52D498515C81580B5A263419197,Decals,贴花
 /534D7D5B4DE26336E0710B93CD7EF9D1,LS_HidingSpot,LS_藏身处
 /535347924AC6A0B13B8403A0E3E4CB1A,Sprint,冲刺
@@ -2282,7 +2282,7 @@ Six weeks from the time of receiving this letter, return to the Playtime Co. fac
 /6BC5672E4B1F4BEF3FE181A9A469522E,Italian,意大利语
 /6BD2F9FC43971B8EDF6DF1AE75135455,Old equipment from Playtime’s original mining operations,来自欢乐时光原始采矿作业的旧设备
 /6BDB87B246691B42C217E9A2C9A38CC7,Ollie_S13_L06_i03,奥利_S13_L06_i03
-/6BDE75124B33FEDA231D4F8903878E20,FLARE HAND,照明弹之手
+/6BDE75124B33FEDA231D4F8903878E20,FLARE HAND,照明弹手
 /6BEA4B7F4A4DFE5A4A498FAF8F79AE5A,16_Environment_A,16_环境_A
 /6BEC37774FFA2F9C7205A4A12A57335A,Full Level,全关卡
 /6BFE7BA74D9B0360A79AF59C996CD1E8,Approach the Gap to Squeeze Through,靠近缝隙以挤过去
@@ -2359,7 +2359,7 @@ Box","电源
 /6DEB0AA640CC64C8A8C3AEAF3E64C4DF,Pianosaurus,钢琴龙
 /6DEF4E624F6162CACF34FEB8BB1259D6,Puzzle Solved!,谜题已解开!
 /6DEF5C9E40D5DE7B9570418FC5F3BAD8,Porting Engineer,移植工程师
-/6E03075A4FDEEA8FF79782AD2E4F3D75,PURPLE HAND,紫色之手
+/6E03075A4FDEEA8FF79782AD2E4F3D75,PURPLE HAND,紫手
 /6E10DAF547358BB5D868E6921EB0B321,Player will need to insert the proper gears in order to complete the connection and get all the gears turning.,玩家需要插入正确的齿轮，以完成连接并让所有齿轮转动起来。
 /6E2F1A474090DA61E17AB0970C19E9B2,Are you sure you want to delete this save? Any progress will be lost.,您确定要删除这个存档吗?所有进度将会丢失。
 /6E42858E4F64FC7C5CCF0B91AEEFF84C,Search,搜索
@@ -2490,7 +2490,7 @@ CHECKPOINT","运输
 /748785654AAFA5BB98230BA6BCDD31B0,Explosive,爆炸性的
 /74A1D4424626045DADA0FFB72A8181B9,XXX DEPRECATED,XXX 已弃用
 /74A6E45E43729DCE70667BB356C5106A,Damage,伤害
-/74AAF2BE472946755E4F488F34A60574,Purple Hand,紫色手
+/74AAF2BE472946755E4F488F34A60574,Purple Hand,紫手
 /74B1ABB1434970C48EAF34B3704DA613,ConcreteWallRough,粗糙混凝土墙
 /74E0F7324108B0F04E542F900B421776,"Accelerant
 Mixer
@@ -3110,7 +3110,7 @@ PLEASE INITIATE THE GAS FLOWWWWWWWWWWWWWWWWWWWWWWWWW","检测到气体流量不�
 /94B2815C4D498B91DBDB87BA5D3C5699,Weekly Checkup: 1172,周检:1172
 /94B9DBD945119F88FA8DC690BDEFB823,INSERT RED HAND,插入红手
 /94D84AD34828A0A81FF2EA98DDA33C5C,Visit 3 Chase Checkpoint,访问3追逐检查点
-/94E53C5341607A634380D7B9EEFE7E56,Flare Hand,照明弹之手
+/94E53C5341607A634380D7B9EEFE7E56,Flare Hand,照明弹手
 /94F5D0DF4F787BE7700800A099248208,LN2_Volume_HandTrap,液氮_体积_手部陷阱
 /94FCF35E4C6C2D14071D5CBA2709583D,Moss,苔藓
 /952583A64C5937ED9C3C07A33AA3456C,Solid Background,纯色背景
@@ -3364,7 +3364,7 @@ Current ideas are either a tunnel or an elevator","目前仍然未定玩家如�
 /A0BC616C427FAC5B1DE8568B5B158176,Cracked Pipe,裂开的管道
 /A0C2941946D08048496544B4E2311DB8,Dr. White,怀特博士
 /A0C76AC04F1BEC5E91E46BA1ADB1D84B,Lean Right,向右倾斜
-/A0FC330E478AADA287070DA0BDEC8065,Purple Hand,紫色手
+/A0FC330E478AADA287070DA0BDEC8065,Purple Hand,紫手
 /A117A0ED4B2D8C938073E786D0B38FB0,Dr. White,怀特博士
 /A11B743741289F3D49B3268299182490,Rock Piles,岩石堆
 /A120802040E9038EEC0DC7B7552300CD,06_SafeHaven_E,06_安全避难所_E
@@ -3807,7 +3807,7 @@ or images easily.",*你可以轻松创建一个视频或图片的播放列表。
 /BAED47C64553BD23C5A9B6BF1304DB22,Long hall check,长走廊检查
 /BB0885F144DC85600739FDB24F35DF44,Overlapped by FLARE! Should be scared retreating!,被FLARE覆盖!应该害怕并后退!
 /BB1722B94EFC5AC81C72E8B4A829D9E3,Mask,面具
-/BB1E78BD4A62042648E6C9BDE0C33BE0,Small toys can be scared away using Flare Hand Charges,使用信号灯手电可吓跑小型玩具
+/BB1E78BD4A62042648E6C9BDE0C33BE0,Small toys can be scared away using Flare Hand Charges,使用照明弹手可吓跑小型玩具
 /BB2538BB418F0FB744D60BA44440736A,LS_DoeySideQuest_01,LS_多伊支线任务_01
 /BB85456E4EE0B29EF544F6AD7F154002,"(Audio Only) (After Minecart)
 
@@ -3856,7 +3856,7 @@ LIGHTING","LOCAL
 /BDE3C18848718817779B6F91FF16580E,Dead Guard,死亡守卫
 /BDF092B9406337681DEB8BBFA55C3260,GreenStripe,绿条纹
 /BDFBA15D463830AAFF1985BC40ECE89C,02_A_ToyGraveyardScare,02_A_玩具墓地惊吓
-/BE07DF8A4DC90269657AC2B4501C6128,Power Up Machine Stations via Hand Scanners (0/3),通过掌上扫描仪启动机器站(0/3)
+/BE07DF8A4DC90269657AC2B4501C6128,Power Up Machine Stations via Hand Scanners (0/3),通过手掌扫描仪启动机器站点(0/3)
 /BE1312C84B6710D796E05989B3D897CF,Get up.,站起来。
 /BE2BD303449D65BA81B1F385D372C6F4,Play "{tapename}",播放「{tapename}」
 /BE3CB37E45B66238DEC3FC9BAB323259,Poppy & Doey conversation from Safe Haven,波比和多伊在《安全港》中的对话
@@ -4045,7 +4045,7 @@ Door",滑动门
 /C97FD1164F990D6589A557BF07D73AD9,Objective 6 Marker,目标6标记
 /C985FAF846161C7EE71D83A37FC54D0C,Doctor Laughs,博士笑
 /C99002634638FF7FE1114BBC4DCF345B,NO POWER,没电
-/C994B2BE4FC3F2B333A43480D6032DC4,Blue Hand,蓝色手
+/C994B2BE4FC3F2B333A43480D6032DC4,Blue Hand,蓝手
 /C99F5F114982A5438257159DDA4DCEDE,MI_StandardTilling_Post,MI_标准平铺_后处理
 /C9AE1E66486521AD66FCFDB634D38FFF,Outsource Manager,外包经理
 /C9C03D0D47C177D5EE1AD8A0A0A6C593,Objects,物体
@@ -4224,7 +4224,7 @@ Switch","电源
 /D19DAC684614943CE0B786B17A35C17E,Freeze Doey,冻结多伊
 /D1AA7DCF494A77051EDEB980371B4A53,PlasticWallDirty,塑料脏墙
 /D1B06378493C1CC374AB3BB1BD147197,Exp 820,实验820
-/D1D1813949AB4F7150E71E99D9EEE7A2,Blue Hand,蓝色手
+/D1D1813949AB4F7150E71E99D9EEE7A2,Blue Hand,蓝手
 /D1FC12F745A084816CBF27971E779446,03_Environment_M5,03_环境_M5
 /D209448C4B15FD3C121F419C301444C4,Critter Entry Tunel,小生物入口隧道
 /D20A1B94420A1C4065C1D0AFB05AF11B,LS_DoeyZiplineLanding,LS_多伊滑索降落
@@ -4257,7 +4257,7 @@ Once the player has the Carriable replacement handle, they can slot it into the 
 /D3A7C65243ADA654C5677B82F4164A70,Technical Designer,技术设计师
 /D3B34C5F432C5FD5628B709324BA3A0C,Stop Track,停止音轨
 /D3B5AAAF4ECD230FEBFBBC8A0E63F05F,Leith Pierre,雷思·皮埃尔
-/D3D55491449823CAE9E22EB12C0CC62F,"Found in the School of Playcare, the Flare Hand allows for basic defensive abilities and the illumination of dark spaces.",在Playcare学校发现的Flare Hand可提供基本防御能力，并照亮黑暗空间。
+/D3D55491449823CAE9E22EB12C0CC62F,"Found in the School of Playcare, the Flare Hand allows for basic defensive abilities and the illumination of dark spaces.",在Playcare学校发现的照明弹手可提供基本防御能力，并照亮黑暗空间。
 /D3D6A1A749B1F985C7F4659697FAFF59,Room check,房间检查
 /D3D6C1CC4115238ABDB6A5BD793FF0BF,Doey Scream heard from Safe Haven,安全天堂听到多伊的尖叫声
 /D3ED32A64D4C24923CBF7EA030514CF9,02_Environment_A4,02_环境_A4
@@ -4639,7 +4639,7 @@ Spawner","微笑
 /EA545A004BA3B3EFDC1B34B2433F01C9,Rust,铁锈
 /EA558C0A4286F3433E2469B937AA8116,Finish crouch <br> tutorial,完成蹲下教程<br>
 /EA60B96840CDDBC7E47C6B9FA7F42119,Title,标题
-/EA61E8104908C994CB471EA13A9B3D75,Power Up Machine Stations via Hand Scanners (2/3),通过掌上扫描仪启动机器站(2/3)
+/EA61E8104908C994CB471EA13A9B3D75,Power Up Machine Stations via Hand Scanners (2/3),通过手掌扫描仪启动机器站点(2/3)
 /EA6C6D0E40140897E334FD838F2C3384,Warden:,典狱长:
 /EAA1FBAB49D66B9AF9ED1594BF8FDCFE,"Trigger Elevator Door 
 After Toy Terminal Sacrifice","触发电梯门
@@ -4821,7 +4821,7 @@ CRITICAL SYSTEM FAILURE!","警告!
 /F3A3E14549FCC007C786EDBD951F969A,Long hallway,长走廊
 /F3D986334F29F551F268F0B3D967BC59,Moss,苔藓
 /F43BE7804A91DA4B72948AB8AE7753FE,Power Box 2 Manager,电源盒2号管理员
-/F44D462F430245216B54368C893AFFB4,Flare Hand Safety Video,照明弹之手安全视频
+/F44D462F430245216B54368C893AFFB4,Flare Hand Safety Video,照明弹手安全视频
 /F457CBD34A00BCAEB7497D9E7443EB83,{Percent}%,{Percent}%
 /F46F96F144B6C8376E6DAC9C3273A1F4,Always Right,始终向右
 /F4768FD048752F771F78778078EC324D,"P-F
@@ -5730,7 +5730,7 @@ DT_VHS_Eddie/VHS_Eddie_41_Line,Together.,一起。
 DT_VHS_Eddie/VHS_Eddie_42_Line,"I’m a businessman, Mr. Silva. And I don’t like to get angry.",我是商人，席尔瓦先生。我不喜欢发火。
 DT_VHS_Eddie/VHS_Eddie_43_Line,I get paid to see that things get done.,我的任务就是确保事情完成。
 DT_VHS_Eddie/VHS_Eddie_44_Line,"And this, like everything else, will get done.",而这一点，和其他一切一样，都会完成。
-DT_VHS_FlareHand/VHS_FlareHand_01_Line,[Flare Hand],[照明手]
+DT_VHS_FlareHand/VHS_FlareHand_01_Line,[Flare Hand],[照明弹手]
 DT_VHS_FlareHand/VHS_FlareHand_02_Line,[Press the Hand Trigger to launch built-in flares.],[按下扳机以发射内置照明弹。]
 DT_VHS_FlareHand/VHS_FlareHand_03_Line,"[In dark areas, use flares to light your path forward.]",[在黑暗区域，使用照明弹照亮你前进的道路。]
 DT_VHS_FlareHand/VHS_FlareHand_04_Line,"[Rope, oil, and other resources can be burnt on contact.]",[绳索、油等资源接触后可被点燃。]
