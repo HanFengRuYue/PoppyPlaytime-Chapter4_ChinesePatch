@@ -14,25 +14,21 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Run BuildPAK.cmd
-        run: .\BuildPAK.cmd
-
-      # List all files in the current directory after running BuildPAK.cmd
-      - name: List all files
-        if: always()
-        run: Get-ChildItem -Recurse -Name
+      - name: Run BuildPAK.ps1
+        run: .\BuildPAK.ps1
+        shell: powershell
 
       # 检查生成的 .pak 文件是否存在
       - name: Check if .pak file exists
         id: check-pak
         run: |
-          if not exist "ch4_pro-Windows_p.pak" (
-            echo "::error::Build failed: ch4_pro-Windows_p.pak not found"
+          if (-not (Test-Path "ch4_pro-Windows_p.pak")) {
+            Write-Error "Build failed: ch4_pro-Windows_p.pak not found"
             exit 1
-          ) else (
-            echo "Pak file generated successfully"
-          )
-        shell: cmd
+          } else {
+            Write-Host "Pak file generated successfully"
+          }
+        shell: powershell
 
       # 打包 .pak 文件为 ZIP 压缩包
       - name: Compress .pak file
