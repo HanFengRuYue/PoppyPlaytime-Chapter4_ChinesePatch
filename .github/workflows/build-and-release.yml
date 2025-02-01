@@ -40,8 +40,8 @@ jobs:
         id: create_release
         uses: softprops/action-gh-release@v1
         with:
-          tag_name: PoppyPlaytime-Chapter4中文补丁测试版v${{ github.run_number }}
-          name: PoppyPlaytime-Chapter4中文补丁测试版v${{ github.run_number }}
+          tag_name: PoppyPlaytime-Chapter4中文补丁测试版v${{ steps.formatted_time.outputs.formatted_date }}
+          name: PoppyPlaytime-Chapter4中文补丁测试版v${{ steps.formatted_time.outputs.formatted_date }}
           files: ch4_pro-Windows_p.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
