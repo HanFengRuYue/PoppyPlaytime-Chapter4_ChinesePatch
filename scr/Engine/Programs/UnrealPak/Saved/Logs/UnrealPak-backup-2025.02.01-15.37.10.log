@@ -1,0 +1,109 @@
+﻿Log file open, 02/01/25 23:37:10
+LogGenericPlatformMisc: Warning: Failed to determine engine directory: Defaulting to 
+LogTrace: Initializing trace...
+LogTrace: Finished trace initialization.
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-5EFFC30E4D6C425FD043E1A2CF31F6E4
+         Session CrashGUID >====================================================
+LogInit: ExecutableName: 1UnrealPak.exe
+LogInit: Build: ++UE5+Release-5.3-CL-29314046
+LogInit: Engine Version: 5.3.2-29314046+++UE5+Release-5.3
+LogInit: Compatible Engine Version: 5.3.0-27405482+++UE5+Release-5.3
+LogInit: Net CL: 27405482
+LogInit: OS: Windows 11 (24H2) [10.0.26100.2894] (), CPU: AMD Ryzen 7 9700X 8-Core Processor             , GPU: NVIDIA GeForce RTX 4060 Ti
+LogInit: Compiled (64-bit): Nov  3 2023 16:35:48
+LogInit: Architecture: x64
+LogInit: Compiled with Visual C++: 19.36.32537.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.3
+LogInit: Command Line: ..\..\..\ch4_pro-Windows_p.pak -Create=lista.txt -compressed
+LogInit: Base Directory: D:/Document/GitProject/PoppyPlaytime-Chapter4_ChinesePatch/scr/v11.27/2/3/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 0
+LogInit: This binary is optimized with LTO: no, PGO: no, instrumented for PGO data collection: no
+LogDevObjectVersion: Number of dev versions registered: 36
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 47
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 111
+LogDevObjectVersion:   FortniteValkyrie (8DBC2C5B-54A7-43E0-A768-FCBB7DA29060): 2
+LogDevObjectVersion:   FortniteSeason (5B4C06B7-2463-4AF8-805B-BF70CDF5D0DD): 10
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 11
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 118
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 47
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 100000 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2025.02.01-15.37.10:786][  0]LogInit: Computer: HANFENGDESKTOP
+[2025.02.01-15.37.10:786][  0]LogInit: User: huang
+[2025.02.01-15.37.10:786][  0]LogInit: CPU Page size=4096, Cores=8
+[2025.02.01-15.37.10:786][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.02.01-15.37.10:786][  0]LogMemory: Memory total: Physical=31.1GB (32GB approx)
+[2025.02.01-15.37.10:786][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2025.02.01-15.37.10:786][  0]LogMemory: Process Physical Memory: 49.86 MB used, 49.86 MB peak
+[2025.02.01-15.37.10:786][  0]LogMemory: Process Virtual Memory: 107.80 MB used, 107.80 MB peak
+[2025.02.01-15.37.10:786][  0]LogMemory: Physical Memory: 12341.00 MB used,  19520.33 MB free, 31861.33 MB total
+[2025.02.01-15.37.10:786][  0]LogMemory: Virtual Memory: 17271.55 MB used,  19709.77 MB free, 36981.33 MB total
+[2025.02.01-15.37.10:787][  0]LogAssetRegistry: FAssetRegistry took 0.0000 seconds to start up
+[2025.02.01-15.37.10:787][  0]LogUObjectArray: 337 objects as part of root set at end of initial load.
+[2025.02.01-15.37.10:787][  0]LogUObjectAllocator: 63144 out of 0 bytes used by permanent object pool.
+[2025.02.01-15.37.10:787][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.02.01-15.37.10:787][  0]LogInit: Using OS detected language ().
+[2025.02.01-15.37.10:787][  0]LogInit: Using OS detected locale ().
+[2025.02.01-15.37.10:787][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.02.01-15.37.10:787][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.02.01-15.37.10:787][  0]LogInit: Using OS detected language ().
+[2025.02.01-15.37.10:787][  0]LogInit: Using OS detected locale ().
+[2025.02.01-15.37.10:787][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.02.01-15.37.10:787][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.02.01-15.37.10:787][  0]LogPakFile: Display: Using command line for crypto configuration
+[2025.02.01-15.37.10:787][  0]LogPakFile: Engine only spawned 14 worker threads, bumping up to 15!
+[2025.02.01-15.37.10:788][  0]LogPakFile: Display: CompressionFormats in priority order: Zlib
+[2025.02.01-15.37.10:788][  0]LogPakFile: Display: Loading response file lista.txt
+[2025.02.01-15.37.10:788][  0]LogPakFile: Error: Failed to load lista.txt
+[2025.02.01-15.37.10:788][  0]LogPakFile: Display: Added 0 entries to add to pak file.
+[2025.02.01-15.37.10:788][  0]LogPakFile: Display: Collecting files to add to pak file...
+[2025.02.01-15.37.10:788][  0]LogPakFile: Display: Collected 0 files in 0.00s.
+[2025.02.01-15.37.10:788][  0]LogPakFile: Display: Creating pak ../../../ch4_pro-Windows_p.pak.
+[2025.02.01-15.37.10:788][  0]LogPakFile: Display: Created empty pak file: ../../../ch4_pro-Windows_p.pak
+[2025.02.01-15.37.10:788][  0]LogPakFile: Display: Writer and Compression Threads exited.
+[2025.02.01-15.37.10:788][  0]LogPakFile: Display: UnrealPak executed in 0.001779 seconds
+[2025.02.01-15.37.10:802][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2025.02.01-15.37.10:802][  0]LogExit: Preparing to exit.
+[2025.02.01-15.37.10:802][  0]LogExit: Object subsystem successfully closed.
+[2025.02.01-15.37.10:802][  0]LogModuleManager: Shutting down and abandoning module TelemetryUtils (10)
+[2025.02.01-15.37.10:802][  0]LogModuleManager: Shutting down and abandoning module CoreUObject (8)
+[2025.02.01-15.37.10:802][  0]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2025.02.01-15.37.10:802][  0]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2025.02.01-15.37.10:802][  0]LogPakFile: Destroying PakPlatformFile
+[2025.02.01-15.37.10:802][  0]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2025.02.01-15.37.10:802][  0]LogExit: Exiting.
+[2025.02.01-15.37.10:815][  0]Log file closed, 02/01/25 23:37:10
