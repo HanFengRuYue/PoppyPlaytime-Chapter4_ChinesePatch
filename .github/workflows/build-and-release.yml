@@ -3,46 +3,59 @@ name: Build and Release
 on:
   push:
     branches:
-      - main
-  workflow_dispatch:
+      - main # 触发条件：推送到 main 分支时运行
+  workflow_dispatch: # 允许手动触发
 
 jobs:
-  build:
-    runs-on: windows-latest
+  build-and-release:
+    runs-on: windows-latest # 使用 Windows 环境
 
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v3
+      # 安装 Visual C++ Redistributable
+      - name: Install Visual C++ Redistributable
+        run: |
+          Invoke-WebRequest -Uri "https://aka.ms/vs/17/release/vc_redist.x86.exe" -OutFile "vc_redist.x86.exe"
+          Start-Process -FilePath "vc_redist.x64.exe" -ArgumentList "/install /quiet /norestart" -Wait
+          Remove-Item -Path "vc_redist.x64.exe"
+        shell: powershell
 
-    - name: Set up UnrealPak
-      run: |
-        # 如果需要，你可以下载并解压UnrealPakSwitchv10工具包
-        # 假设工具已经放在仓库中，跳过下载步骤
+      # 检出代码
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-    - name: Run CMD script
-      run: |
-        # 执行所有CMD命令
-        cmd /c "
-        UnrealPakSwitchv10\UnrealLocres.exe import UnrealPakSwitchv10\Game.locres Game.csv
-        move \"UnrealPakSwitchv10\Game.locres.new\" \"UnrealPakSwitchv10\ch4_pro\Content\Localization\Game\en\"
-        del \"UnrealPakSwitchv10\ch4_pro\Content\Localization\Game\en\Game.locres\"
-        rename \"UnrealPakSwitchv10\ch4_pro\Content\Localization\Game\en\Game.locres.new\" \"Game.locres\"
-        UnrealPakSwitchv10\v5.3\2\3\UnrealPak.exe ..\..\..\..\ch4_pro-Windows_p.pak -Create=..\..\..\ch4_pro.txt -compress
-        "
+      # 运行 Build.cmd 脚本
+      - name: Run Build.cmd
+        run: .\Build.cmd
+        shell: cmd
 
-    - name: Zip the output file
-      run: |
-        # 使用powershell打包生成的ch4_pro-Windows_p.pak文件为zip
-        powershell Compress-Archive -Path "ch4_pro-Windows_p.pak" -DestinationPath "ch4_pro-Windows_p.zip"
+      # 检查生成的 .pak 文件是否存在
+      - name: Check if .pak file exists
+        id: check-pak
+        run: |
+          if not exist "ch4_pro-Windows_p.pak" (
+            echo "::error::Build failed: ch4_pro-Windows_p.pak not found"
+            exit 1
+          ) else (
+            echo "Pak file generated successfully"
+          )
+        shell: cmd
 
-    - name: Get current date for release title
-      id: date
-      run: |
-        echo "::set-output name=date::$(date +'%Y-%m-%d_%H-%M-%S')"
+      # 打包 .pak 文件为 ZIP 压缩包
+      - name: Compress .pak file
+        run: |
+          $pakFile = "ch4_pro-Windows_p.pak"
+          $zipFile = "ch4_pro-Windows_p.zip"
+          Compress-Archive -Path $pakFile -DestinationPath $zipFile
+          echo "Compressed file: $zipFile"
+        shell: powershell
 
-    - name: Upload zip to GitHub Releases
-      uses: ncipollo/release-action@v1
-      with:
-        tag: 'v1.0.0'  # 你可以根据需要调整版本号
-        files: 'ch4_pro-Windows_p.zip'
-        name: 'PoppyPlaytime-Chapter4中文补丁-${{ steps.date.outputs.date }}'
+      # 创建 Releases 并上传压缩包
+      - name: Create Release and Upload Asset
+        id: create_release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: PoppyPlaytime-Chapter4中文补丁测试版v${{ github.run_number }}
+          name: PoppyPlaytime-Chapter4中文补丁v$(Get-Date -Format 'yyyyMMddHHmmss')
+          files: ch4_pro-Windows_p.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
