@@ -1,2 +1,2 @@
 # PoppyPlaytime-Chapter4_ChinesePatch
-波比的游戏时间第四章中文补丁项目
+波比的游戏时间第四章中文化项目
