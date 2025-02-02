@@ -2142,7 +2142,7 @@ Doey will form a landing pad here for the player","着陆垫
 /626C71134A2CBF1C903EC09502F9DD4E,Roaches,蟑螂
 /626F4DF646C3C5617335AC8C4542573F,TransitionToEnter,过渡到进入
 /628F68714143DEAC076C718418DD1A79,Train Leaves,火车离站
-/62A9BA56441F293759EB6DAB61EFECBA,Odd Ed,怪异的艾德
+/62A9BA56441F293759EB6DAB61EFECBA,Odd Ed,怪异艾德
 /62C21D2A41501BE686284FAA7E59D90F,03_Environment_A3,03_环境_A3
 /62C3454C4BC93661B1955C9DB34AFE03,Brazilian Portuguese,巴西葡萄牙语
 /62D6940F49F7425C44DEABAEE10A236E,RockRubble,碎石堆
@@ -2285,7 +2285,7 @@ Six weeks from the time of receiving this letter, return to the Playtime Co. fac
 /6BDE75124B33FEDA231D4F8903878E20,FLARE HAND,照明弹手
 /6BEA4B7F4A4DFE5A4A498FAF8F79AE5A,16_Environment_A,16_环境_A
 /6BEC37774FFA2F9C7205A4A12A57335A,Full Level,全关卡
-/6BFE7BA74D9B0360A79AF59C996CD1E8,Approach the Gap to Squeeze Through,靠近缝隙以挤过去
+/6BFE7BA74D9B0360A79AF59C996CD1E8,Approach the Gap to Squeeze Through,靠近缝隙挤过去
 /6C360ABE4F4509E3E11217832500490C,Return to Safe Haven,返回安全港
 /6C5294F24FC70A68B41EC2942C7D9918,"If you would like to see every BP_Item that currently exists in the game, you can find them at
 
@@ -3183,7 +3183,7 @@ So that I’ll know, wherever I go now (hopefully to my parents) that I fulfille
 /978E7F05468ED6A57D2E698FB242DC1E,03_Environment_J,03_环境_J
 /97AC98024FEE2088AC8F0C825BCE9A5D,Audio Project Manager,音频项目经理
 /97EECF8142088B3DB76A9F941FF058B3,Smooth,平滑
-/97F8BACD4A1E08EEFDF5BEB8F9715BC3,Hand Wheel: <input id="/PoppyPlugin/Core/Input/Actions/IA_QuickMenu.IA_QuickMenu"></> Quick Swap: <input id="/PoppyPlugin/Core/Input/Actions/IA_SwapHand.IA_SwapHand"></>,手轮: <input id="/PoppyPlugin/Core/Input/Actions/IA_QuickMenu.IA_QuickMenu"></> 快速切换: <input id="/PoppyPlugin/Core/Input/Actions/IA_SwapHand.IA_SwapHand"></>
+/97F8BACD4A1E08EEFDF5BEB8F9715BC3,Hand Wheel: <input id="/PoppyPlugin/Core/Input/Actions/IA_QuickMenu.IA_QuickMenu"></> Quick Swap: <input id="/PoppyPlugin/Core/Input/Actions/IA_SwapHand.IA_SwapHand"></>,换手轮盘: <input id="/PoppyPlugin/Core/Input/Actions/IA_QuickMenu.IA_QuickMenu"></> 快速切换: <input id="/PoppyPlugin/Core/Input/Actions/IA_SwapHand.IA_SwapHand"></>
 /9817F9114FF677A283D381855DACEF79,Guard 1:,警卫 1:
 /9834BF4B46198AF94A34888A2CB1011C,Checkpoint 8,检查点 8
 /983788F348F8808AAD6DFB9141D89BCD,"INSUFFICIENT GAS FLOW DETECTED
@@ -3675,7 +3675,7 @@ Dialogue
 /B33575D6424E53DAE67C6CAAB5BF1873,LS_Doey_GeneratorSpeech_02,LS_多伊_发电机演讲_02
 /B3467ABA43FAF345A84E849293695845,Loading...,加载中...
 /B349B3004BCE87AF5DAD95BEC89B8008,MLB_VertexHeightNoiseMask,MLB_顶点高度噪声掩膜
-/B34BAE9440CB78821AABD3B81AFACD0B,Odd Ed:,怪异的艾德:
+/B34BAE9440CB78821AABD3B81AFACD0B,Odd Ed:,怪异艾德:
 /B355F1224E66E21881BA2987E40A07D5,Production Crew,制作组
 /B389D7C4469FFF0A45C3D880A324CEFC,XXX DEPRICATED,XXX 已弃用
 /B39021004CC3E1EB1D21838533DB6344,SmoothMIn,SmoothMIn
@@ -3807,7 +3807,7 @@ or images easily.",*你可以轻松创建一个视频或图片的播放列表。
 /BAED47C64553BD23C5A9B6BF1304DB22,Long hall check,长走廊检查
 /BB0885F144DC85600739FDB24F35DF44,Overlapped by FLARE! Should be scared retreating!,被FLARE覆盖!应该害怕并后退!
 /BB1722B94EFC5AC81C72E8B4A829D9E3,Mask,面具
-/BB1E78BD4A62042648E6C9BDE0C33BE0,Small toys can be scared away using Flare Hand Charges,使用照明弹手可吓跑小型玩具
+/BB1E78BD4A62042648E6C9BDE0C33BE0,Small toys can be scared away using Flare Hand Charges,使用照明弹手可吓跑小玩具
 /BB2538BB418F0FB744D60BA44440736A,LS_DoeySideQuest_01,LS_多伊支线任务_01
 /BB85456E4EE0B29EF544F6AD7F154002,"(Audio Only) (After Minecart)
 
@@ -3878,7 +3878,7 @@ Dispenser","空气
 /BF82690E4508149D79348ABB1E7697AD,LS_01a_PlayerZipLineExit,LS_01a_玩家滑索出口
 /BF8EF684488F68565627089D33775A2B,SewerConcreteRough,SewerConcreteRough
 /BF9614CF4F0E6A6E9C042AA7187BE6C0,{Title_Text},{Title_Text}
-/BF9BED07489EF9BBDD686CBFAC819CE1,Gather and Plant (4) Explosives,收集并安置(4)炸药
+/BF9BED07489EF9BBDD686CBFAC819CE1,Gather and Plant (4) Explosives,收集并安置(4)个炸药
 /BF9EA30C4E6684B35E27148F9D8E3516,Doey Bridge,多伊桥
 /BFB8EF1646E5A9212DB00E91D89F080F,DistortionScale,扭曲比例
 /BFDCD4B844DC386DE9920D85855D1A34,TARGET NOT VALID!,目标无效!
@@ -5023,9 +5023,9 @@ CommonGame/Warning_RequestedSessionFailed,Requested Session Failed,请求的会�
 CommonKeybindWidget/Unbound,Unbound,未绑定
 Doctor_S03_L03_Li02/Doctor_S03_L03_Li02_01_Line,The subject scrambles for an advantage.,受试者在慌乱谋求优势。
 Doctor_S03_L03_Li02/Doctor_S03_L03_Li02_02_Line,They appear lost and disoriented.,他们显得困惑和迷失方向。
-Doctor_S03_L03_Li02/Doctor_S03_L03_Li02_03_Line,"Heavy breathing is indicative of fear, and rightly so.",粗重的喘息表明了恐惧，事实应如此。
-Doctor_S03_L03_Li03/Doctor_S03_L03_Li03_Line,Let's test the response to said fear when pushed into action.,让我们测试一下当被逼入行动时，对这种恐惼的反应。
-Doctor_S03_L03_Li04/Doctor_S03_L03_Li04_01_Line,I have seen enough. Thank you. You may proceed.,我已经看够了。谢谢你。可以继续。
+Doctor_S03_L03_Li02/Doctor_S03_L03_Li02_03_Line,"Heavy breathing is indicative of fear, and rightly so.",粗重的喘息表明了恐惧，事实也是如此。
+Doctor_S03_L03_Li03/Doctor_S03_L03_Li03_Line,Let's test the response to said fear when pushed into action.,让我们测试在被迫行动时对这种恐惧的反应。
+Doctor_S03_L03_Li04/Doctor_S03_L03_Li04_01_Line,I have seen enough. Thank you. You may proceed.,我已经看够了。谢谢。你可以继续了。
 Doctor_S03_L03_Li05/Doctor_S03_L03_Li05_01_Line,Don't fight. Fighting only makes it work quicker.,别反抗。反抗只会让它更快奏效。
 Doctor_S04_L04_Li01/Doctor_S04_L04_Li01_01_Line,"You know, I never thought I'd see another like you.",你知道，我从未想过会再见到像你这样的人。
 Doctor_S04_L04_Li01/Doctor_S04_L04_Li01_02_Line,A human.,一个人类。
@@ -5188,15 +5188,15 @@ DT_Cutout_Yarnaby_06/Cutout_Yarnaby_06_Line,(Music playing),(音乐播放中)
 DT_Doctor_Death_Screen_Li05/Doctor_Death_Screen_Li05_Line,Strange… I’d expected more.,奇怪……我原以为会有更多。
 DT_Doctor_Death_Screen_Li06/Doctor_Death_Screen_Li06_Line,Mortality is the curse of the weak.,死亡是弱者的诅咒。
 DT_Doctor_Death_Screen_Li07/Doctor_Death_Screen_Li07_Line,(chuckle) You will be put to good use.,(轻笑)你会好好利用的。
-DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_01_Line,"Mmmm, now what’s this? Do I feel something squirming its way beneath my skin?",嗯，这是什么?我感觉到有什么东西在皮肤下蠕动吗?
-DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_02_Line,"An invasive, foreign little germ? After all this time?... Ah, but I see…",一个入侵进来的小细菌?过了那么久?... 啊，不过我明白了……
-DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_03_Line,You.,原来是你。
+DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_01_Line,"Mmmm, now what’s this? Do I feel something squirming its way beneath my skin?",嗯，这是什么情况？难道我感觉有东西在我皮肤底下蠕动吗？
+DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_02_Line,"An invasive, foreign little germ? After all this time?... Ah, but I see…",一个入侵的外来小细菌？过了这么久之后还有来者？……啊，原来如此……
+DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_03_Line,You.,是你。
 DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_04_Line,"… Well, little germ, let’s make a game of you. ",……那么，小细菌，让我们来玩个游戏吧。
 DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_05_Line,"You’ve blundered along the shadows above, and only managed to squirm all the way down here but by the barest skin of your teeth.",你跌跌撞撞地穿过了上面的阴影，勉强挣扎到这里，但还是侥幸存活下来了。
 DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_06_Line,There are no shadows here that would be of use to you.,但是这里没有能为你所用的阴影。
 DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_07_Line,Not even the ground beneath your feet is yours.,连你脚下的土地都不属于你。
-DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_08_Line,There are no places you can hide.,没有你能藏身的地方。
-DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_09_Line,Not from me.,这不是我做的。
+DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_08_Line,There are no places you can hide.,你无处可藏-
+DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_09_Line,Not from me.,-尤其是对我而言。
 DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_10_Line,*Laughs*,*笑*
 DT_Doctor_S12_L12_Li08/Doctor_S12_L12_Li08_01_Line,"If you want to leave this room, it’ll come at a cost.",如果你要离开这个房间，需要付出代价。
 DT_Doctor_S12_L12_Li08/Doctor_S12_L12_Li08_02_Line,"It’s this little life, or yours.",要么是这条小生命，要么就是你的命。
@@ -5220,7 +5220,7 @@ DT_Doctor_S13_L13_Li02/Doctor_S13_L13_Li02_02_Line,"The childish fantasy of a na
 DT_Doctor_S13_L13_Li02/Doctor_S13_L13_Li02_03_Line,They won't serve you here. NOTHING can.,它们不会为你服务。这里什么东西都不能。
 DT_Doctor_S13_L13_Li02_Not_Even_The_Ground/Doctor_S13_L13_Li02_Line,Not even the ground beneath your feet,甚至你脚下的土地也不是你的。
 DT_Doctor_S13_L13_Li03/Doctor_S13_L13_Li03_01_Line,I'll bury myself so far down that no one will ever find me! ,我会把自己埋得及其之深，以至于没人能找到我!
-DT_Doctor_S13_L13_Li03/Doctor_S13_L13_Li03_02_Line,Not you. Not the Prototype. Not anyone!,不是你的，不是原型的，也不是任何人的!
+DT_Doctor_S13_L13_Li03/Doctor_S13_L13_Li03_02_Line,Not you. Not the Prototype. Not anyone!,不是你，不是原型，也不是任何人!
 DT_Doctor_S13_L13_Li04/Doctor_S13_L13_Li04_01_Line,It was going to be mine!,那将是我的!
 DT_Doctor_S13_L13_Li04/Doctor_S13_L13_Li04_02_Line,It was ALL going to be MINE! ,那一切都将是我的!
 DT_Doctor_S13_L13_Li04/Doctor_S13_L13_Li04_03_Line,MY discovery! MY recognition! ,我的发现!我的认可!
