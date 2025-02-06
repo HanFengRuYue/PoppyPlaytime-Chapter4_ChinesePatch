@@ -1,4 +1,4 @@
-﻿﻿key,source,target
+﻿key,source,target
 /0009976F4EA6E05D7C0184AFABAE4671,Art Lead,艺术主管
 /001EFF4241704C3A42107DA9EA407818,03_Environment_K,03_环境_K
 /002BC1E94A29DB3757BE8787959C0650,XXX DEPRICATED,XXX 已弃用
@@ -18,7 +18,7 @@
 /0279568B4B8EDBCDC5790688F0EA27D4,LS_PlayLevel2Music,LS_播放第二层音乐
 /027D44E342EB1FAD586A09BF9B84E20D,Option 1,选项1
 /029510744AE2CAF269EAE1A38D4608DC,This terminal unlocks the upper catwalk doors for both the north and south autopsy rooms. The doors should not actually open until the player approaches them.,该终端解锁南北解剖室上方的通道门。在玩家靠近它们之前，这些门实际上不应打开。
-/02AB577445462F5757E8B1ACEB07ABFA,Radial Wheel,径向轮
+/02AB577445462F5757E8B1ACEB07ABFA,Radial Wheel,圆轮
 /02CD55D64A57E7ACF8A60782589903BE,Checkpoint,检查点
 /02D5441F46078D1A375B0CB56EDE9D34,Gas explosion testing,气体爆炸测试
 /02DB1ECE44592DCB6BFE73BB7FE38806,Objective 14 Marker,目标14标记
@@ -83,7 +83,7 @@ Nitrogen",液氮
 /05E37CC648AC64510F01BA9D26E605D2,LS_DoctorHeadquartersIntro,LS_博士总部引入
 /05EF1A4044F14E7F71028287586136A6,Full Level,全关卡
 /06014F7E41A66D6BD7365D913260BE32,14_Environment_A2,14_环境_A2
-/06273C85464E97A791273BB8AA709CEA,An overview of Matthew Hallard in accordance with Project: Doey,根据项目:多伊对Matthew Hallard的概述
+/06273C85464E97A791273BB8AA709CEA,An overview of Matthew Hallard in accordance with Project: Doey,根据项目:多伊，对马修哈拉德的概述
 /06294BE24F633A1BEDA396A38B66C54C,SteamDeck,SteamDeck
 /0647605240D4F9093200FFA799945F93,Characters,角色
 /0659486A45D5B8FB390FCF9AA3C9135B,Parents are reunited with their son,父母和儿子重聚
@@ -480,7 +480,7 @@ SCANNER SETUP.","请勿删除!
 /1AFD460D4DA5E3037D30279198B36B64,B Channel,B通道
 /1B06A6334B5306877186DF9336501F03,Stella,斯黛拉
 /1B11AA03425CEB5366006D9DC07B8293,This is where we should trigger the Gas Mask auto-drop sequence.,这里是我们应该触发防毒面具自动掉落序列的地方。
-/1B1B43DF4D015C62D3ECD5B9B74C36B6,Return to Safe Haven,返回安全港
+/1B1B43DF4D015C62D3ECD5B9B74C36B6,Return to Safe Haven,返回避风港
 /1B3732A24BDC5B68606DF68AA18C8E26,Burning this rosemary needs to update the dialogue that plays when you enter Picky Piggy's trigger box.,燃烧这迷迭香需要更新你进入挑剔小猪触发箱时播放的对话。
 /1B43D71048288FA0285CB6AE7962EC5F,Cole Vaughn,科尔·沃恩
 /1B46A490466F17C0410F9390A9BC8DF2,"Rubble pile from the explosion in the previous level.
@@ -563,9 +563,9 @@ At this rate, it’s believed 1172 will not need corrective intervention (medica
 
 Transfer Destination: Storage B
 
-Department: Production","<Bold>每周检查:1172</>
+Department: Production","<Bold>每周检查报告：1172号</>
 
-截止至1994年12月23日的周报
+截止日期：1994年12月23日
 
 <widget id=""Line""/>
 
@@ -583,15 +583,15 @@ Department: Production","<Bold>每周检查:1172</>
 
 - 自主神经系统过度活跃（急性应激反应）
 
-- 呈现颤抖、呼吸急促和注意力下降的发作症状
+- 表现为颤抖、呼吸急促和注意力下降的发作症状
 
 <widget id=""Line""/>
 
 观察报告:
 
-当提供书写工具时，1172（尽其所能）表达了极度的压力、末日即将到来的感觉，以及想要返回之前住处的强烈愿望。这些报告的情绪（及伴随症状）始于1172被转移到The Shelf之后，最初使其无法完成分配的任务。
+当提供书写工具时，1172号尽其所能表达了高度压力、即将崩溃的感觉，以及想要返回之前住处的强烈愿望。这些报告的情绪（及伴随症状）始于1172被转移到The Shelf之后，最初使其无法完成分配的任务。
 
-然而，最近1172表现出逐渐但稳定的好转。研究人员注意到情绪发作的次数减少，发作持续时间也缩短了。这改善的一个因素被认为是定时安排与其他受试者的监管社交时间。这一措施是Stella Greyber亲自提出的，不仅对1172，还对其他几位受试者产生了积极的影响。
+然而，最近1172表现出逐渐但稳定的好转。研究人员注意到情绪发作的次数减少，发作持续时间也缩短了。这改善的一个因素被认为是定时安排与其他受试者的监管社交时间。这一措施是斯黛拉·格雷伯亲自提出的，不仅对1172，还对其他几位受试者产生了积极的影响。
 
 对象继续摩擦手臂上的毛皮，很可能是无意识中对压力的反应。
 
@@ -601,15 +601,17 @@ Department: Production","<Bold>每周检查:1172</>
 
 按此进展速度，可以认为1172最终将不需要进行矫正干预（无论是药物还是其他方式）。虽然仍报告有负面情绪，但受试者已经恢复到可以继续完成任务的功能状态。目前，研究团队建议在安静的环境中进行体力工作。
 
-[    ] 矫正手术预约名单
-[    ] 无变化
-[ X ] 转移出去
+[    ] 等待纠正程序
+
+[    ] 维持现状
+
+[ X ] 转移
 
 <widget id=""Line""/>
 
 <Italic>由部门主管填写</>
 
-转移目的地:B储存区
+转移目的地:储存区B
 
 部门:生产部"
 /1D0452114E4B9B5E9071B08AE50A4E68,InsertBattery,插入电池
@@ -630,7 +632,7 @@ Department: Production","<Bold>每周检查:1172</>
 /1E6468F04187B785B00CD88B2A3DB2D6,GAME SAVING,游戏存档
 /1E88B1DD43D5E3DF9C355FA18F2ABCD4,Category,类别
 /1EB7E20340EEEE299DD6B4A7B1B72800,LS_HandScannerDisabled,LS_手持扫描仪禁用
-/1ED769EA4DBBE274ED3D7FA0BE7F101A,Are you sure you want to exit the game?,您确定要退出游戏吗?
+/1ED769EA4DBBE274ED3D7FA0BE7F101A,Are you sure you want to exit the game?,你确定要退出游戏吗?
 /1EF4C46F4A81CD17D95724ADA65812CA,Executive Producer,执行制片人
 /1F0662B9435CCCA0BD0431A7BBF8C1DB,%,
 /1F0938B8453792F6B8DEE595590E0512,COMPLETED,已完成
@@ -703,7 +705,7 @@ Department: Production","<Bold>每周检查:1172</>
 /248BF0AA4D4ED78E5948E3976297FDA8,14_Environment_C3,14_环境_C3
 /24955F8A4065947E7787C18B90FF8B94,Lorem ipsum dolor sit amet consectetur. Cras id sapien venenatis id sit at praesent enim id ante. Suspendisse nam massa tristique pulvinar eget. Diam ac ante tincidunt arcu maecenas.,Lorem ipsum dolor sit amet consectetur. Cras id sapien venenatis id sit at praesent enim id ante. Suspendisse nam massa tristique pulvinar eget. Diam ac ante tincidunt arcu maecenas.
 /24AF843E4223CDD4B60B4F8A58B5F50D,Room check,房间检查
-/24BBB3CB47F765F9E5F1C494558199EB,Swing: Grab the Handle and Hold <input id="/PoppyPlugin/Core/Input/Actions/Grabpack/IA_Grab_Pack_Ability_Left.IA_Grab_Pack_Ability_Left"></> or <input id="/PoppyPlugin/Core/Input/Actions/Grabpack/IA_Grab_Pack_Ability_Right.IA_Grab_Pack_Ability_Right"></>,摆动:抓住把手并按住<input id="/PoppyPlugin/Core/Input/Actions/Grabpack/IA_Grab_Pack_Ability_Left.IA_Grab_Pack_Ability_Left"></> 或 <input id="/PoppyPlugin/Core/Input/Actions/Grabpack/IA_Grab_Pack_Ability_Right.IA_Grab_Pack_Ability_Right"></>
+/24BBB3CB47F765F9E5F1C494558199EB,Swing: Grab the Handle and Hold <input id="/PoppyPlugin/Core/Input/Actions/Grabpack/IA_Grab_Pack_Ability_Left.IA_Grab_Pack_Ability_Left"></> or <input id="/PoppyPlugin/Core/Input/Actions/Grabpack/IA_Grab_Pack_Ability_Right.IA_Grab_Pack_Ability_Right"></>,荡过去:抓住把手并按住<input id="/PoppyPlugin/Core/Input/Actions/Grabpack/IA_Grab_Pack_Ability_Left.IA_Grab_Pack_Ability_Left"></> 或 <input id="/PoppyPlugin/Core/Input/Actions/Grabpack/IA_Grab_Pack_Ability_Right.IA_Grab_Pack_Ability_Right"></>
 /24BFB86747A83543E6362DB30EB13083,Graphics 2,图形 2
 /24DC108540005A1BADB0B1AFF90EF63B,You're stronger than this. ,你比这更强。
 /24EE2D9543CB3743F296519AB1FD7F33,Knocking Jumpscare,敲门惊吓
@@ -733,7 +735,7 @@ Prototype’s been finding ways past the traps. Don’t know how. Have to keep c
 
 He was <Italic>right outside</> the door last night. Just staring and tapping at the wall. All I can think about since is that clanking of metal, those spidery legs, <Italic>that face</>.
 
-We’ve double checked every entrance, made sure this place is good and locked down. Still, who knows how long these defenses will last. We’re completely surrounded now. All sides, even above and below. Nowhere left to run to, no place left to hide; end of the line. ","原型体找到了绕过陷阱的方法。不知道是怎么做到的。必须不断改变布局才能将它挡在外面。
+We’ve double checked every entrance, made sure this place is good and locked down. Still, who knows how long these defenses will last. We’re completely surrounded now. All sides, even above and below. Nowhere left to run to, no place left to hide; end of the line. ","原型找到了绕过陷阱的方法。不知道是怎么做到的。必须不断改变布局才能将它挡在外面。
 
 昨晚它就在门<Italic>外头</>。只是站在那里盯着，用肢体敲打墙壁。自那以后我就满脑子都是那金属的哐当作响声，那些像蜘蛛腿一样的肢体，还有<Italic>那张脸</>。
 
@@ -745,7 +747,7 @@ We’ve double checked every entrance, made sure this place is good and locked d
 /26E64BB740D1A224CCD464A4D6992115,03_Environment_M7,03_环境_M7
 /26EE06954381679ABEB240AB86FB42F5,Room check,房间检查
 /2704A936402A83CC5ADCB6848E91229C,Exit Game,退出游戏
-/271599FD42351685879FBCBB8FB71813,Specialist 1:,专家1:
+/271599FD42351685879FBCBB8FB71813,Specialist 1:,专家#1:
 /27328D1C43C60D1C6CD9E4B857D8BA49,Long hallway,长走廊
 /2733359B4906757CAD29E49E71D5BFD6,Doey,多伊
 /27347A2546B68149DECA69B15FAC28E6,"
@@ -786,8 +788,8 @@ Dr. Harley Sawyer","<Bold>行为:</>
 /275D0FE5413E067B8C702DA8433ABE38,Objective 25 Marker,目标25标记
 /276329174615002CEEC8D3AB3B4B2A07,Previous,上一个
 /277162E34BDD5D3624C30BA829272388,ScaredRetreat,吓退撤退
-/27726C734462F4DE5325689CE2B17407,LS_Poppy_DoesntHaveOmniHand,LS_Poppy_没有全能手
-/277424E84D68BB4757AA01BBD4B0C1E8,SAFE HAVEN,安全避难所
+/27726C734462F4DE5325689CE2B17407,LS_Poppy_DoesntHaveOmniHand,LS_Poppy_没有万能手
+/277424E84D68BB4757AA01BBD4B0C1E8,SAFE HAVEN,安全的避风港
 /27900D184FCC43AFC91097A995F89B41,"
 “Being chosen.” The other kids talk about it a lot. I still don’t know what that’s about exactly. If it means being adopted, I’m not sure I even want that. 
 
@@ -904,14 +906,14 @@ PIPE","冲水
 /2B77C76944BD3935DB42E78032269302,StartSpawning,开始重生
 /2B9B0DA94873DB094FB68895A77D132A,Long Hallway,长走廊
 /2B9C7B7C4BB2BF8B3F647DB806829F0D,Insert keycard here to bypass Power Blocker device and open EXT2 door.,在此插入门禁卡以绕过电力阻挡装置并打开EXT2门。
-/2BC68D82432CE61EA0DB2F8955A1E433,FPS ,每秒帧数
+/2BC68D82432CE61EA0DB2F8955A1E433,FPS ,FPS：
 /2BCF5C344E5F9D32C0362F96A18CCC02,"Deprecated!
 Use LevelSequenceTrigger instead!","已弃用!
 请改用LevelSequenceTrigger!"
 /2BFC13D44B78B74D42732BABED9F4DBD,Kid:,孩子:
 /2C1E0B094EE36A80ADBDFCB94E198E45,NEW GAME,新游戏
 /2C29C72A42C6C2653ABB80A987314C30,MSS_DIA_Toy_Seven_S06_L06_Line02,MSS_DIA_Toy_Seven_S06_L06_Line02
-/2C30882A44F63D79717B51A445C4EB92,Project Overview: Safe Haven,项目概述:安全港
+/2C30882A44F63D79717B51A445C4EB92,Project Overview: Safe Haven,项目概述:避风港
 /2C3806A44BC4AD5459EA07BA5EE13BC4,0,
 /2C6FC78147F7977672ACF89D0347D363,Room check,房间检查
 /2C7F2CD841E32C62AF94428649ACAD1D,Lean Left,向左倾斜
@@ -958,17 +960,17 @@ Little choice. No path out. Casualties high. Only one place left. I hope we can 
 可能有和无人区一样的冷冻陷阱。不能这样对多伊。他是唯一保护我们的人。博士安置这些陷阱时就知道这一点。
 
 <Bold>牢房区</> –
-<Strikethrough>北区</> - 那里是最恶劣的。博士在用那个地方。我们没机会。
+<Strikethrough>北区</> - 那里是最恶劣的。博士在控制的地方。我们没机会。
 
-<Strikethrough>东区</> - 岗哨和障碍物似乎完好无损。完全在博士的掌控下，而且到处都是狂暴者。已经损失太多人了。
+<Strikethrough>东区</> - 岗哨和障碍物似乎完好无损。但完全在博士的掌控下，而且到处都是狂暴者。已经损失太多人了。
 
 <Strikethrough>东北区</> - 四面的大门都被堵死了。我平时的那些招数全都没用。感觉……不对劲。
 
-<Strikethrough>西区</> - 所有牢房里都有骷髅和爪痕。看来这里关过人。是在「时刻」之后。不能让小孩子们看到这个。
+<Strikethrough>西区</> - 所有牢房里都有骷髅和爪痕。看来这里关过人。不能让小孩子们看到这个。
 
 <Strikethrough>西北区</> - 太多糟糕的回忆。我们需要的是希望，而不是绝望。
 
-<Strikethrough>营房</> - 或许有独立的应急电源。设计用来杀死我们的安保系统（或许能关闭）。
+<Strikethrough>营房</> - 或许有独立的应急电源。但设计有用来杀死我们的安保系统（或许能关闭）。
 
 我们只能在确定会死的地方和可能不会死的地方之间选择。对我来说，这很简单。
 
@@ -1079,7 +1081,7 @@ Shackle Receiver","镣铐
 /343AE4B54FA75F23C9B5198FA34AB88D,Time duration (seconds),时间持续(秒)
 /344082FB40F83C2B977212916988E84C,9,
 /3444024444298F35E159ADB41C18B0C1,280 cm,280厘米
-/3454285345838F7C8B0A7BA65CA3B4C9,Project Overview: “Safe Haven”,项目概述: 「安全港湾」
+/3454285345838F7C8B0A7BA65CA3B4C9,Project Overview: “Safe Haven”,项目概述: 「安全避风港」
 /346C2A9E403F34E550B549B3C0EF0249,Torso,躯干
 /34712F21443A24FD98BE85AB74AB3303,PPLevelSequenceActor_WardenOfficeCritterSkitter2,PP关卡序列角色_典狱长办公室生物爬行2
 /348C16FA4523145BDE0DC6A3EBBE1349,Film/TV,电影/电视
@@ -1097,7 +1099,7 @@ PRESSURE RISING","警告!
 /358562EB41CB224A0D376E9BA2697098,Secondary Lab Mission Statement,辅助实验室任务声明
 /3589C8C74DEEA6C0C5B454807BED057A,Back,返回
 /358F558B442D95D7BB9A6FADC67B4836,Rich acclimates to a new role,里奇适应了新角色
-/3596DC6C46BFBE8235FE299C27ABB9C2,Are you sure you want to reset all settings to their default values?,您确定要将所有设置重置为默认值吗?
+/3596DC6C46BFBE8235FE299C27ABB9C2,Are you sure you want to reset all settings to their default values?,你确定要将所有设置重置为默认值吗?
 /35A2A8A4424FDFA6B74CE5B2C756AAEE,MI_Tint,MI_色调
 /35A5F04946E4CDCE712077AC49664F26,06_SafeHaven_B,06_安全避难所_B
 /35B4D6E9453CEBB44341FFB7324B7DA4,"Liquid
@@ -1287,22 +1289,22 @@ Claire Harper
 
 <widget id=""Line""/>
 
-<Italic>(He IS a good candidate for 1322C, should his personality mesh with the other two. But please, be gentle if you pick him. He’s a fine young man. The future we’re fighting for would be a waste if we sacrifice too many like him. -Stella)</>","Matthew Hallard 可以说是一个完美的梦想孩子。
+<Italic>(He IS a good candidate for 1322C, should his personality mesh with the other two. But please, be gentle if you pick him. He’s a fine young man. The future we’re fighting for would be a waste if we sacrifice too many like him. -Stella)</>","从许多方面来说，马修·霍尔德是一个“梦想之子”。
 
-他深思熟虑、善良、体贴、善解人意。虽然在智力上可能不如其他孩子（在学校的成绩只能达到 B 到 C 的水平），身体素质也不算突出，但他凭借迷人的魅力和号召力完全弥补了这些不足。
+他体贴、善良、善解人意。虽然他在学业上可能不如其他孩子优秀（平均成绩在B到C之间），也没有特别突出的体力，但他凭借自己的魅力和气质弥补了这些不足。
 
-在这里，没有人不喜欢这个男孩。可惜的是，他来到我们这里时已经十五岁了，正处于青春期。大多数领养者通常会选择更小的孩子。但马修很理解这一点。
+这里几乎没有人不喜欢这个孩子。遗憾的是，他来时已经15岁，正处于青春期，很多家长更倾向于领养年纪更小的孩子。他明白这一点。
 
-尽管他不常提及，但我知道 Matthew 有着深刻的不安全感。我看过关于那场事故的报告——他无法挽救自己的家人，因此深感自责。我相信他正在走向痊愈的路上，但这条路还很漫长。而且，<Underline>每个人</>的悲痛方式都不一样。
+尽管他很少谈论，但我知道马修内心深处有很多不安。我读过事故报告，那场事故让他来到这里。他一直责怪自己没能保住自己的家庭。我相信他在康复的路上，但这条路还很漫长。而且，<Underline>每个人</>的悲痛方式都不一样。
 
-然而，他已经成为年幼孩子们的领导者。他甚至会在下午很晚的时候给他们读书（我们也默许了，抱歉）。「词汇巫师的冒险」是他的最爱。当他调解 Playhouse 里的争执时，孩子们都听他的，几乎他说的每一个字都能引起共鸣。当他承担起这个角色时，我认为这就是他所需要的。如果他长大离开这里，我甚至可能申请让他加入员工队伍。
+尽管如此，他已经成为小孩子们的领导者，甚至在下午很晚的时候给他们读书（我们允许他这样做，抱歉）。《单词巫师的冒险》是他最喜欢的书。他在“游乐屋”里化解争斗时，孩子们都听他的，几乎每个字都是金玉良言。看着他这样，担任这样的角色，我觉得这就是他需要的。如果他到了年龄限制，我甚至可能会请求让他加入我们的工作人员。
 
 签名:
 Claire Harper
 
 <widget id=""Line""/>
 
-<Italic>（如果他的性格与另外两个孩子契合，他将是 1322C 的一个很好的候选人。但如果你们选中了他，请务必要温柔一些。他是一个优秀的年轻人。如果我们牺牲了太多像他这样的孩子，那我们为之奋斗的未来就毫无意义了。 -Stella））"
+<Italic>（他确实是“1322C”项目的理想人选，如果他的性格与其他两人相合的话。但是，请温柔地对待他，如果你们选中了他。他是个好孩子，我们为之奋斗的未来如果失去了太多像他这样的人，那将是一场悲剧。——斯特拉)</>"
 /3CDC5AA449922F6FD58F109456F845EE,A team of specialists clean up a mess,一支专业团队清理了一团混乱
 /3D1A052B4542D8BD640F72961410C43D,Full Level,全关卡
 /3D2EF36C4C80FF53E4B876B55862D38D,"SHOCK
@@ -1387,7 +1389,7 @@ Doey is already up ahead moving thru the hallways He ushers the player on before
 
 多伊已经提前在走廊里移动了，他示意玩家继续前进，随后快步进入侧室。"
 /40102CBE460042734090FB946E8B6BB1,"Found in the Security Room on the 1st Floor, the Blue Hand allows for basic employee access and manueverability. ",在1楼的安全房间发现的蓝手可提供员工基本通行和操作能力。
-/40154A5F459FD4AA35FCA7A0712B84D3,LS_Poppy_HasOmniHand1,LS_Poppy_有全能手1
+/40154A5F459FD4AA35FCA7A0712B84D3,LS_Poppy_HasOmniHand1,LS_Poppy_有万能手1
 /403ACDFC46D5E584E02B0693B9948B1A,Electric Crackle,电流噼啪声
 /407C4212475161F98BB2FEB0FAD7A798,Systems Administrator,系统管理员
 /40A4E53B40B9FC3A4FAAB58F99D573FB,LS_DestroyAlarm,LS_摧毁警报
@@ -1407,7 +1409,7 @@ sight of the player","在玩家视线之外后隐藏蹦床
 /412960D9409C82D7A5EBF79785632FB3,LS_Temp_HuggyChase,LS_临时_Huggy追逐
 /412A4EFE43419E077122669383F06E73,Yarnabee,亚娜比
 /414388BA46F8EA23FDEA24976629E915,Trash,垃圾
-/4166C48044D72B293D9C38A282AEF09E,Are you sure you want to load the selected save?,您确定要加载所选存档吗?
+/4166C48044D72B293D9C38A282AEF09E,Are you sure you want to load the selected save?,你确定要加载所选存档吗?
 /4169E3FE4B575722365DF6AA8200E9F9,Yarnaby breaks down a fence and leave the room through a ventilation hole near the ground,亚娜比撞开围栏并从地面附近的通风孔离开房间
 /4171674646D7ED21F55CDE8DBD324AB6,06_SafeHaven_H,06_安全避难所_H
 /417D9873432737496B395BB0C1C48318,"Blockable
@@ -1514,7 +1516,7 @@ Red Smoke Volumes","防毒面具
 /4563B48B4F39E611CEEA649415EDD3ED,Set Next Wave Data,设置下一波数据
 /4565A6924BC176760631D4A6E9500956,Warrenbach,沃伦巴赫
 /458102764AC5517DCB4E2DA3E1A24433,Sprint,冲刺
-/458A99C54E0B09DA0BD3B0874281EB3F,Specialist 3:,专家3:
+/458A99C54E0B09DA0BD3B0874281EB3F,Specialist 3:,专家#3:
 /4599D08442A3F83B15414F8198B005B3,Large area,大区域
 /45B21C274FA7DF47096A3692A64FF33E,LS_Temp_HordeSurvivalEnding,LS_临时_尸群生存结局
 /45B30BD94E15DF47902212AF59218134,MLB_MaskOverlay,MLB_掩膜叠加
@@ -1690,9 +1692,9 @@ Medallion","正确的
 /4F0D52734D74CBD9AA471E8F64CB5E7D,"RESTRICTED
 ACCESS","受限的
 通道"
-/4F11B2224B6B0EEAE2DA568C0817F483,Open Hand-Radial Wheel,打开手-径向轮
+/4F11B2224B6B0EEAE2DA568C0817F483,Open Hand-Radial Wheel,打开换手轮盘
 /4F14B3CC4B9615963C63948FAD48F09F,LS_MoveSidleIntoPlace,LS_移动侧滑到位
-/4F2B349B4977CC6221F5EDB2CEE942FF,INSERT OMNI-CHIP,插入全能芯片
+/4F2B349B4977CC6221F5EDB2CEE942FF,INSERT OMNI-CHIP,插入万能芯片
 /4F461EC7488548FF35A62DBBB5172F4B,NotScanned,未扫描
 /4F509DA84ADB519D99CDB798444DABB3,Scientist 3:,科学家3:
 /4F7F68BF4BB8207EA7C9599B882F7EDF,Presentation type,展示类型
@@ -1752,7 +1754,7 @@ ACCESS","受限的
 /53867E694997427CAB192499B694C442,Start Yarnaby sequence,启动亚娜比序列
 /538729314F02D6299760019926D8A869,Level stream check,关卡流检查
 /538E19204D8AE2BE556844AA803A7872,03_Environment_Q,03_环境_Q
-/53BCBB574D2FEDDB671555AE7D428029,Omni-Red Hand,全能力红手
+/53BCBB574D2FEDDB671555AE7D428029,Omni-Red Hand,万能力红手
 /53C24AFF49DCEAC7D1FA808EB1E2037A,Laundry & Showers,洗衣房和淋浴间
 /53D282834199D6CC4D0F57B8D89B05EE,Workyard Dialogue,工地对话
 /53DE309849866E2E11EA839627FFD953,SETTINGS TITLE,设置标题
@@ -1837,8 +1839,8 @@ Also a Critter Jump Point","不要挡住这条视线
 PLEASLOW","检测到气体流量不足
 请启动气体流动"
 /5777A67B467EEB0DB2ECDF969A07353E,Project Manager,项目经理
-/578C0EFC41E9831609C9849F53EFAF78,Safe Haven,安全避难所
-/579FC9E5449308FF7BED1B909CB67D78,06_SafeHaven_A,06_安全避难所_A
+/578C0EFC41E9831609C9849F53EFAF78,Safe Haven,安全避风港
+/579FC9E5449308FF7BED1B909CB67D78,06_SafeHaven_A,06_安全避风港_A
 /57A1D708460263815C37169B49FD9BBC,"<Bold>Weekly Checkup: 1424</>
 
 Week ending 4/21/95
@@ -1969,7 +1971,7 @@ Department: ","<Bold>每周检查:1424</>
 /59071E05489D1217E1F92F86EBA16C6B,16_Environment_E1,16_环境_E1
 /5925936B46C4A5A9DC3E7D9511640041,5,
 /59718DB746D57330F2D4F5933159B895,02_Environment_B1,02_环境_B1
-/597848114FF29992B7F4FFA1269E4803,"Further into a hell of Playtime's making, you enact Poppy's plan for revenge against the Prototype...",为了更深入游戏时间制造的地狱，你实施了波比对原型的复仇计划……
+/597848114FF29992B7F4FFA1269E4803,"Further into a hell of Playtime's making, you enact Poppy's plan for revenge against the Prototype...",为了更深入游戏时间公司制造的地狱，你实施了波比对原型的复仇计划……
 /5983A46E43AAAC711B8BBB9C994B7039,M_LEDScreen,M_显示屏
 /599173754689326EFFF89E9469D2A6BA,Green Keycard,绿色门禁卡
 /59A3D91F40E11F3A9E5D519EB492686B,Load Game,加载游戏
@@ -2153,7 +2155,7 @@ Doey will form a landing pad here for the player","着陆垫
 /6325292D477BAF36A2E681956895D1BB,Long Hallway,长走廊
 /6381B1A943E059F5395EA7B977CE3A8F,Scout,童子军
 /63A89A4845B6A2E6082C229914A77D82,11_CritterTunnels_Default,11_小动物隧道_默认
-/63B2C0D84058116059E514A0323321E3,Specialist 4:,专家4:
+/63B2C0D84058116059E514A0323321E3,Specialist 4:,专家#4:
 /63D96E4A457A8DD6006AD8BFCE0BE88C,CanisterShoot,罐射击
 /63DB25EF4F0906827ABBCD9A24022C3E,LS_Temp_DoeyTransformation_ch14,LS_临时_多伊变身_ch14
 /63DCE4E849329723B898D6A1EC20A957,"(Event Tags 5-6) Upon reaching this point in the hall, a cinematic plays of Kissy pulling you into the break in the wall to hide from the Prototype. Afterwards, the player continues through the crack, passes through the Laundry & Shower rooms, then enters Safe Haven.",(事件标签 5-6) 当到达走廊的这个位置时，会播放Kissy将你拉入墙上的裂缝以躲避原型体的电影画面。之后，玩家穿过裂缝，经过洗衣房和淋浴室，然后进入安全港。
@@ -2185,7 +2187,7 @@ B站"
 /664DC21D470E5ADA73BFECA39378DD10,Cancel Settings,取消设置
 /6653578F43A81768DC31A1B71A8F1C69,These monitors should have the icon of the Doctor's watchful eye. If it's within scope to have different simple animations like blinking or crying it could give a more dynamic feel.,这些显示器应该有博士的警惕之眼的图标。如果在范围内有不同的简单动画，比如眨眼或哭泣，可能会带来更动态的感觉。
 /6659F86A4EFBC0EECC3087BFED768C06,Glass view with rooms,带房间的玻璃视图
-/666B8D5B44CF53C7CBA8949470E9DCB3,Are you sure you want to reset all settings in this category to their default values?,您确定要将此类别的所有设置重置为默认值吗?
+/666B8D5B44CF53C7CBA8949470E9DCB3,Are you sure you want to reset all settings in this category to their default values?,你确定要将此类别的所有设置重置为默认值吗?
 /6679B55543D4DB720FAC968C8B675CE9,YellowStripe,黄色条纹
 /6689CD94442A3F4A0DA98A8324976868,03_Environment_D,03_环境_D
 /668C3CB0449D5350FA74498EA13719DC,Producer,制作人
@@ -2217,7 +2219,7 @@ OPERATIONS","深层
 /685BB59C4AFC94B74D4AFD8A8BCFE473,Long hall check,长走廊检查
 /686BD7374C205E567FEF46BDAF01AE1D,Middle of room check,房间中央检查
 /689B33224C8E6935740CE9B5A255F9E3,Voice Director,配音导演
-/68C2F9B84CAB7017344FA29523BDF4AC,LS_Poppy_HasOmniHand,LS_Poppy_有全能手
+/68C2F9B84CAB7017344FA29523BDF4AC,LS_Poppy_HasOmniHand,LS_Poppy_有万能手
 /68CA6566421B8EF5ADBA05AACAD9035C,DirtyBlocks,脏块
 /68D91C0D4A3C4A4E3B53589CE55FB8F1,02_A_critter_death10,02_A_小生物死亡10
 /690B22BE4B9A9C99F7C2D0B02EC57C36,03_Environment_C1,03_环境_C1
@@ -2246,7 +2248,7 @@ The length and shape of this tunnel is subject to change based on narrative or t
 /6A42383247F1C726DE6A08A04F8A18C8,Mask R,面具 R
 /6A5A3B5E424F7BE972C285B1EFC155B7,Ollie_S13_L06_i11,奥利_S13_L06_i11
 /6A5FC8D545F4EE04DF4676BC452E25E3,"Are you sure you want to quit?
-Any unsaved progress will be lost.","您确定要退出吗?
+Any unsaved progress will be lost.","你确定要退出吗?
 未保存的进度将会丢失。"
 /6A6907E046E1E295A1A56392A3F28A6E,Doey_Rumble_02,多伊_轰鸣_02
 /6A7A7DD64A936EC9B0D90D94D89BFC86,LS_Doey03_OfficeGrate,LS_多伊03_办公室格栅
@@ -2286,7 +2288,7 @@ Six weeks from the time of receiving this letter, return to the Playtime Co. fac
 /6BEA4B7F4A4DFE5A4A498FAF8F79AE5A,16_Environment_A,16_环境_A
 /6BEC37774FFA2F9C7205A4A12A57335A,Full Level,全关卡
 /6BFE7BA74D9B0360A79AF59C996CD1E8,Approach the Gap to Squeeze Through,靠近缝隙挤过去
-/6C360ABE4F4509E3E11217832500490C,Return to Safe Haven,返回安全港
+/6C360ABE4F4509E3E11217832500490C,Return to Safe Haven,返回避风港
 /6C5294F24FC70A68B41EC2942C7D9918,"If you would like to see every BP_Item that currently exists in the game, you can find them at
 
 content >  ch4_pro > maps >  Dev >  Gym_PickupObjects","如果你想要查看游戏中目前存在的每一个BP_Item，你可以在以下路径找到它们：
@@ -2329,7 +2331,7 @@ It can’t be true. I’ve seen what those things can do. I mean, they’re 12 f
 
 It’s silly. It’s stupid. And whatever Stanley’s trying to say, he’s wrong.","上周，斯坦利在值班时遭到袭击。他是这里少数的好人之一。他甚至对那些东西感到同情。他总是尽力在换班时偷偷给它们带糖果和玩具。他以为我们大多数人都没注意到，但其实我们都看在眼里。
 
-这个心软的白痴以为可以在下班后偷偷给博克西喂食。就这么大摇大摆地走进了牢房。要不是附近有几名携带镇静剂的警卫，他可能就出不来了。
+这个心软的白痴以为可以在下班后偷偷给惊吓盒子喂食。就这么大摇大摆地走进了牢房。要不是附近有几名携带镇静剂的警卫，他可能就出不来了。
 
 事发后的第二天早上，我去医务室看望了他，想看看他是否还好。我一直知道这家伙有点脑残，但竟然直接走进一间牢房?还是一个那么大的实验体的牢房?这也太他妈蠢了。
 
@@ -2361,7 +2363,7 @@ Box","电源
 /6DEF5C9E40D5DE7B9570418FC5F3BAD8,Porting Engineer,移植工程师
 /6E03075A4FDEEA8FF79782AD2E4F3D75,PURPLE HAND,紫手
 /6E10DAF547358BB5D868E6921EB0B321,Player will need to insert the proper gears in order to complete the connection and get all the gears turning.,玩家需要插入正确的齿轮，以完成连接并让所有齿轮转动起来。
-/6E2F1A474090DA61E17AB0970C19E9B2,Are you sure you want to delete this save? Any progress will be lost.,您确定要删除这个存档吗?所有进度将会丢失。
+/6E2F1A474090DA61E17AB0970C19E9B2,Are you sure you want to delete this save? Any progress will be lost.,你确定要删除这个存档吗?所有进度将会丢失。
 /6E42858E4F64FC7C5CCF0B91AEEFF84C,Search,搜索
 /6E8BB3274F05D46811290385D8AFE4C3,"Key
 Card","Key
@@ -2388,7 +2390,7 @@ Card"
 /6F8699D54CD5FF535F93B292D0409FA0,"Omni-Receiver
 and
 Failsafe Protocol
-Chipset","全能力接收器
+Chipset","万能力接收器
 和
 保险协议
 芯片组"
@@ -2547,7 +2549,7 @@ Barricaded Wing","通往
 /76D8C19B4999792B78A814B3CA5DADA1,"420 cm
 hunched","420厘米
 弯腰"
-/76DE13A1458661A86F3C69A79A07A361,Specialist 5:,专家5:
+/76DE13A1458661A86F3C69A79A07A361,Specialist 5:,专家#5:
 /76E2B1C1451E17BD948C2B8191176A55,NS_NitrogenBurst,NS_氮气爆发
 /76E6854F4CD7EE8A9A5E02B18FD5D23E,Doctor Dialogue 6,博士对话6
 /76E9E9BF4072A6FD0F1FDDACE1B57724,PRECOMPILING SHADERS,着色器预编译中
@@ -2586,7 +2588,7 @@ Player will see Doey ushering the player to follow him & he goes left.","多伊�
 /790464084A150EF32E1AB39D1213F339,Start the Gas,开始释放毒气
 /79091CDF43F2400BBF069D997BA8C553,Technical Audio Designer,技术音频设计师
 /791E4E3D43BDF008AC50BB967ED81295,Gas Mask,防毒面具
-/791F48054241DC2608C20B97A074A6C3,Get to the Safe Haven,前往安全避难所
+/791F48054241DC2608C20B97A074A6C3,Get to the Safe Haven,前往安全避风港
 /791F7F574A4EFA553C2AE7A0BF711EF7,Space between roles,角色之间的间距
 /79246CA64EFD193B6396E1A4C1E72F11,"Yarnaby
 Cant Jumpscare
@@ -2655,7 +2657,7 @@ RESEARCH","机密
 /7BAD1D184EE476A103A1B69E918410F9,Toy 4:,玩具 4:
 /7BB9391644E4D2434044B59402D4F873,3D Animation Team,3D动画团队
 /7BF0508248C57D80FBC46291D56E40A4,LS_DoctorsDomain_Section2_TurnOffLiquidNitrogenTrap,LS_博士领域_第二区域_关闭液氮陷阱
-/7C17C74C4E6FD0375A5D32AA9928C916,Acquire the Omni-Hand Upgrade,获取全能手升级
+/7C17C74C4E6FD0375A5D32AA9928C916,Acquire the Omni-Hand Upgrade,获取万能手升级
 /7C2FBEF04599A5EBFBBE37A65FA8FDEB,Warrenbach:,沃伦巴赫:
 /7C3687C847AFD895D15131ABA71DDF56,Projectile,抛射物
 /7C3695B74ECD4B23F886D58D2F3A6B59,%,
@@ -3163,9 +3165,9 @@ What’s important:
 -That my life mattered to someone. 
 
 Why:
-So that I’ll know, wherever I go now (hopefully to my parents) that I fulfilled a little of what I said I would, and made life just a little better for someone else, even if this place took everything else.","这个地方是一座监狱。我不知道我原本以为它会是什么样子，但绝对不是这样的。我是说，我到底做错了什么?他们把我变成这样，然后把我关进了一个牢房。这里肯定有成百上千，甚至上万的其他人。这是怎么发生的?
+So that I’ll know, wherever I go now (hopefully to my parents) that I fulfilled a little of what I said I would, and made life just a little better for someone else, even if this place took everything else.","这个地方是一座监狱。我不知道我原本以为它会是什么样子，但绝对不是这样的。我是说，我到底做错了什么?他们把我变成这样，然后把我关进了一个牢房。这里肯定有成百上千，甚至上万的人。这是怎么发生的?
 
-这里没有食物，只有尸体，而我拒绝吃他们。
+这里没有食物，只有尸体，而我不要吃他们。
 
 火车，就是它把所有人带到这里来的。列车长已经死了，但他有一把钥匙，一把能让火车移动的钥匙。我不知道其他地方是否还有人，或者他们是否打算带着更多像我这样的人回来。我要拿走那把钥匙，确保再也不会有人被带到这里来。我会把它藏在一个没人能找到的地方。
 
@@ -3183,7 +3185,7 @@ So that I’ll know, wherever I go now (hopefully to my parents) that I fulfille
 /978E7F05468ED6A57D2E698FB242DC1E,03_Environment_J,03_环境_J
 /97AC98024FEE2088AC8F0C825BCE9A5D,Audio Project Manager,音频项目经理
 /97EECF8142088B3DB76A9F941FF058B3,Smooth,平滑
-/97F8BACD4A1E08EEFDF5BEB8F9715BC3,Hand Wheel: <input id="/PoppyPlugin/Core/Input/Actions/IA_QuickMenu.IA_QuickMenu"></> Quick Swap: <input id="/PoppyPlugin/Core/Input/Actions/IA_SwapHand.IA_SwapHand"></>,换手轮盘: <input id="/PoppyPlugin/Core/Input/Actions/IA_QuickMenu.IA_QuickMenu"></> 快速切换: <input id="/PoppyPlugin/Core/Input/Actions/IA_SwapHand.IA_SwapHand"></>
+/97F8BACD4A1E08EEFDF5BEB8F9715BC3,Hand Wheel: <input id="/PoppyPlugin/Core/Input/Actions/IA_QuickMenu.IA_QuickMenu"></> Quick Swap: <input id="/PoppyPlugin/Core/Input/Actions/IA_SwapHand.IA_SwapHand"></>,换手圆轮: <input id="/PoppyPlugin/Core/Input/Actions/IA_QuickMenu.IA_QuickMenu"></> 快速切换: <input id="/PoppyPlugin/Core/Input/Actions/IA_SwapHand.IA_SwapHand"></>
 /9817F9114FF677A283D381855DACEF79,Guard 1:,警卫 1:
 /9834BF4B46198AF94A34888A2CB1011C,Checkpoint 8,检查点 8
 /983788F348F8808AAD6DFB9141D89BCD,"INSUFFICIENT GAS FLOW DETECTED
@@ -3408,7 +3410,7 @@ ACCESS","受限的
 /A39E34AA42F35A268240A18E9BFB266C,Leith Pierre,雷思·皮埃尔
 /A3A12E4944FFF4BF12F8E785014C156B,LS_HeadRoll,LS_头颅滚动
 /A3AAFD774EE07CA4AD6249BFD262064D,06_SafeHaven_J1,06_安全避难所_J1
-/A3C869B0453A137003C6DF924D5E5D58,Investigate the Control Room,调查控制室
+/A3C869B0453A137003C6DF924D5E5D58,Investigate the Control Room,检查控制室
 /A3D5B5A048E8ACF30829419C35529C75,Playtime.Objectives.Objective46,游戏时间.目标.目标46
 /A41BF7E1404DD3BE6DD7268D1335CF22,Delete Save Game,删除存档游戏
 /A420F90D417046D94C199899C13355D4,Toy pile check - end of room,玩具堆检查 - 房间结束
@@ -3611,7 +3613,7 @@ CENTER","关键
 /AE40530843FB9031CF3D73B8174F94A3,8,
 /AE40B5EE497EC2C0DF6B31A2FE4873AE,These 4 sequences work together,这4个序列协同工作
 /AE4968AD4A9F676EA22B91ABBCBE7653,Long hallway,长走廊
-/AE53FE2F48F83F7548620FB6983BD172,OmniHand,全能力之手
+/AE53FE2F48F83F7548620FB6983BD172,OmniHand,万能力之手
 /AE638DAA490BC26368365399CAEDE796,Cody,科迪
 /AE6B04924EF60B0EDDFEFE8B7A058D37,Key Grip,主控操作员
 /AEB761A948CF7BDF449DC588C246C19F,Riley adjusts to her transformation,莱利适应她的转变
@@ -3684,7 +3686,7 @@ Dialogue
 /B3C590AC4C89D467B7D22F9720EECBF4,LS_Poppy_01_New,LS_波比_01_新
 /B3C7145243811F54A79CCE92B32A4B20,08_Environment_C4,08_环境_C4
 /B3F03389465968BC8E757B86BA41A844,Additional Voice Actors,额外配音演员
-/B3F9248E442CB9E928455E995603D18A,Specialist 2:,专家2:
+/B3F9248E442CB9E928455E995603D18A,Specialist 2:,专家#2:
 /B40C7AB747AAB3DA37E9B1A8F8BEBBA7,Full Level,全关卡
 /B413A7294813D8678DDA7D836F6773CE,Logo fade-in,标志淡入
 /B4247B8543BEEA92F4C342A5A5E893D8,Big Room looking at some glass,看向玻璃的大房间
@@ -3761,7 +3763,7 @@ Doey will form a landing pad here for the player","着陆垫
 /B864E69440A7CA74459C61B976475F63,02_Environment_A2,02_环境_A2
 /B86DBB814ED87DE3B4092DBC9A97733B,TilesDamaged,TilesDamaged
 /B882AFF24822EF2DAD71D68B9A1B5AE3,Containers,容器
-/B88ACD2A4DCE0AC6ADCA35AD097660C2,Omni-Chip,全能力芯片
+/B88ACD2A4DCE0AC6ADCA35AD097660C2,Omni-Chip,万能力芯片
 /B8A77458473D682C70E8B98DDCD39186,Full Level,全关卡
 /B8BDA3724520559A19FEEFA53D5B31E0,Pressurized Steam,加压蒸汽
 /B8C2FB5144B2E719D5A34882BBEA57FC,LS_04_YarnabeeSighting_02,LS_04_亚娜比目击事件_02
@@ -3789,7 +3791,7 @@ Control System","气体流动
 /BA1F989F48458AD286884B9CBED8DAD8,Room check,房间检查
 /BA4FCDE9401B349B4ECCFDB7C0FC6CA9,"<Bold>Project Name:</> Safe Haven
 <Bold>Project Manager:</> Darwin Silva
-<Bold>Project Lead:</> Cyril Warrenbach","<Bold>项目名称:</> 安全避难所
+<Bold>Project Lead:</> Cyril Warrenbach","<Bold>项目名称:</> 安全避风港
 <Bold>项目经理:</> 达尔文·席尔瓦
 <Bold>项目主管:</> 西里尔·沃伦巴赫"
 /BA98479B41197E4A3A0DA7BF031A7B19,Jump: <input id="/PoppyPlugin/Core/Input/Actions/IA_Jump.IA_Jump"></>,跳跃: <input id="/PoppyPlugin/Core/Input/Actions/IA_Jump.IA_Jump"></>
@@ -4203,7 +4205,7 @@ CENTER","关键
 /D0C842CB4FF54BD2DAE8358FD5B9B1E6,4,
 /D0C8C6B542CA71C0ABB82BA7711BB72E,Reset To Defaults,恢复默认设置
 /D0EB4D0B4C4BB829EF0889AF503BB7F8,06_SafeHaven_F2,06_安全避难所_F2
-/D0F0871543EB6695956176BBD169F3A4,Key Items will be needed to open select doors or progress interactions,关键物品将用于打开特定门或推进交互
+/D0F0871543EB6695956176BBD169F3A4,Key Items will be needed to open select doors or progress interactions,关键物品将用于打开特定的门或推进交互
 /D0F6286E49781CD09311CEB49DF90670,Checkpoint 1,检查点1
 /D114557F48E4815EA4B98DB6E225628D,822,
 /D12AC31F4D14C34E751B1F981B278112,POWER ON,电源开启
@@ -4310,7 +4312,7 @@ Once the player has the Carriable replacement handle, they can slot it into the 
 /D860BCCC432A2F81DA5B63BAED9194D6,Falling Dust,坠落的尘埃
 /D866FDBE4CE830B34865719B0929A5FA,Enter Description,输入描述
 /D87F94594B2912C86B5E1282BF1E3B8A,Play music playlist,播放音乐列表
-/D88E1D6A4122914679330A9B2FD157BD,Place a Battery into the Receiver to Restore Power,在接收器中放置一块电池以恢复电源
+/D88E1D6A4122914679330A9B2FD157BD,Place a Battery into the Receiver to Restore Power,在接收器中放置一块电池来恢复电源
 /D8B4377D469641E01E2A128B4178123C,MSA,MSA
 /D8CB355445854B07B1FEC4B943A04E19,Follow the Golden Path.,沿着金光大道前进。
 /D8E006AD46CBB7AA5A433D9AB854B1A7,Back,返回
@@ -4456,7 +4458,7 @@ Putting in the correct code will open this safe to reveal a lever for them to ta
 /DFDD7B244A416C0E4D1722AC8D08BCC6,Doey points to the hole below here,多伊指向这里下面的洞
 /DFF84B02464B93445B32C0BA45733EB4,Timer for wave spawning set,设置了波浪生成计时器
 /DFF8A6E14AD9347FEC2170821FA6C8CC,Move Right,向右移动
-/E006DCCD438071D376B4F6ADAD5DFBF1,The Omni-Hand features 4 charges that can be used to activate specific receptacles throughout the factory,全能手装置有4次充能，可以用来激活工厂中特定的接收器。
+/E006DCCD438071D376B4F6ADAD5DFBF1,The Omni-Hand features 4 charges that can be used to activate specific receptacles throughout the factory,万能手装置有4次充能，可以用来激活工厂中特定的接收器。
 /E00C67D54B510E8892DCABAA9EFD9EAD,ENTER CODE,输入代码
 /E020B5CB4395237CAB14DA9395C33926,8,
 /E03220AB4BA391C2199D72BF4E73E58B,Jump,跳跃
@@ -4597,7 +4599,7 @@ TEMPERATURE CRITICAL","警告!
 /E80C85C747B7DE2BD91B348A2263D33E,Doey,多伊
 /E811F9434E57D9857E318C8B96CBAFFE,Ollie_S13_L06_i07,奥利_S13_L06_i07
 /E85AB60C4FF53E2CFA38769D9D059A8A,Boy #1,男孩#1
-/E876B4EA4B3E308112969FA6E612D152,"A key used by the guard, unlocking access to different Shelf Blocks",警卫使用的钥匙，解锁通往不同「架子区块」的通道
+/E876B4EA4B3E308112969FA6E612D152,"A key used by the guard, unlocking access to different Shelf Blocks",警卫使用的钥匙，解锁通往不同「监狱区域」的通道
 /E87E10B945DA0AFE4A646A93D5DA53DC,03_Environment_D,03_环境_D
 /E88900EA4C172C1BFBDFCD8069861CEA,1,
 /E8B4F60B4B5DA8931DA573976C2CDEE1,StopSpawning,停止重生
@@ -4894,7 +4896,7 @@ Trampolines","隐藏
 /F90EEFA346ABF797F72287AADE0BF0E8,Playtime.Objectives.Objective11Real,游戏时间.目标.目标11真实版
 /F90F284E488D90902C5324B2DE87D9BD,Playtime.Objectives.Objective17,游戏时间.目标.目标17
 /F913349E43B88E8E5C32AEA71BF58C92,Doors,门
-/F91757F94302605FE74CEB92CED5A48E,"Taken from The Doctor following his defeat, the Omni-Hand allows executive access to anywhere and anything in the factory",在击败博士后从他手中取得的全能之手，能够执行在工厂内任何地方和所有事物的访问权限。
+/F91757F94302605FE74CEB92CED5A48E,"Taken from The Doctor following his defeat, the Omni-Hand allows executive access to anywhere and anything in the factory",在击败博士后从他手中取得的万能手，能够执行在工厂内任何地方和所有事物的访问权限。
 /F91D3B4F4D142BED0622B29F7A17BB9E,"INTAKE
 PIPE","入口
 管道"
@@ -4959,7 +4961,7 @@ PAL复合输出
 /FC298B1B4423C1B8CEE71EBD88DC58C0,"Guards 
 Display","警卫 
 Display"
-/FC485A804D26B14CD338CD826926EDD9,A key used by Maintenance staff to fix electrical issues in the Safe Haven Utility Zone,维护人员使用的钥匙，用于修复安全避难所公用区域的电力问题
+/FC485A804D26B14CD338CD826926EDD9,A key used by Maintenance staff to fix electrical issues in the Safe Haven Utility Zone,维护人员使用的钥匙，用于修复安全避风港公用区域的电力问题
 /FC4F13D1411A4630A4D29DA3B5582EDB,MLB_VertexHeightNoise,MLB_顶点高度噪声
 /FC5C277245B6FCA5AAE0E187ED295D15,Dead Guard,死亡守卫
 /FC78C9364E86FDCB23213DBCF623B844,Damage,伤害
@@ -5023,18 +5025,18 @@ CommonGame/Warning_RequestedSessionFailed,Requested Session Failed,请求的会�
 CommonKeybindWidget/Unbound,Unbound,未绑定
 Doctor_S03_L03_Li02/Doctor_S03_L03_Li02_01_Line,The subject scrambles for an advantage.,受试者在慌乱谋求优势。
 Doctor_S03_L03_Li02/Doctor_S03_L03_Li02_02_Line,They appear lost and disoriented.,他们显得困惑和迷失方向。
-Doctor_S03_L03_Li02/Doctor_S03_L03_Li02_03_Line,"Heavy breathing is indicative of fear, and rightly so.",粗重的喘息表明了恐惧，事实也是如此。
-Doctor_S03_L03_Li03/Doctor_S03_L03_Li03_Line,Let's test the response to said fear when pushed into action.,让我们测试在被迫行动时对这种恐惧的反应。
+Doctor_S03_L03_Li02/Doctor_S03_L03_Li02_03_Line,"Heavy breathing is indicative of fear, and rightly so.",粗重的喘息表明了他们的恐惧，事实也是如此。
+Doctor_S03_L03_Li03/Doctor_S03_L03_Li03_Line,Let's test the response to said fear when pushed into action.,让我们测试在强行面对对这种恐惧的反应。
 Doctor_S03_L03_Li04/Doctor_S03_L03_Li04_01_Line,I have seen enough. Thank you. You may proceed.,我已经看够了。谢谢。你可以继续了。
 Doctor_S03_L03_Li05/Doctor_S03_L03_Li05_01_Line,Don't fight. Fighting only makes it work quicker.,别反抗。反抗只会让它更快奏效。
-Doctor_S04_L04_Li01/Doctor_S04_L04_Li01_01_Line,"You know, I never thought I'd see another like you.",你知道，我从未想过会再见到像你这样的人。
+Doctor_S04_L04_Li01/Doctor_S04_L04_Li01_01_Line,"You know, I never thought I'd see another like you.",你知道，我从未想过还能再见到像你这样的人。
 Doctor_S04_L04_Li01/Doctor_S04_L04_Li01_02_Line,A human.,一个人类。
-Doctor_S04_L04_Li01/Doctor_S04_L04_Li01_03_Line,Certainly not an employee like you.,肯定不是像你这样的员工。
-Doctor_S04_L04_Li01/Doctor_S04_L04_Li01_04_Line,"But something makes you different, I can tell that much.",但有什么东西让你与众不同，我能感觉到。
-Doctor_S04_L04_Li01/Doctor_S04_L04_Li01_05_Line,Though I can't say what exactly that something is. Not yet.,虽然我还不能说具体是什么。还不是时候。
-Doctor_S04_L04_Li02/Doctor_S04_L04_Li02_01_Line,"The others you've faced, 1170, 1188, 1222.",你面对过其他人，1170，1188，1222。
-Doctor_S04_L04_Li02/Doctor_S04_L04_Li02_02_Line,"Been there, done that.",早就经历过了，做过了。
-Doctor_S04_L04_Li02/Doctor_S04_L04_Li02_03_Line,Let's try our hand at something a little different.,让我们尝试点不太一样的东西。
+Doctor_S04_L04_Li01/Doctor_S04_L04_Li01_03_Line,Certainly not an employee like you.,我们可不会找像你这样的员工来工作。
+Doctor_S04_L04_Li01/Doctor_S04_L04_Li01_04_Line,"But something makes you different, I can tell that much.",但我能感觉到有些东西让你与众不同。
+Doctor_S04_L04_Li01/Doctor_S04_L04_Li01_05_Line,Though I can't say what exactly that something is. Not yet.,虽然我还不能说具体是什么，还不是时候。
+Doctor_S04_L04_Li02/Doctor_S04_L04_Li02_01_Line,"The others you've faced, 1170, 1188, 1222.",你之前遇到过的那些，1170、1188、1222。
+Doctor_S04_L04_Li02/Doctor_S04_L04_Li02_02_Line,"Been there, done that.",你都经历过了。
+Doctor_S04_L04_Li02/Doctor_S04_L04_Li02_03_Line,Let's try our hand at something a little different.,让我们尝试点不太一样的东西吧。
 Doctor_S04_L04_Li02/Doctor_S04_L04_Li02_04_Line,Oh Yarnaby,噢，亚娜比
 Doctor_S04_L04_Li03/Doctor_S04_L04_Li03_01_Line,"Please, do keep making this enjoyable for me. I'll be taking notes.",请继续让我享受这个过程。我会做笔记的。
 Doctor_S12_L12_Li01/Doctor_S12_L12_Li01_01_Line,"Ah, and here you are. Just as I expected.",啊，你来了。正如同我所预料的。
@@ -5048,7 +5050,7 @@ Doctor_S12_L12_Li01/Doctor_S12_L12_Li01_08_Line,Someone you'd lost? ,某个你�
 Doctor_S12_L12_Li01/Doctor_S12_L12_Li01_09_Line,Was it the pain of not knowing for sure that brought you here?,是因为不知道真相的痛苦把你带到这里来的吗?
 Doctor_S12_L12_Li02/Doctor_S12_L12_Li02_01_Line,"The experiments killed everyone, including whoever you came back for. ",实验杀死了所有人，包括你回来寻找的人。
 Doctor_S12_L12_Li02/Doctor_S12_L12_Li02_02_Line,"You know that by now, yes?",你现在知道这些了吧，不是吗?
-Doctor_S12_L12_Li02/Doctor_S12_L12_Li02_03_Line,"Poppy's sold you her story, of course. ",波比当然把她编造的故事卖给了你。
+Doctor_S12_L12_Li02/Doctor_S12_L12_Li02_03_Line,"Poppy's sold you her story, of course. ",波比把她编造的故事卖给了你。
 Doctor_S12_L12_Li02/Doctor_S12_L12_Li02_04_Line,Innocence is bliss. And she is OH so innocent.,天真即幸福。而且她是那么的天真。
 Doctor_S12_L12_Li02/Doctor_S12_L12_Li02_05_Line,Did she tell you her part in the Hour of Joy? That she knew it was coming? Or did she leave out that crucial detail? ,她告诉过你她在欢乐时间的角色了吗?她知道要发生欢乐时间吗?还是她省略了这个关键细节?
 Doctor_S12_L12_Li02/Doctor_S12_L12_Li02_06_Line,"Yes, that wouldn't surprise me",是的，这并不让我意外。
@@ -5070,7 +5072,7 @@ Doctor_S12_L12_Li04/Doctor_S12_L12_Li04_08_Line,"Otherwise, what was ANY of this
 Doctor_S12_L12_Li04/Doctor_S12_L12_Li04_09_Line,Would you simply make all that sacrifice meaningless?,你难道要让所有这些牺牲都变得毫无意义吗?
 Doctor_S12_L12_Li05/Doctor_S12_L12_Li05_01_Line,"Just like them. A blind, scurrying little rat. ",和他们一样。一个盲目匆忙的小老鼠。
 Doctor_S12_L12_Li05/Doctor_S12_L12_Li05_02_Line,You think poor Yarnaby was my only pet? ,你以为可怜的亚娜比是我唯一的宠物吗?
-Doctor_S12_L12_Li05/Doctor_S12_L12_Li05_03_Line,You know far less than you believe.,你所知的远比你认为的要少。
+Doctor_S12_L12_Li05/Doctor_S12_L12_Li05_03_Line,You know far less than you believe.,你知道得太少了。
 Doctor_S12_L12_Li06/Doctor_S12_L12_Li06_01_Line,Please see that he doesn't eat ALL of you.,请确保他不会把你们全吃了。
 Doctor_S12_L12_Li06/Doctor_S12_L12_Li06_02_Line,I'd like there to be SOMETHING I can still use.,我希望这里还能有我能用的东西。
 Doctor_S12_L12_Li07/Doctor_S12_L12_Li07_01_Line,Do you believe you're taking the moral high road? Is that what you believe?,你真的认为自己在坚持道德立场?这就是你的信念吗?
@@ -5086,11 +5088,11 @@ Doey_S04_L04_Li02/Doey_S04_L04_Li02_Line,Hey.,嘿。
 Doey_S04_L04_Li03/Doey_S04_L04_Li03_01_Line,Now that hit the spot! I haven't eaten in weeks!,这下真是解馋了!我已经几个星期没吃东西了!
 Doey_S04_L04_Li03/Doey_S04_L04_Li03_02_Line,"Hiya there, pal!",嘿，朋友!
 Doey_S04_L04_Li03/Doey_S04_L04_Li03_03_Line,"Don't worry, I won't eat YOU. *Giggles*",别担心，我不会吃你的。*咯咯笑*
-Doey_S04_L04_Li03/Doey_S04_L04_Li03_04_Line,I'm Doey. I was told to expect you.,我是多伊。有人告诉我你会来。
+Doey_S04_L04_Li03/Doey_S04_L04_Li03_04_Line,I'm Doey. I was told to expect you.,我是多伊，有人告诉我你会来这里。
 Doey_S04_L04_Li03/Doey_S04_L04_Li03_05_Line,This way. Follow me...,这边走，跟我来...
-Doey_S04_L04_Li04/Doey_S04_L04_Li04_01_Line,Interrogation Rooms. They'd question us here after watching us. Those of us who could speak at all. I always answered. ,审讯室。他们在这里对我们进行审问那些能说话的。我一直都回答了他们。
+Doey_S04_L04_Li04/Doey_S04_L04_Li04_01_Line,Interrogation Rooms. They'd question us here after watching us. Those of us who could speak at all. I always answered. ,审讯室，他们在这里审问我们这些能说话的，我一直在回答他们问题。
 Doey_S04_L04_Li04/Doey_S04_L04_Li04_02_Line,But I never gave em' an answer they liked.,但我从未给出过让他们满意答案。
-Doey_S05_L05_Li01/Doey_S05_L05_Li01_Line,"There's some nasty falls in this place, but I can get you across. Oh yes, definitely.",这个地方有些险峻的落差，但我可以带你过去。哦，是的，绝对没问题。
+Doey_S05_L05_Li01/Doey_S05_L05_Li01_Line,"There's some nasty falls in this place, but I can get you across. Oh yes, definitely.",这个地方有些险峻的深坑，但我能带你过去。哦，是的，绝对没问题。
 Doey_S05_L05_Li02/Doey_S05_L05_Li02_01_Line,So... have you seen Poppy anywhere? Ollie said she was around... somewhere.,那么……你有在什么地方看到过波比吗?奥利说她就在附近……某个地方。
 Doey_S05_L05_Li02/Doey_S05_L05_Li02_02_Line,He also said we can trust you. I really hope that's true.,他还说我们可以信任你。我真心希望这是真的。
 Doey_S05_L05_Li03/Doey_S05_L05_Li03_Line,"There's a safe place up ahead, it's not too far from here.",前面有个安全的地方，离这里不远。
@@ -5106,13 +5108,13 @@ Doey_S05_L05_Li07/Doey_S05_L05_Li07_05_Line,"And for those who couldn't, or woul
 Doey_S05_L05_Li07/Doey_S05_L05_Li07_06_Line,"At night, when no one important was watching, they'd take them. Stick them in here. ",晚上，当没人在看的时候，他们会把那些人带过来。丢到这儿。
 Doey_S05_L05_Li07/Doey_S05_L05_Li07_07_Line,"""We only got food for one of you this week,"" they'd say. ""Which of you will it be?"" ",他们总是说，「我们这周只够一个人吃饭。」 「你们选一个，谁吃?」
 Doey_S05_L05_Li07/Doey_S05_L05_Li07_08_Line,They'd watch from up there. It was usually over within minutes.,他们会从那边高处盯着看。通常几分钟就结束了。
-Doey_S05_L05_Li07/Doey_S05_L05_Li07_09_Line,"And the guards, they'd be hysterical.",那些守卫总是歇斯底里的。
+Doey_S05_L05_Li07/Doey_S05_L05_Li07_09_Line,"And the guards, they'd be hysterical.",那些守卫总是对我们吼。
 Doey_S05_L05_Li07/Doey_S05_L05_Li07_10_Line,"Nobody died. No, because then, people would know..",没人死在这儿。不，因为那样的话，其他人就会发现...
 Doey_S05_L05_Li07/Doey_S05_L05_Li07_11_Line,"But the next day, and every day after, they would work. Oh yeah, hard as they could.",但是第二天，以后的每一天，他们就会拼命干活。哦，是的，拼尽全力。
 Doey_S05_L05_Li07/Doey_S05_L05_Li07_12_Line,And they'd never cause trouble again.,然后他们就再也不敢惹麻烦了。
 Doey_S05_L05_Li08/Doey_S05_L05_Li08_Line,Over here!,这边!
 Doey_S05_L05_Li09/Doey_S05_L05_Li09_01_Line,"Our generator's in a pretty bad state, so we try to keep the power off in here.",我们的发电机状况很糟糕，所以我们尽量让这里不使用电力。
-Doey_S05_L05_Li09/Doey_S05_L05_Li09_02_Line,"I'll turn it on for you, though. It'll open a door downstairs.",不过我可以为你启动它。这个会打开楼下的一扇门。
+Doey_S05_L05_Li09/Doey_S05_L05_Li09_02_Line,"I'll turn it on for you, though. It'll open a door downstairs.",不过我可以为你启动它，这样会打开楼下的一扇门。
 Doey_S05_L05_Li10/Doey_S05_L05_Li10_Line,"Here, use this",拿去，用这个。
 Doey_S05_L05_Li11/Doey_S05_L05_Li11_01_Line,"Should be a straight shot from here, bud!",从这儿应该可以直接进去了，老兄!
 Doey_S05_L05_Li11/Doey_S05_L05_Li11_02_Line,"I- uh... should probably go turn off our defenses for you, huh.",我- 呃……应该关掉我们的防御系统给你，对吧。
@@ -5132,7 +5134,7 @@ DT_Cutout_CraftyCorn_04/Cutout_CraftyCorn_04_01_Line,Out?...,出去?...
 DT_Cutout_CraftyCorn_04/Cutout_CraftyCorn_04_02_Line,But we can't be out.,但我们不能出去。
 DT_Cutout_CraftyCorn_05/Cutout_CraftyCorn_05_01_Line,You're hiding more red from me...,你把很多红色藏起来了…
 DT_Cutout_CraftyCorn_05/Cutout_CraftyCorn_05_02_Line,I know you are.,我很清楚你。
-DT_Cutout_CraftyCorn_06/Cutout_CraftyCorn_06_Line,GIVE IT HERE! [Static],把它交出来![杂音]
+DT_Cutout_CraftyCorn_06/Cutout_CraftyCorn_06_Line,GIVE IT HERE! [Static],快把它交出来![杂音]
 DT_Cutout_CraftyCorn_07/Cutout_CraftyCorn_07_Line,Ah! Now that's MUCH better!,啊!现在这样好多了!
 DT_Cutout_Doey_01/Cutout_Doey_01_Line,"Hiyya there, I’m Doey. I can be anything you… knead (giggles).",嘿哟，我是多伊。我可以成为任何你...需要的东西(笑）。
 DT_Cutout_Doey_02/Cutout_Doey_02_Line,Good thing I have your imagination to give me shape! I can never make up my mind.,幸好有你的想象力给我塑造外形!不然我永远拿不定主意。
@@ -5142,7 +5144,7 @@ DT_Cutout_Doey_04/Cutout_Doey_04_01_Line,[static],[杂音]
 DT_Cutout_DogDay_01/Cutout_DogDay_01_Line,DogDay says... Fetch!,太阳狗说...接住!
 DT_Cutout_DogDay_02/Cutout_DogDay_02_Line,Go! Go! As far as you can!,GO!GO!尽量跑远点!
 DT_Cutout_DogDay_03/Cutout_DogDay_03_Line,Why are you... just standing there?,你为什么...只是站在那里?
-DT_Cutout_DogDay_04/Cutout_DogDay_04_Line,You can't be here. You can't stay.,你不能在这里。你不能留下。
+DT_Cutout_DogDay_04/Cutout_DogDay_04_Line,You can't be here. You can't stay.,你不能在这里。你不能留下在这。
 DT_Cutout_DogDay_05/Cutout_DogDay_05_Line,[Screaming],[尖叫]
 DT_Cutout_Huggy_01/Cutout_Huggy_01_Line,A hug a day keeps the monsters away!,一天一个拥抱赶走怪兽!
 DT_Cutout_Huggy_01/Cutout_Huggy_02_Line,Two hugs a day is better in every way!,一天两个拥抱会更好!
@@ -5155,10 +5157,10 @@ DT_Cutout_Huggy_03/Cutout_Huggy_03_01_Line,"Hugging forever,",永远拥抱，
 DT_Cutout_Huggy_03/Cutout_Huggy_03_02_Line,Hugs are nonstop,拥抱不停。
 DT_Cutout_Huggy_04/Cutout_Huggy_04_Line,I'm gonna hug you until you pop,我要抱得你爆炸。
 DT_Cutout_Huggy_05/Cutout_Huggy_05_Line,[Laughing],[笑]
-DT_Cutout_KickinChicken_01/Cutout_KickinChicken_01_01_Line,"Hey, I'm KickinChicken!",嘿，我是踢踢踢鸡!
+DT_Cutout_KickinChicken_01/Cutout_KickinChicken_01_01_Line,"Hey, I'm KickinChicken!",嘿，我是踢踢鸡!
 DT_Cutout_KickinChicken_01/Cutout_KickinChicken_01_02_Line,Want to go outside and hang out?,想出去玩耍吗?
 DT_Cutout_KickinChicken_02/Cutout_KickinChicken_02_Line,It's lookin' pretty rad outside!,外面看起来超赞!
-DT_Cutout_KickinChicken_03/Cutout_KickinChicken_03_Line,I've... never been outside before.,我...从未出去过。
+DT_Cutout_KickinChicken_03/Cutout_KickinChicken_03_Line,I've... never been outside before.,但我...从未出去过。
 DT_Cutout_KickinChicken_04/Cutout_KickinChicken_04_01_Line,Will you come with me? ,你会跟我一起去吗?
 DT_Cutout_KickinChicken_04/Cutout_KickinChicken_04_02_Line,I'm scared...,我好怕...
 DT_Cutout_KickinChicken_05/Cutout_KickinChicken_05_01_Line,"Here, follow me.",来，跟我来。
@@ -5177,19 +5179,19 @@ DT_Cutout_Poppy_04/Cutout_Poppy_04_Line,"“I’m a real girl, just like— just
 DT_Cutout_Poppy_05/Cutout_Poppy_05_Line,(Music playing),(音乐播放中)
 DT_Cutout_SmilingCritters_01/Cutout_SmilingCritters_01_Line,[Static],[杂音]
 DT_Cutout_Yarnaby_01/Cutout_Yarnaby_01_01_Line,“The name’s Yarnaby!,「我叫亚娜比!」
-DT_Cutout_Yarnaby_01/Cutout_Yarnaby_01_02_Line,Would you Warn-a-be my friend?,你愿意成为我的朋友吗?
+DT_Cutout_Yarnaby_01/Cutout_Yarnaby_01_02_Line,Would you Warn-a-be my friend?,「你愿意成为我的朋友吗?」
 DT_Cutout_Yarnaby_02/Cutout_Yarnaby_02_Line,“Press the button to brush my mane!”,「按下按钮梳我的鬃毛!」
 DT_Cutout_Yarnaby_03/Cutout_Yarnaby_03_Line,"""Brushy, brushy, brushy, brushy""",「梳呀，梳呀，梳呀，梳呀」
 DT_Cutout_Yarnaby_04/Cutout_Yarnaby_04_01_Line,“Wow! Yarnt I glad to have a friend like you!”,「哇!有你这样的朋友，真是太幸运了!」
-DT_Cutout_Yarnaby_04/Cutout_Yarnaby_04_02_Line,Get it? Because I’m made of yarn?,懂了吗?因为我是由纱线做成的?
-DT_Cutout_Yarnaby_04/Cutout_Yarnaby_04_03_Line,Yeah you get it.,是的，你懂了。
-DT_Cutout_Yarnaby_05/Cutout_Yarnaby_05_Line,"Without someone like you to love, why, I think I’d just come apart at the seams!",要是没有你这样的人来爱，我想我可能会四分五裂的!
+DT_Cutout_Yarnaby_04/Cutout_Yarnaby_04_02_Line,Get it? Because I’m made of yarn?,「懂了吗?因为我是由纱线做成的?」
+DT_Cutout_Yarnaby_04/Cutout_Yarnaby_04_03_Line,Yeah you get it.,「是的，你懂了。」
+DT_Cutout_Yarnaby_05/Cutout_Yarnaby_05_Line,"Without someone like you to love, why, I think I’d just come apart at the seams!",「要是没有你这样的人来爱，我想我可能会四分五裂的!」
 DT_Cutout_Yarnaby_06/Cutout_Yarnaby_06_Line,(Music playing),(音乐播放中)
 DT_Doctor_Death_Screen_Li05/Doctor_Death_Screen_Li05_Line,Strange… I’d expected more.,奇怪……我原以为会有更多。
 DT_Doctor_Death_Screen_Li06/Doctor_Death_Screen_Li06_Line,Mortality is the curse of the weak.,死亡是弱者的诅咒。
 DT_Doctor_Death_Screen_Li07/Doctor_Death_Screen_Li07_Line,(chuckle) You will be put to good use.,(轻笑)你会好好利用的。
-DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_01_Line,"Mmmm, now what’s this? Do I feel something squirming its way beneath my skin?",嗯，这是什么情况？难道我感觉有东西在我皮肤底下蠕动吗？
-DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_02_Line,"An invasive, foreign little germ? After all this time?... Ah, but I see…",一个入侵的外来小细菌？过了这么久之后还有来者？……啊，原来如此……
+DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_01_Line,"Mmmm, now what’s this? Do I feel something squirming its way beneath my skin?",嗯，这是什么情况？我怎么感觉有东西在我皮肤底下蠕动？
+DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_02_Line,"An invasive, foreign little germ? After all this time?... Ah, but I see…",难道是一个入侵的外来小细菌？过了这么久之后还有来者？……啊，原来如此……
 DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_03_Line,You.,是你。
 DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_04_Line,"… Well, little germ, let’s make a game of you. ",……那么，小细菌，让我们来玩个游戏吧。
 DT_Doctor_S03_L03_Li01/Doctor_S03_L03_Li01_05_Line,"You’ve blundered along the shadows above, and only managed to squirm all the way down here but by the barest skin of your teeth.",你跌跌撞撞地穿过了上面的阴影，勉强挣扎到这里，但还是侥幸存活下来了。
@@ -5234,24 +5236,24 @@ DT_Doctor_S13_L13_Li06/Doctor_S13_L13_Li06_Line,(Screaming),(尖叫)
 DT_Doctor_S13_L13_Li07/Doctor_S13_L13_Li07_Line,You've... Saved... No one...,你...一个...也没...救到...
 DT_Doey_S06_L06_Li02/Doey_S06_L06_Li02_01_Line,"Hiya pal, got something I wanna talk to you about.",嘿，老兄，有点事想跟你说。
 DT_Doey_S06_L06_Li02/Doey_S06_L06_Li02_02_Line,In here.,就在里面。
-DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_01_Line,I heard what you did above– what you survived.,我听说了你在上面做的——你经历的事情。
+DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_01_Line,I heard what you did above– what you survived.,我听说了你在上面经历的事情。
 DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_02_Line,"If it’s all true, then we need your help.",如果都是真的，那我们需要你的帮助。
 DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_03_Line,The voice out there—the one in the prison... ,外面的声音——监狱里的那个……
 DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_04_Line,They called him “The Doctor”; Doctor Harley Sawyer. ,他们称他为「博士」；哈雷·索耶博士。
 DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_05_Line,"He was the scientist, in charge of creating... us.",他就是那位科学家，负责创造...我们。
 DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_06_Line,"We don’t know what he is, how he’s still alive, but he works with the Prototype.",我们不知道他是什么，他怎么还活着，但他和原型合作。
-DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_07_Line,Hunting us. Starving us. Making us sick and,猎捕我们，把我们饿死。让我们生病。
-DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_08_Line,"He controls it all with an Omni-Hand, we think.",我们觉得他用全能手控制着这一切。
+DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_07_Line,Hunting us. Starving us. Making us sick and,围捕我们，把我们饿死，让我们生病。
+DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_08_Line,"He controls it all with an Omni-Hand, we think.",我们觉得他用万能手控制着这一切。
 DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_09_Line,The executives used them.,高管们用过它们。
 DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_10_Line,"It’s a battery, a key, the master control to anything in the entire factory, and with it he commands everything down here…",这是电池、钥匙、对整个工厂内的一切的主控制，有了它他控制着这里的一切…
 DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_11_Line,everything but this…,除了这里之外的一切……
 DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_12_Line,Runs completely on its own grid. Away from the prison.,这里完全自主运行于其独立的电网，远离监狱。
 DT_Doey_S06_L06_Li03/Doey_S06_L06_Li03_13_Line,"For a time, it kept us safe. But now…",前段时间，它让我们很安全。但如今…
-DT_Doey_S06_L06_Li04/Doey_S06_L06_Li04_01_Line,I need you to stop the Doctor– to take his Omni-Hand. We’ll need it for the generator.,我需要你阻止博士——夺取他的全能之手。发电机需要它。
+DT_Doey_S06_L06_Li04/Doey_S06_L06_Li04_01_Line,I need you to stop the Doctor– to take his Omni-Hand. We’ll need it for the generator.,我需要你阻止博士——夺取他的万能手。发电机需要它。
 DT_Doey_S06_L06_Li04/Doey_S06_L06_Li04_02_Line,"And if you want Red Smoke in The Foundation, you’ll need it too.",如果你想在地基里充满红雾，你也会需要它。
-DT_Doey_S06_L06_Li04/Doey_S06_L06_Li04_03_Line,"The toys out there, in Safe Haven, they’re my family…",外面安全港里的玩具，它们都是我的家人……
+DT_Doey_S06_L06_Li04/Doey_S06_L06_Li04_03_Line,"The toys out there, in Safe Haven, they’re my family…",外面避风港里的玩具，它们都是我的家人……
 DT_Doey_S06_L06_Li04/Doey_S06_L06_Li04_04_Line,"I understand what Poppy wants, what she believes is right.",我理解波比想要什么，她认为什么是对的。
-DT_Doey_S06_L06_Li04/Doey_S06_L06_Li04_05_Line,Destroy the factory. Destroy him.,摧毁工厂。摧毁他。
+DT_Doey_S06_L06_Li04/Doey_S06_L06_Li04_05_Line,Destroy the factory. Destroy him.,摧毁工厂，摧毁他。
 DT_Doey_S06_L06_Li05/Doey_S06_L06_Li05_01_Line,But I ask you to consider: If we throw everything away. Everyone. Just to kill the Prototype…,但我要请你考虑一下:如果为了杀死原型，我们必须抛弃一切，抛弃所有人。
 DT_Doey_S06_L06_Li05/Doey_S06_L06_Li05_02_Line,How much do we waste?... ,我们牺牲了多少?...
 DT_Doey_S06_L06_Li05/Doey_S06_L06_Li05_03_Line,I know the others might believe it’s right. That we should bury everything. But…,我知道其他人可能认为这样做是对的，我们应该埋葬一切。但……
@@ -5259,7 +5261,7 @@ DT_Doey_S06_L06_Li05/Doey_S06_L06_Li05_04_Line,(Sighs),(叹息)
 DT_Doey_S06_L06_Li05/Doey_S06_L06_Li05_05_Line,Let’s just think about it.,我们还是再考虑一下吧。
 DT_Doey_S06_L06_Li05/Doey_S06_L06_Li05_06_Line,Head for the Infirmary whenever you’re ready to leave. There’s Sewer access inside. That’s your safest path to the No Man’s Land… And to him.,你想离开就前往医务室，里面有下水道入口。那是通往无人区——和他——最安全的路径。
 DT_Doey_S06_L06_Li05/Doey_S06_L06_Li05_07_Line,But if you need to catch your breath…,但如果你需要喘口气的话……
-DT_Doey_S06_L06_Li05/Doey_S06_L06_Li05_08_Line,Our Safe Haven is also yours.,我们的安全港也是你的。
+DT_Doey_S06_L06_Li05/Doey_S06_L06_Li05_08_Line,Our Safe Haven is also yours.,我们的避风港也是你的。
 DT_Doey_S06_L06_Li06/Doey_S06_L06_Li06_01_Line,"Hey, uh... If you- That is, if you have the time, there's something else I'd like you to watch out for.",嘿，呃……如果你——如果你有时间，我希望你留意另外一件事。
 DT_Doey_S06_L06_Li06/Doey_S06_L06_Li06_02_Line,It's (Ahem),它是(咳咳)
 DT_Doey_S06_L06_Li06/Doey_S06_L06_Li06_03_Line,"""The Adventures of the Word Wizard""",《文字巫师的冒险》
@@ -5277,10 +5279,10 @@ DT_Doey_S11_L09_Li01/Doey_S11_L09_Li01_02_Line,"No, don’t suppose he is then�
 DT_Doey_S11_L09_Li01/Doey_S11_L09_Li01_03_Line,I’ve been here gathering parts for the generator.,我在这里为发电机收集零件。
 DT_Doey_S11_L09_Li01/Doey_S11_L09_Li01_04_Line,LOTS of-- ,很多--
 DT_Doey_S11_L09_Li02/Doey_S11_L09_Li02_Line,Hurts hurts hurts hurts hurts,疼疼疼疼疼
-DT_Doey_S11_L09_Li03/Doey_S11_L09_Li03_01_Line,He’s made it impossible for me to get around here.,他让我在这里无法行动。
+DT_Doey_S11_L09_Li03/Doey_S11_L09_Li03_01_Line,He’s made it impossible for me to get around here.,他让我在这里根本无法行动。
 DT_Doey_S11_L09_Li03/Doey_S11_L09_Li03_02_Line,Traps like this are everywhere!,到处都是这样的陷阱!
 DT_Doey_S11_L09_Li03/Doey_S11_L09_Li03_03_Line,It’s the cold that hurts… The big mean Doctor knows that…,冷得刺骨… 那个大坏博士知道这一点...
-DT_Doey_S11_L09_Li03/Doey_S11_L09_Li03_04_Line,It’s okay. You’re okay. It’s all okay…,没事的。你没事。一切都好...
+DT_Doey_S11_L09_Li03/Doey_S11_L09_Li03_04_Line,It’s okay. You’re okay. It’s all okay…,没事的，你没事，一切都好...
 DT_Doey_S13_L06_Li03/Doey_S13_L06_Li03_01_Line,Just get the generator working… Please…,只要让发电机运转起来... 求你了...
 DT_Doey_S13_L06_Li03/Poppy_S13_L06_Li05_01_Line,I-I’ll try to gather the others. Keep them safe.,我-我会试着把其他人聚在一起。让他们安全。
 DT_Doey_S13_L06_Li03/Poppy_S13_L06_Li05_02_Line,"Ollie, if you can hear me, work with our friend here.",奥利，如果你能听到我，与我们的朋友合作吧。
@@ -5290,7 +5292,7 @@ DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_01_Line,"I’m sorry… I’m so, SO sorr
 DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_02_Line,I was never what any of you needed.,你们任何人从来都不需要我。
 DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_03_Line,I was only made to hurt things.,我生来只会伤害东西。
 DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_04_Line,My fault. My fault...,我的错。都是我的错...
-DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_05_Line,Hurt. Everything hurts.,好痛。一切都很痛。
+DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_05_Line,Hurt. Everything hurts.,痛，太痛了！
 DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_06_Line,Hurt back. ALWAYS hurt back.,疼痛回来了，无尽的疼痛又回来了。
 DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_07_Line,Parents. Scientists. Everyone.,父母。科学家。所有人。
 DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_08_Line,Have to–,都得–
@@ -5298,7 +5300,7 @@ DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_09_Line,(Crying) My friends. He killed my
 DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_10_Line,You… It all started with you. You and her.,你... 一切因你而起。你和她。
 DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_11_Line,It was you who ruined everything!!,是你毁了一切!!
 DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_12_Line,"No. No, that’s not true. They jumpstarted the generator. They…",不。不，那不是真的。他们启动了发电机。他们...
-DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_13_Line,Destroyed everything!,毁了一切!
+DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_13_Line,Destroyed everything!,你们毁了一切!
 DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_14_Line,I’ll kill you!,我要杀了你!
 DT_Doey_S14_L06_Li01/Doey_S14_L06_Li01_15_Line,(Moans and screams in pain),(痛苦地呻吟尖叫)
 DT_Doey_S14_L08_Li01/Doey_S14_L08_Li01_01_Line,The Prototype… I lost track of him in the tunnels.,原型... 我在隧道里跟丢了他。
@@ -5309,7 +5311,7 @@ DT_Doey_S14_L08_Li01/Doey_S14_L08_Li01_05_Line,Oh no…,哦不...
 DT_Doey_S15_L15_Li01/Doey_S15_L15_Li01_Line,"Mommy, Daddy, I just want to go home.",妈妈，爸爸，我只是想回家。
 DT_Doey_S15_L15_Li011/Doey_S15_L15_Li11_01_Line,CAN’T TRUST ANYONE!!! THE GENTLE VOICES LIE!! YOU LIE!!,不能相信任何人!!!温柔的声音在撒谎!!你们在撒谎!!
 DT_Doey_S15_L15_Li011/Doey_S15_L15_Li11_02_Line,I tried to be better. To be who they needed.,我曾试图变得更好，成为他们需要的那种人。
-DT_Doey_S15_L15_Li011/Doey_S15_L15_Li11_03_Line,"Not smart enough, not good enough.",不够聪明，不够优秀。
+DT_Doey_S15_L15_Li011/Doey_S15_L15_Li11_03_Line,"Not smart enough, not good enough.",是我不够聪明，不够优秀。
 DT_Doey_S15_L15_Li011/Doey_S15_L15_Li11_04_Line,NOT—,不是——
 DT_Doey_S15_L15_Li011/Doey_S15_L15_Li11_05_Line,(Screams in pain),(痛苦地尖叫)
 DT_Doey_S15_L15_Li011/Doey_S15_L15_Li11_06_Line,(Snuffles)... I’m sorry,(抽泣)... 对不起
@@ -5328,15 +5330,15 @@ DT_Ed_S06_L06_Li01/Ed_S06_L06_Li01_Line,Can we really trust her this time? ,这�
 DT_Medic_Toy_S13_L06_Li01/Medic_Toy_S13_L06_Li01_01_Line,Friend going to be okay. She strong. ,朋友会没事的，她很强。
 DT_Medic_Toy_S13_L06_Li01/Medic_Toy_S13_L06_Li01_02_Line,Stronger than she think.,比她想象的更强。
 DT_Ollie_S02_L02_Li01/Ollie_S02_L02_Li01_01_Line,"Hey. It’s me again, Ollie. I wanted to…",嘿。是我，奥利。我想要...
-DT_Ollie_S02_L02_Li01/Ollie_S02_L02_Li01_02_Line,"I wanted to talk to you. Before you go inside, I mean.",在我能帮助你之前跟你聊聊。我是说，在你进去之前。
-DT_Ollie_S02_L02_Li01/Ollie_S02_L02_Li01_03_Line,Everything you’ve seen out here. The piles. The dead. They ALL came from inside.,你在这里看到的一切。那些堆叠起来的尸体。它们全都来自那里面。
+DT_Ollie_S02_L02_Li01/Ollie_S02_L02_Li01_02_Line,"I wanted to talk to you. Before you go inside, I mean.",我是说，在你进去之前能跟你聊聊 。
+DT_Ollie_S02_L02_Li01/Ollie_S02_L02_Li01_03_Line,Everything you’ve seen out here. The piles. The dead. They ALL came from inside.,你在这里看到的一切，那些堆叠起来的尸体——它们全都来自那里面。
 DT_Ollie_S02_L02_Li01/Ollie_S02_L02_Li01_04_Line,"Believe me, everything Poppy said about this place is true. It’s hell...",相信我，波比说的关于这个地方的一切都是真的。这就是地狱...
 DT_Ollie_S02_L02_Li01/Ollie_S02_L02_Li01_05_Line,But she also hasn’t seen it like I have. It’s worse now. Worse than ever…,但她也没见过我所看到的一切 。现在更糟了，比以往任何时候都糟...
 DT_Ollie_S02_L02_Li01/Ollie_S02_L02_Li01_06_Line,Just try to stay safe. Please. Don’t let your guard down for even a second…,请尽量保持安全。求你了。别放松警惕，哪怕是一秒钟...
 DT_Ollie_S02_L02_Li01/Ollie_S02_L02_Li01_07_Line,I’ll try to help you when I can.,我会尽量帮助你。
 DT_Ollie_S03_L03_Li01/Ollie_S03_L03_Li01_01_Line,(Static)-you hear- (Static) Too much interfer- (Static) Make your way to- (Static)- There’s something- (Static) -octor is,(静电噪音)- 你听到了吗 - (静电噪音) 干扰太大了 - (静电噪音) 前往 - (静电噪音) - 这里有东西 - (静电噪音) - 博士在
-DT_Ollie_S08_L08_Li01/Ollie_S08_L08_Li01_Line,"(Static) Hey, hey, can you hear me?... (Static) There's some-- (Static) When you get the Omni-Hand-- (Static) Hopefully it's nothing (Static) Might not be-- (Static)",(静电噪音) 嘿，嘿，你能听见我吗?... (静电噪音) 这里有些 - (静电噪音) 当你拿到全能手时 - (静电噪音) 希望没事 (静电噪音) 可能不是 - (静电噪音)
-DT_Ollie_S13_L06_Li04/Ollie_S13_L06_Li04_Line,First you’ll want to open the access panel on the generator. It’s just a little door on the outside of the machine. Use the Omni-Hand.,首先，你需要打开发电机上的检修面板。那是机器外部的一个小门。使用全能手。
+DT_Ollie_S08_L08_Li01/Ollie_S08_L08_Li01_Line,"(Static) Hey, hey, can you hear me?... (Static) There's some-- (Static) When you get the Omni-Hand-- (Static) Hopefully it's nothing (Static) Might not be-- (Static)",(静电噪音) 嘿，嘿，你能听见我吗?... (静电噪音) 这里有些 - (静电噪音) 当你拿到万能手时 - (静电噪音) 希望没事 (静电噪音) 可能不是 - (静电噪音)
+DT_Ollie_S13_L06_Li04/Ollie_S13_L06_Li04_Line,First you’ll want to open the access panel on the generator. It’s just a little door on the outside of the machine. Use the Omni-Hand.,首先，你需要打开发电机上的检修面板。那是机器外部的一个小门。使用万能手。
 DT_Ollie_S13_L09_Li01/Ollie_S13_L09_Li01_01_Line,Yes. Yes! My signal’s coming through! Finally!,是的!是的!我的信号终于传过来了!
 DT_Ollie_S13_L09_Li01/Ollie_S13_L09_Li01_02_Line,The Doctor…,博士……
 DT_Ollie_S13_L09_Li01/Ollie_S13_L09_Li01_03_Line,He’s dead…,他死了……
@@ -5345,16 +5347,16 @@ DT_Ollie_S13_L09_Li01/Ollie_S13_L09_Li01_05_Line,"You, my friend, are a hero.",�
 DT_Ollie_S13_L09_Li01/Ollie_S13_L09_Li01_06_Line,"Again and again, you do the impossible.",一次又一次，你完成了不可能的事。
 DT_Ollie_S13_L09_Li01/Ollie_S13_L09_Li01_07_Line,"You got us here, and the end is coming.",你带我们到了这里，而结局即将来临。
 DT_Ollie_S13_L09_Li01/Ollie_S13_L09_Li01_08_Line,All that’s left is him.,剩下的只有他了。
-DT_Ollie_S13_L09_Li01/Ollie_S13_L09_Li01_09_Line,Let’s regroup at Safe Haven. Take stock. Talk more there.,我们在安全港集合吧。清点一下。再多谈谈。
+DT_Ollie_S13_L09_Li01/Ollie_S13_L09_Li01_09_Line,Let’s regroup at Safe Haven. Take stock. Talk more there.,我们在避风港集合吧。清点一下。再多谈谈。
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_01_Line,Ollie!... Ollie!... Can you hear me?!... Ollie?!,奥利!……奥利!……你能听到我吗?!……奥利?!
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_02_Line,"You, what did you do!?",你，你做了什么?!
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_03_Line,Why did you kill Doey?! ,你为什么要杀多伊?!
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_04_Line,Do you even understand what happened?,你到底明白发生了什么吗?
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_05_Line,"The Prototype, he...",原型，他……
-DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_06_Line,Did you even plant the explosives?,你到底装炸药了吗?
+DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_06_Line,Did you even plant the explosives?,你到底装炸药了没有?
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_07_Line,"Ollie! Ollie, answer me!...",奥利!奥利，回答我!……
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_08_Line,Please...,求你了……
-DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_09_Line,"Ollie? Something's gone horribly wrong, the Safe Haven--",奥利?出大问题了，安全港--
+DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_09_Line,"Ollie? Something's gone horribly wrong, the Safe Haven--",奥利?出大问题了，避风港--
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_10_Line,Shelf Ventilation block B6.,B6排气架。
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_11_Line,"Is this where you are, Poppy?",波比，你在这里吗?
 DT_Poppy_Prototype_S15_L16_Li01/Poppy_Prototype_S15_L16_Li01_12_Line,What?,什么?
@@ -5403,31 +5405,31 @@ DT_Poppy_Prototype_S15_L16_Li02/Poppy_Prototype_S15_L16_Li02_26_Line,As for you 
 DT_Poppy_Prototype_S15_L16_Li02/Poppy_Prototype_S15_L16_Li02_27_Line,Try to land on your feet.,试着站稳脚跟。
 DT_Poppy_S01_L01_Li01/Poppy_S01_L01_Li01_01_Line,No no no no NO!,不不不不不!
 DT_Poppy_S01_L01_Li01/Poppy_S01_L01_Li01_02_Line,"Hold on, Kissy! I’m coming!",坚持住，Kissy!我来了!
-DT_Poppy_S01_L01_Li01/Poppy_S01_L01_Li01_03_Line,"Listen, go on ahead. Don’t wait for me.",听着，先走吧。别等我。
-DT_Poppy_S01_L01_Li01/Poppy_S01_L01_Li01_04_Line,"I won’t leave Kissy behind, and I won’t sacrifice our plan. Not because of… ",我不会丢下Kissy，也不会牺牲我们的计划。不是因为...
+DT_Poppy_S01_L01_Li01/Poppy_S01_L01_Li01_03_Line,"Listen, go on ahead. Don’t wait for me.",听着，先走吧！别等我。
+DT_Poppy_S01_L01_Li01/Poppy_S01_L01_Li01_04_Line,"I won’t leave Kissy behind, and I won’t sacrifice our plan. Not because of… ",我不会丢下Kissy，也不会牺牲我们的计划！不是因为...
 DT_Poppy_S01_L01_Li01/Poppy_S01_L01_Li01_05_Line,Because of me.,因为我。
 DT_Poppy_S01_L01_Li01/Poppy_S01_L01_Li01_06_Line,"Just… be careful. Down here, it’s…",只是... 小心点。在这里，这里...
 DT_Poppy_S01_L01_Li01/Poppy_S01_L01_Li01_07_Line,It’s not like anything you’ve seen above.,这里和你在上面看到的完全不同。
 DT_Poppy_S01_L01_Li01/Poppy_S01_L01_Li01_08_Line,It’s not trying to hide what it is.,它并不试图隐藏自己是什么。
-DT_Poppy_S01_L01_Li01/Poppy_S01_L01_Li01_09_Line,"It’s hell, and Playtime wanted it to be…",这是地狱，而游戏时间希望它是...
-DT_Poppy_S01_L01_Li01/Poppy_S01_L01_Li01_10_Line,But we have allies down here. Get to them.,但我们在这里有盟友。去找他们。
-DT_Poppy_S01_L01_Li02/Poppy_S01_L01_Li02_Line,There’s still time to save the orphans. Follow the Red Smoke! And look out for--,还有时间救那些孤儿们。跟着红烟走!小心--
+DT_Poppy_S01_L01_Li01/Poppy_S01_L01_Li01_09_Line,"It’s hell, and Playtime wanted it to be…",这是地狱，而游戏时间公司希望它是...
+DT_Poppy_S01_L01_Li01/Poppy_S01_L01_Li01_10_Line,But we have allies down here. Get to them.,但我们在这里有盟友，去找他们。
+DT_Poppy_S01_L01_Li02/Poppy_S01_L01_Li02_Line,There’s still time to save the orphans. Follow the Red Smoke! And look out for--,还有时间救那些孤儿们，跟着红烟走!小心--
 DT_Poppy_S06_L06_Li01/Poppy_S06_L06_Li01_01_Line,Shhhhhh....,嘘……
-DT_Poppy_S06_L06_Li01/Poppy_S06_L06_Li01_02_Line,Through the showers. We should be able to make it into the Safe Haven from there.,穿过淋浴区。我们应该能从那里进入避难所。
+DT_Poppy_S06_L06_Li01/Poppy_S06_L06_Li01_02_Line,Through the showers. We should be able to make it into the Safe Haven from there.,穿过淋浴区，我们应该能从那里进入避风港。
 DT_Poppy_S06_L06_Li01/Poppy_S06_L06_Li01_03_Line,"When I say so, we go.",等我信号，我们就走。
 DT_Poppy_S06_L06_Li01/Poppy_S06_L06_Li01_04_Line,Go!,走!
 DT_Poppy_S06_L06_Li02/Poppy_S06_L06_Li02_Line,Let us in!,让我们进去!
 DT_Poppy_S06_L06_Li03/Doey_S06_L06_Li01_02_Line,What's going on? What's--,发生了什么?什么--
 DT_Poppy_S06_L06_Li03/Doey_S06_L06_Li01_03_Line,"Kissy! Goodness, what happened?",Kissy!天啊，发生了什么?
 DT_Poppy_S06_L06_Li03/Doey_S06_L06_Li01_05_Line,Poppy? Is that really...?,波比?那是真的……?
-DT_Poppy_S06_L06_Li03/Doey_S06_L06_Li01_06_Line,"Right. Take her to one of the beds. I'll check the defenses, see if something's still outside.",对。把她带到床上去。我去检查防御系统，看看外面是否还有什么。
+DT_Poppy_S06_L06_Li03/Doey_S06_L06_Li01_06_Line,"Right. Take her to one of the beds. I'll check the defenses, see if something's still outside.",对！把她带到床上去！我去检查防御系统，看看外面是否还有什么东西。
 DT_Poppy_S06_L06_Li03/Doey_S06_L06_Li01_08_Line,You brought him down-... ,你把他带下来了——
 DT_Poppy_S06_L06_Li03/Doey_S06_L06_Li01_09_Line,"We'll talk about this later. For now, I'll make sure ""out there"" is where he stays.",我们待会再谈这事。现在，我会确保他继续待在「外面」。
 DT_Poppy_S06_L06_Li03/Poppy_S06_L06_Li03_01_Line,Hurry! Close it!,快!关上它!
-DT_Poppy_S06_L06_Li03/Poppy_S06_L06_Li03_04_Line,We need to get her help. Now.,我们需要立刻帮她。现在。
-DT_Poppy_S06_L06_Li03/Poppy_S06_L06_Li03_07_Line,Not just something... It's him. He’s out there.,不只是什么东西……是他。他就在外面。
+DT_Poppy_S06_L06_Li03/Poppy_S06_L06_Li03_04_Line,We need to get her help. Now.,我们需要立刻帮助她！马上！
+DT_Poppy_S06_L06_Li03/Poppy_S06_L06_Li03_07_Line,Not just something... It's him. He’s out there.,不是其他东西……就是他。他就在外面。
 DT_Poppy_S06_L06_Li03/Poppy_S06_L06_Li03_11_Line,Over here...,这边……
-DT_Poppy_S06_L06_Li03/Scout_S06_L06_Li01_10_Line,Locking down Safe Haven. Reactivating the defenses…,封锁避难所。重新激活防御系统……
+DT_Poppy_S06_L06_Li03/Scout_S06_L06_Li01_10_Line,Locking down Safe Haven. Reactivating the defenses…,封锁避风港。重新激活防御系统……
 DT_Poppy_S06_L06_Li04/Poppy_S06_L06_Li04_01_Line,"Get some rest, okay?",休息一下，好吗?
 DT_Poppy_S06_L06_Li04/Poppy_S06_L06_Li04_02_Line,I didn’t know it had gotten this bad…I…,我不知道事情已经变得这么糟了……我……
 DT_Poppy_S06_L06_Li04/Poppy_S06_L06_Li04_03_Line,I need to make this right...,我需要纠正这一切……
@@ -5439,12 +5441,12 @@ DT_Poppy_S06_L06_Li04/Poppy_S06_L06_Li04_08_Line,They're with HIM. And HE knows 
 DT_Poppy_S06_L06_Li04/Poppy_S06_L06_Li04_09_Line,"So if we're going to free them AND stop the Prototype, we need to plan for both at the same time. ",所以，如果我们既要解放他们，又要阻止原型，我们需要同时为两者做计划。
 DT_Poppy_S06_L06_Li04/Poppy_S06_L06_Li04_10_Line,The Red Smoke you re-directed from Playcare… it’s an accelerant.,你从Playcare转过来的红烟……它是助燃剂。
 DT_Poppy_S06_L06_Li04/Poppy_S06_L06_Li04_11_Line,"All it needs is high pressure and a little spark, and it ignites.",只要高压和一点火花，它就会点燃。
-DT_Poppy_S06_L06_Li04/Poppy_S06_L06_Li04_12_01_Line,"The plan is this: We’ll fill the foundation with the smoke, and line it with old mining charges.",计划是这样的:我们将用烟灌满地基，并用旧矿井炸药布线。
+DT_Poppy_S06_L06_Li04/Poppy_S06_L06_Li04_12_01_Line,"The plan is this: We’ll fill the foundation with the smoke, and line it with old mining charges.",计划是这样的:我们将用红烟灌满地基，并用旧矿井炸药布线。
 DT_Poppy_S06_L06_Li04/Poppy_S06_L06_Li04_12_02_Line,"Then, once you, me, and Kissy have freed the orphans, our friends here will blow this place sky high. ",然后，一旦你、我和Kissy解放了那些孤儿，我们的朋友们就会把这里炸上天。
 DT_Poppy_S06_L06_Li04/Poppy_S06_L06_Li04_13_Line,THAT’S our revenge.,这就是我们的复仇计划。
 DT_Poppy_S06_L06_Li04/Poppy_S06_L06_Li04_14_Line,"For now, go to Doey. See what he needs. I'll be here..",现在，去找多伊。看看他需要什么。我会在这儿……
 DT_Poppy_S07_L07_05/Poppy_S07_L07_05_01_Line,"I think you might be wrong, Poppy. What you want…",我想你可能错了，波比。你想要的……
-DT_Poppy_S07_L07_05/Poppy_S07_L07_05_02_Line,"It’s the best for everyone, Doey. That no trace of this place is left. We agreed to that.",这对所有人来说都是最好的，多伊。不留这个地方的任何痕迹。我们已经同意这样做了。
+DT_Poppy_S07_L07_05/Poppy_S07_L07_05_02_Line,"It’s the best for everyone, Doey. That no trace of this place is left. We agreed to that.",这对所有人来说都是最好的，多伊。不留这个地方的任何痕迹，我们之前已经同意这样做了。
 DT_Poppy_S07_L07_05/Poppy_S07_L07_05_03_Line,"I know… But us, everyone in there, we’re not just things gone wrong. We’re people…",我知道……但我们，里面的所有人，我们不仅仅是出错的东西。我们是人……
 DT_Poppy_S07_L07_05/Poppy_S07_L07_05_04_Line,Can’t you see that?,你难道看不出来吗?
 DT_Poppy_S07_L07_05/Poppy_S07_L07_05_05_Line,I can… And I’m sorry…,我能……我很抱歉……
@@ -5458,10 +5460,10 @@ DT_Poppy_S07_L07_05/Poppy_S07_L07_05_12_Line,And now you’re asking us to burn 
 DT_Poppy_S07_L07_05/Poppy_S07_L07_05_13_Line,"We’ve made our life protecting these toys, and they’ve… saved us, in more ways than one.",我们靠保护这些玩具为生，它们也……救了我们，而且是不止一次。
 DT_Poppy_S07_L07_05/Poppy_S07_L07_05_14_Line,We–,我们——
 DT_Poppy_S07_L07_05/Poppy_S07_L07_05_15_Line,"Poppy, she needs you. Done what I could.",波比，她需要你。我已尽力了。
-DT_Poppy_S07_L07_05/Poppy_S07_L07_05_16_Line,"I… wish there were another way, Doey. But I just don’t see it…",我……希望还有其他方法，多伊。但我看不到。
+DT_Poppy_S07_L07_05/Poppy_S07_L07_05_16_Line,"I… wish there were another way, Doey. But I just don’t see it…",我……希望还有其他方法，多伊。但我找不到。
 DT_Poppy_S07_L07_05/Poppy_S07_L07_05_17_Line,We’ll talk about this later.,我们待会再谈这个。
-DT_Poppy_S13_L06_Li01/Poppy_S13_L06_Li01_Line,Do you have it? The Omni-Hand?,你拿到了吗?那个全能手?
-DT_Poppy_S13_L06_Li02/Poppy_S13_L06_Li02_01_Line,"You, you have it! The Omni-Hand!",你，你拿到了!那个全能手!
+DT_Poppy_S13_L06_Li01/Poppy_S13_L06_Li01_Line,Do you have it? The Omni-Hand?,你拿到了吗?那个万能手?
+DT_Poppy_S13_L06_Li02/Poppy_S13_L06_Li02_01_Line,"You, you have it! The Omni-Hand!",你，你拿到了!那个万能手!
 DT_Poppy_S13_L06_Li02/Poppy_S13_L06_Li02_02_Line,Then… We can do this. It’s…,那么……我们能做到。它是……
 DT_Poppy_S13_L06_Li02/Poppy_S13_L06_Li02_03_Line,You have no idea what this means! It’s… It’s everything!,你根本不知道这意味着什么!这是……这是一切!
 DT_Poppy_S13_L06_Li02/Poppy_S13_L06_Li02_04_Line,"You’ve done what none of us ever could, given us hope.",你做到了我们都无法做到的事，给了我们希望。
@@ -5519,10 +5521,10 @@ DT_Toy_One_L06_Li01/Toy_One_L06_Li01_01_Line,What’s POPPY doing here?,波比�
 DT_Toy_One_L06_Li01/Toy_One_L06_Li01_03_Line,"Why? That’s inviting a whole lot of trouble we don’t
 need.",为什么?那会引出一大堆我们不需要的麻烦。
 DT_Toy_One_L06_Li01/Toy_One_L06_Li01_04_Line,"I mean, how do we even know we can trust her this time?",我是说，我们怎么知道这次可以信任她?
-DT_Toy_One_L06_Li01/Toy_One_L06_Li01_06_Line,The employee. Can’t forget that.,那个员工。不能忘记。
-DT_Toy_One_L06_Li01/Toy_Two_S06_L06_Li01_02_Line,I don’t know. They just let her in.,我不知道。他们只是把她放进了。
-DT_Toy_One_L06_Li01/Toy_Two_S06_L06_Li01_05_Line,We don’t know. So let’s just be careful. Especially around her... new friend.,我们不知道。所以就小心点。特别是在她……新朋友身边。
-DT_Toy_One_L06_Li01/Toy_Two_S06_L06_Li01_07_Line,Shhh. I think they might be listening.,嘘，我觉得他们可能在监听。
+DT_Toy_One_L06_Li01/Toy_One_L06_Li01_06_Line,The employee. Can’t forget that.,那个员工，不能忘记。
+DT_Toy_One_L06_Li01/Toy_Two_S06_L06_Li01_02_Line,I don’t know. They just let her in.,我不知道，他们只是把她放进来了。
+DT_Toy_One_L06_Li01/Toy_Two_S06_L06_Li01_05_Line,We don’t know. So let’s just be careful. Especially around her... new friend.,我们不知道，所以就小心点。特别是在她……新朋友身边。
+DT_Toy_One_L06_Li01/Toy_Two_S06_L06_Li01_07_Line,Shhh. I think they might be listening.,嘘，我觉得他们可能在偷听。
 DT_Toy_Seven_S06_L06_Li01/Toy_Seven_S06_L06_Li01_Line,Won’t last much longer…,撑不了多久了……
 DT_Toy_Seven_S06_L06_Li02/Toy_Seven_S06_L06_Li02_Line,W-Who are you?,你……你是谁?
 DT_Toy_Six_S06_L06_Li01/Toy_Six_S06_L06_Li01_Line,So sore… Haven’t been able to move for hours.,好痛……好几个小时无法动弹。
@@ -5545,7 +5547,7 @@ DT_VHS_Ch4_Prologue/Ch4_Prologue_08_Line,<img id="Music"/> So many toys in one! 
 DT_VHS_Ch4_Prologue/Ch4_Prologue_09_Line,<img id="Music"/> Triple kind of friend and triple type of fun! <img id="Music"/>,<img id="Music"/> 三种类型的朋友，三种乐趣! <img id="Music"/>
 DT_VHS_Ch4_Prologue/Ch4_Prologue_10_Line,"<img id=""Music""/> D-O-E-Y, Doey! <img id=""Music""/>","<img id=""Music""/> D-O-E-Y, 多伊! <img id=""Music""/>"
 DT_VHS_Ch4_Prologue/Ch4_Prologue_11_Line,<img id="Music"/> Fun until the day that you die! <img id="Music"/><img id="Music"/>,<img id="Music"/>直到你死去的那一天都充满乐趣!<img id="Music"/><img id="Music"/>
-DT_VHS_Ch4_Prologue/Ch4_Prologue_12_Line,"Call the number on screen, and order your Doey today.",拨打屏幕上的号码，今天就订购你的多伊。
+DT_VHS_Ch4_Prologue/Ch4_Prologue_12_Line,"Call the number on screen, and order your Doey today.",拨打屏幕上的号码，现在就订购你的多伊。
 DT_VHS_Ch4_Prologue/Ch4_Prologue_13_Line,Order now while supplies last-- shipping and handling-- costs may vary--,数量有限，立即订购-- 如包含运费和手续费-- 费用可能会有变化--
 DT_VHS_Ch4_Prologue/Ch4_Prologue_14_Line,[Audio fizzles and cuts],[音频嘶嘶作响并中断]
 DT_VHS_Ch4_Prologue/Ch4_Prologue_15_Line,What's the ti--,现在是--
@@ -5568,7 +5570,7 @@ DT_VHS_Ch4_Prologue/Ch4_Prologue_31_Line,Grab him! Grab him! Somebody grab him!,
 DT_VHS_Ch4_Prologue/Ch4_Prologue_32_Line,"[Jack screams, falling]",[杰克尖叫，坠落]
 DT_VHS_Ch4_Prologue/Ch4_Prologue_33_Line,Shut down the machines! Everyone shut down the machines!,关掉那些机器!大家快把机器都关掉!
 DT_VHS_Ch4_Prologue/Ch4_Prologue_34_Line,Do you hear me?,你听见我说话了吗?
-DT_VHS_Ch4_Prologue/Ch4_Prologue_35_Line,And somebody shut off that cam--,还有人把那摄像机关掉--
+DT_VHS_Ch4_Prologue/Ch4_Prologue_35_Line,And somebody shut off that cam--,还有那边的人把那摄像机关掉--
 DT_VHS_Ch4_Prologue/Ch4_Prologue_36_Line,[Poppy Playtime Chapter 4:],[波比的游戏时间第四章:]
 DT_VHS_Ch4_Prologue/Ch4_Prologue_37_Line,[Safe Haven],[安全的避风港]
 DT_VHS_DoctorAndPrototype/VHS_DoctorAndPrototype_01_Line,Your suggestions have failed to produce the results I’m after.,你的建议未能产生我想要的结果。
@@ -5613,7 +5615,7 @@ DT_VHS_DoctorAwakening/VHS_DoctorAwakening_16_Line,"Really? From where I’m sit
 DT_VHS_DoctorAwakening/VHS_DoctorAwakening_17_Line,"We gave you so many opportunities to clean up your own messes, but you just couldn’t do it, could you?",我们给了你那么多机会去收拾你的烂摊子，但你就是做不到，不是吗?
 DT_VHS_DoctorAwakening/VHS_DoctorAwakening_18_Line,What? You think you can do better?,什么?你以为你能做得更好?
 DT_VHS_DoctorAwakening/VHS_DoctorAwakening_19_Line,Nobody else can do what I do! You need my knowledge- my intellect!,没人能替代我!你需要我的知识-我的智慧!
-DT_VHS_DoctorAwakening/VHS_DoctorAwakening_20_Line,"Why do you think you’re sitting in there right now, and not in Boxy’s stomach?",你为什么认为你现在坐在那儿，而不是在Boxy的肚子里?
+DT_VHS_DoctorAwakening/VHS_DoctorAwakening_20_Line,"Why do you think you’re sitting in there right now, and not in Boxy’s stomach?",你为什么认为你现在坐在那儿，而不是在惊吓盒子的肚子里?
 DT_VHS_DoctorAwakening/VHS_DoctorAwakening_21_Line,"Let me tell you how this is gonna go, Sawyer.",让我告诉你事情会怎么发展，索耶。
 DT_VHS_DoctorAwakening/VHS_DoctorAwakening_22_Line,"From now on, you’re here to give the lab boys answers when they need them, and carry out procedures when and how we tell you to. That’s it.",从现在开始，你就在这里，当实验室人员需要答案时就给他们答案，并在我们告诉你的时间和方式下执行程序。仅此而已。
 DT_VHS_DoctorAwakening/VHS_DoctorAwakening_23_Line,You’ll be like an open book to us whenever we want.,我们想让你什么时候像一本打开的书一样对我们都行。
@@ -5630,7 +5632,7 @@ DT_VHS_DoeyKevin/VHS_DoeyKevin_06_Line,"Trouble getting along with others, aggre
 DT_VHS_DoeyKevin/VHS_DoeyKevin_07_Line,"and an otherwise combative nature clearly relay that Kevin is, put simply, a problem child.",以及那种随时可能爆发的争斗本性，简单来说，凯文正是一个问题儿童。
 DT_VHS_DoeyKevin/VHS_DoeyKevin_08_Line,"What friends he DOES have, he’s reported to have attacked in moments of… intense play.",就连他有的那么几个朋友，他也曾在「激烈的玩耍」中攻击过他们。
 DT_VHS_DoeyKevin/VHS_DoeyKevin_09_Line,These tendencies raise concerns.,这些倾向引起了担忧。
-DT_VHS_DoeyKevin/VHS_DoeyKevin_10_Line,"The subject excels in all physical tests. Reflexes, reaction time, and mental fortitude all tested well above average in Game Station examinations.",该实验对象在所有体能测试中表现出色。反射、反应时间和心理韧性在游戏站的测试中均远超平均水平。
+DT_VHS_DoeyKevin/VHS_DoeyKevin_10_Line,"The subject excels in all physical tests. Reflexes, reaction time, and mental fortitude all tested well above average in Game Station examinations.",该实验对象在所有体能测试中表现出色。反射、反应时间和心理韧性在游戏基地的测试中均远超平均水平。
 DT_VHS_DoeyKevin/VHS_DoeyKevin_11_Line,"So, in spite of said concerns, in Dr. Sawyer’s eyes, Kevin is ideal for the Project.",因此，尽管有这些顾虑，在索耶博士眼中，凯文是项目理想的对象。
 DT_VHS_DoeyKevin/VHS_DoeyKevin_12_Line,"However, if his use in this particular experiment is to move forward, we need to ensure we’re not creating a time bomb just as we’ve begun stabilizing the entire Project.",然而，如果他在这一特定实验中的使用要继续下去，我们需要确保我们在整个项目刚开始稳定时不是在制造定时炸弹。
 DT_VHS_DoeyKevin/VHS_DoeyKevin_13_Line,"If we’re to create an experiment that can fulfill multiple assigned roles, we can’t allow any single consciousness to throw the others off… ",如果我们想创造一个可以完成多个分配角色的实验，我们不能允许任何一个意识干扰到其他的…
@@ -5699,43 +5701,43 @@ DT_VHS_Eddie/VHS_Eddie_10_Line,"My company, we’ve built a lot for you over the
 DT_VHS_Eddie/VHS_Eddie_11_Line,We just did the work you paid us to do…,我们只是完成了你花钱让我们做的事……
 DT_VHS_Eddie/VHS_Eddie_12_Line,And your point here is...?,你说这些有什么用意?
 DT_VHS_Eddie/VHS_Eddie_13_Line,I don’t like what I’m supposed to be building here.,我不喜欢我在这里要建造的东西。
-DT_VHS_Eddie/VHS_Eddie_14_Line,"Look, the Game Station? Whatever. It’ll be fun for the kids.",你看，游戏站?随便吧。它会让孩子玩得很开心。
-DT_VHS_Eddie/VHS_Eddie_15_Line,"Undergound production plants? Sure. Maximize production. Makes a kind of sense. As much as any of this, I suppose…",地下生产工厂?当然。最大化生产。有一定的道理。我想，就像这里面的其他东西一样……
+DT_VHS_Eddie/VHS_Eddie_14_Line,"Look, the Game Station? Whatever. It’ll be fun for the kids.",你看，游戏基地?随便吧。它能让孩子玩得很开心。
+DT_VHS_Eddie/VHS_Eddie_15_Line,"Undergound production plants? Sure. Maximize production. Makes a kind of sense. As much as any of this, I suppose…",但地下生产工厂?当然，最大化生产，有一定的道理。我想，就像这里面的其他东西一样……
 DT_VHS_Eddie/VHS_Eddie_16_Line,But THIS…,但这个……
 DT_VHS_Eddie/VHS_Eddie_17_Line,What in the world would a toy company need with a prison?,一家玩具公司要监狱干什么?
 DT_VHS_Eddie/VHS_Eddie_18_Line,"When my people were building Playcare, all Mr. Ludwig could talk about was how much good it could do.",当我的人建造Playcare时，路德维希先生说的就只有它能带来多少好处。
 DT_VHS_Eddie/VHS_Eddie_19_Line,And all you needed was a look at the man to know he believed every word of it…,而且只需要看看这个人，就知道他相信自己的每一句话……
 DT_VHS_Eddie/VHS_Eddie_20_Line,I need to hear that this is still the same company.,我需要听到这仍然是同一家公司。
 DT_VHS_Eddie/VHS_Eddie_21_Line,"If we’re going to make this thing for you, then I need that assurance.",如果我们打算为你做这个东西，我需要你的保证。
-DT_VHS_Eddie/VHS_Eddie_22_Line,It’s a game. Something for the kids.,是个游戏。给孩子们玩的东西。
-DT_VHS_Eddie/VHS_Eddie_23_Line,Anything!,任何东西!
+DT_VHS_Eddie/VHS_Eddie_22_Line,It’s a game. Something for the kids.,是个游戏。是给孩子们玩的东西。
+DT_VHS_Eddie/VHS_Eddie_23_Line,Anything!,这些任何东西都是!
 DT_VHS_Eddie/VHS_Eddie_24_Line,Mr. Rittermann?,里特曼先生?
 DT_VHS_Eddie/VHS_Eddie_25_Line,"Let me give you a bit of history, friend.",让我给你一点历史背景，朋友。
 DT_VHS_Eddie/VHS_Eddie_26_Line,"In 1972, you signed a contract. A legally binding piece of paper that says whatever is asked of you, you do it.",1972年，你签署了一份合同。一份具有法律效力的文件，上面写着，无论对你提出什么要求，你都要照做。
-DT_VHS_Eddie/VHS_Eddie_27_Line,We asked. You did.,我们要求了，你执行了。
+DT_VHS_Eddie/VHS_Eddie_27_Line,We asked. You did.,我们要求你了，你执行了。
 DT_VHS_Eddie/VHS_Eddie_28_Line,"In 1990, you signed another. A renewal.",1990年，你又签署了一份。一份续约合同。
 DT_VHS_Eddie/VHS_Eddie_29_Line,"In it, had you bothered at all to read it, you’d have found a small clause.",如果你稍微花点时间读一下，就会发现里面有一小段条款。
 DT_VHS_Eddie/VHS_Eddie_30_Line,"“Any and all directives will be accomplished in the appropriate time, and with appropriate compensation should the project be completed to satisfaction.”",「任何及所有指令都将在适当的时间内完成，如果项目按要求完成，将给予适当的补偿。」
 DT_VHS_Eddie/VHS_Eddie_31_Line,"Your name rests at the bottom of that document, and I remember because it was the ugliest bit of cursive I’ve ever seen.",你的名字就在那份合同的底部，我还记得，因为那是我见过最丑的草书体。
-DT_VHS_Eddie/VHS_Eddie_32_Line,"So now you do the work, because we’ve given you a directive.",那么现在你来完成工作，因为我们已经给了你指示。
-DT_VHS_Eddie/VHS_Eddie_33_Line,"M-Mr. Rittermann, w-we’re near the–",R-里特曼先生，我们已经靠近——
-DT_VHS_Eddie/VHS_Eddie_34_Line,Yes. Yes we are.,是的。是的，我们正是如此。
-DT_VHS_Eddie/VHS_Eddie_35_Line,ALL of us are.,我们所有人都一样。
-DT_VHS_Eddie/VHS_Eddie_36_Line,On a ledge.,在窗台。
-DT_VHS_Eddie/VHS_Eddie_37_Line,Great things are coming.,伟大的事情即将到来。
-DT_VHS_Eddie/VHS_Eddie_38_Line,Great things that will someday make a lot of people very happy.,让许多人有一天会感到非常幸福的伟大事情。
+DT_VHS_Eddie/VHS_Eddie_32_Line,"So now you do the work, because we’ve given you a directive.",那么现在你来完成工作，是因为我们已经给了你指示。
+DT_VHS_Eddie/VHS_Eddie_33_Line,"M-Mr. Rittermann, w-we’re near the–",里-里特曼先生，我们已经——
+DT_VHS_Eddie/VHS_Eddie_34_Line,Yes. Yes we are.,是的。是的，我们无法回头。
+DT_VHS_Eddie/VHS_Eddie_35_Line,ALL of us are.,我们所有人都。
+DT_VHS_Eddie/VHS_Eddie_36_Line,On a ledge.,在悬崖边上。
+DT_VHS_Eddie/VHS_Eddie_37_Line,Great things are coming.,伟大的事物即将到来。
+DT_VHS_Eddie/VHS_Eddie_38_Line,Great things that will someday make a lot of people very happy.,这些伟大的事物终有一天会让很多人非常开心。
 DT_VHS_Eddie/VHS_Eddie_39_Line,"But to do so, to make that dream real, we need this.",但是，要做到这一点，让那个梦想成真，我们必须拥有这个。
-DT_VHS_Eddie/VHS_Eddie_40_Line,"Otherwise, there’s a place we’ll all fall.",否则，我们会全都掉进某个地方。
-DT_VHS_Eddie/VHS_Eddie_41_Line,Together.,一起。
+DT_VHS_Eddie/VHS_Eddie_40_Line,"Otherwise, there’s a place we’ll all fall.",但是，为了实现这个梦想，我们需要这个。
+DT_VHS_Eddie/VHS_Eddie_41_Line,Together.,否则，我们会一起坠落悬崖。
 DT_VHS_Eddie/VHS_Eddie_42_Line,"I’m a businessman, Mr. Silva. And I don’t like to get angry.",我是商人，席尔瓦先生。我不喜欢发火。
-DT_VHS_Eddie/VHS_Eddie_43_Line,I get paid to see that things get done.,我的任务就是确保事情完成。
-DT_VHS_Eddie/VHS_Eddie_44_Line,"And this, like everything else, will get done.",而这一点，和其他一切一样，都会完成。
+DT_VHS_Eddie/VHS_Eddie_43_Line,I get paid to see that things get done.,我的任务是确保事情能够完成。
+DT_VHS_Eddie/VHS_Eddie_44_Line,"And this, like everything else, will get done.",而这件事，和其他所有事一样，将会完成。
 DT_VHS_FlareHand/VHS_FlareHand_01_Line,[Flare Hand],[照明弹手]
-DT_VHS_FlareHand/VHS_FlareHand_02_Line,[Press the Hand Trigger to launch built-in flares.],[按下扳机以发射内置照明弹。]
-DT_VHS_FlareHand/VHS_FlareHand_03_Line,"[In dark areas, use flares to light your path forward.]",[在黑暗区域，使用照明弹照亮你前进的道路。]
-DT_VHS_FlareHand/VHS_FlareHand_04_Line,"[Rope, oil, and other resources can be burnt on contact.]",[绳索、油等资源接触后可被点燃。]
+DT_VHS_FlareHand/VHS_FlareHand_02_Line,[Press the Hand Trigger to launch built-in flares.],[按下扳机来发射内置照明弹。]
+DT_VHS_FlareHand/VHS_FlareHand_03_Line,"[In dark areas, use flares to light your path forward.]",[在黑暗区域，可以使用照明弹照亮你前进的道路。]
+DT_VHS_FlareHand/VHS_FlareHand_04_Line,"[Rope, oil, and other resources can be burnt on contact.]",[绳索、油等易燃物质接触后可被点燃。]
 DT_VHS_FlareHand/VHS_FlareHand_05_Line,[Shoot at the wrong thing...],[如果朝错误的地方射击...]
-DT_VHS_FlareHand/VHS_FlareHand_06_Line,[... And the results can be deadly.],[... 结果可能会致命。]
+DT_VHS_FlareHand/VHS_FlareHand_06_Line,[... And the results can be deadly.],[... 可能会致命。]
 DT_VHS_FlareHand/VHS_FlareHand_07_Line,[Thank you],[谢谢]
 DT_VHS_FlareHand/VHS_FlareHand_08_Line,"[Don't harm yourself, or other employees.]",[别伤到自己，也别伤到其他员工。]
 DT_VHS_HiddenPoppy/VHS_HiddenPoppy_01_Line,It was awful. So so awful…,真是太可怕了，太可怕了…
@@ -5754,10 +5756,10 @@ DT_VHS_HiddenPoppy/VHS_HiddenPoppy_13_Line,"I know there’s not really another 
 DT_VHS_HiddenPoppy/VHS_HiddenPoppy_14_Line,But it’s still disgusting.,但这仍然令人恶心。
 DT_VHS_HiddenPoppy/VHS_HiddenPoppy_15_Line,"I wish you were here, Dad.",我希望你在这里，爸爸。
 DT_VHS_HiddenPoppy/VHS_HiddenPoppy_16_Line,I could really use one of your talks right about now. You’d know what to say.,我现在真的很需要你的一场谈话。你知道该怎么说。
-DT_VHS_HiddenPoppy/VHS_HiddenPoppy_17_Line,"When you were running this place, you always knew what to say…",你经营这个地方时，你总是知道该说什么…
+DT_VHS_HiddenPoppy/VHS_HiddenPoppy_17_Line,"When you were running this place, you always knew what to say…",你在这个地方的时候，你总是知道该说什么…
 DT_VHS_HiddenPoppy/VHS_HiddenPoppy_18_Line,I miss you.,我想你了。
 DT_VHS_LeithPierre/VHS_LeithPierre_01_Line,"Hi. My name is Leith Pierre, and I’m the Head of Innovation here at Playtime Co.",嗨，我叫雷思·皮埃尔，我是游戏时间公司的创新主管。
-DT_VHS_LeithPierre/VHS_LeithPierre_02_Line,"If you’re seeing this, you must be very, very lost.",如果你看到了这个，你一定迷路了，非常非常迷路。
+DT_VHS_LeithPierre/VHS_LeithPierre_02_Line,"If you’re seeing this, you must be very, very lost.",如果你看到了这个，你一定迷路了，真是迷迷又路路啊。
 DT_VHS_LeithPierre/VHS_LeithPierre_03_Line,"Well, rest assured friend, our state-of-the-art laboratory is just up ahead.",好吧，放心吧朋友，我们最先进的实验室就在前方。
 DT_VHS_LeithPierre/VHS_LeithPierre_04_Line,Why dontcha just go on inside and tap one of our scientists on the shoulder.,为什么你不去里面拍拍我们某位科学家的肩膀呢。
 DT_VHS_LeithPierre/VHS_LeithPierre_05_Line,"Tell ‘em you're lost, they'll be glad to help.",告诉他们你迷路了，他们会很乐意帮助你。
@@ -5767,7 +5769,7 @@ DT_VHS_LeithPierre/VHS_LeithPierre_08_Line,"This is the single most high securit
 DT_VHS_LeithPierre/VHS_LeithPierre_09_Line,"When somebody finds you down here, you will be shot.",当有人在这下面发现你时，你会被击毙。
 DT_VHS_LeithPierre/VHS_LeithPierre_10_Line,"And before you get any ideas, don’t think you can just sneak away either.",在你产生任何念头之前，别以为你可以偷偷离开。
 DT_VHS_LeithPierre/VHS_LeithPierre_11_Line,"No, the second you put this tape in, it set off an alarm.",你一插入这盘磁带，就触发了警报。
-DT_VHS_LeithPierre/VHS_LeithPierre_12_Line,"So if anyone’s home, they know exactly where you are.",所以如果有人在家，他们就会知道你确切的位置。
+DT_VHS_LeithPierre/VHS_LeithPierre_12_Line,"So if anyone’s home, they know exactly where you are.",所以如果有人在这，他们马上就会知道你确切的位置。
 DT_VHS_LeithPierre/VHS_LeithPierre_13_Line,"Pretty nifty, huh? Security is very important to us here.",很巧妙吧?安全对我们这里来说非常重要。
 DT_VHS_LeithPierre/VHS_LeithPierre_14_Line,"If I were you, I’d start running.",如果我是你，我已经开始跑了。
 DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_01_Line,(Crying),(哭泣)
@@ -5795,7 +5797,7 @@ DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_22_Line,"I’m scared, Ollie. Is that wha
 DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_23_Line,"I’m scared, and I’m angry, and…",我很害怕，也很生气，而且……
 DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_24_Line,And I really don’t know what to do…,我真的不知道该怎么办...
 DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_25_Line,The bad men don’t say what they want. They don’t listen.,那些坏人不说他们想要什么。他们不听。
-DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_26_Line,They don’t care how much anything hurts…,他们才不管事情有多疼……
+DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_26_Line,They don’t care how much anything hurts…,他们才不管有多疼……
 DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_27_Line,It’s been weeks and weeks of taking things out and putting them back in and taking things out and putting them back in.,已经好多好多周了，他们取出一些东西，再放回去，再取出，再放回去。
 DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_28_Line,Over and over and over.,一遍又一遍又一遍。
 DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_29_Line,Nothing’s EVER gotten better. And it’ll never GET better.,从来没有好过。也永远不会变好。
@@ -5804,7 +5806,7 @@ DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_31_Line,It scares me that every time they
 DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_32_Line,Every time they peel me open...,每次他们把我剥开时...
 DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_33_Line,I feel it less! LESS!…,感觉少了!少了点!
 DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_34_Line,I hate them. And I hate him. And I hate…,我恨他们。我恨他。我也恨...
-DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_35_Line,"I’m nothing now, Ollie. No one. I’m a thing…",我现在什么都不是了，奥利。没人。我只是个东西……
+DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_35_Line,"I’m nothing now, Ollie. No one. I’m a thing…",我现在什么都不是了，奥利。我只是个物品……
 DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_36_Line,And nothing they can do to me hurts more than that…,他们对我做的任何事都没有比这更痛的了...
 DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_37_Line,You’re not nothing to me. You’re Poppy.,你对我来说不是无足轻重的人。你是波比。
 DT_VHS_OllieAndPoppy/VHS_OllieAndPoppy_38_Line,And talking with you. Like this…,和你这样交谈...
@@ -5818,7 +5820,7 @@ DT_VHS_Rich/VHS_Rich_02_Line,"That you, kid?",是你吗，孩子?
 DT_VHS_Rich/VHS_Rich_03_Line,"Yeah. Yeah, it’s me.",是啊，是我。
 DT_VHS_Rich/VHS_Rich_04_Line,Don’t lurk out there. It’s weird. Just come on in. Being early isn’t a crime.,别在那儿鬼鬼祟祟的。这很奇怪。直接进来吧。早到并不是犯罪。
 DT_VHS_Rich/VHS_Rich_05_Line,"You know why I asked you here, right?",你知道我为什么叫你来这儿吧?
-DT_VHS_Rich/VHS_Rich_06_Line,"(Sighs) Why are we doing this dance again, boss?",(叹气) 我们又在这跳这舞了吗，老板?
+DT_VHS_Rich/VHS_Rich_06_Line,"(Sighs) Why are we doing this dance again, boss?",(叹气) 是我们又在这跳舞了吗，老板?
 DT_VHS_Rich/VHS_Rich_07_Line,"Because you were reported, and all reports for my people come back to me.",因为你被举报了，所有关于我的人报告都会回到我这儿。
 DT_VHS_Rich/VHS_Rich_08_Line,"Look, I’m not here to place blame. Just tell me your side of this.",听着，我不是来指责谁的。告诉我你这边的情况。
 DT_VHS_Rich/VHS_Rich_09_Line,"So, what happened?",那么，发生了啥?
@@ -5836,7 +5838,7 @@ DT_VHS_Rich/VHS_Rich_20_Line,"Leith says Playtime is better than ever, but profi
 DT_VHS_Rich/VHS_Rich_21_Line,"Hell, anywhere else, I’d have probably LIKED Rod.",见鬼，换个地方，我可能就喜欢上罗德了。
 DT_VHS_Rich/VHS_Rich_22_Line,"But because he said it like that, and with all the rumors… I-I just don’t know if I can take it anymore.",但是他那样说，加上谣言……我真的不知道自己能不能再承受了。
 DT_VHS_Rich/VHS_Rich_23_Line,And it feels wrong that no one says anything as loud as they should.,那种沉默让我觉得不对。明明人们该大声说出来的事。
-DT_VHS_Rich/VHS_Rich_24_Line,"Look, I get it. This company is far from angelic. Trust me, I know that.",听着，我明白了。这家公司远非天使。相信我，我知道。
+DT_VHS_Rich/VHS_Rich_24_Line,"Look, I get it. This company is far from angelic. Trust me, I know that.",听着，我明白了。这家公司可没有多少良心。相信我，我知道。
 DT_VHS_Rich/VHS_Rich_25_Line,And you shouldn’t ignore it.,你不应该忽视它。
 DT_VHS_Rich/VHS_Rich_26_Line,But there are smarter ways to go about what you did…,但处理你所做的事有更聪明的方式……
 DT_VHS_Rich/VHS_Rich_27_Line,I know… I’m sorry.,我知道……我很抱歉。
@@ -5850,12 +5852,12 @@ DT_VHS_Rich/VHS_Rich_34_Line,It’s… It's good to know not EVERYONE here is te
 DT_VHS_Rich/VHS_Rich_35_Line,"Not everyone, kid. Not everyone.",不是所有人，孩子。不是所有人。
 DT_VHS_Stella/VHS_Stella_01_Line,So. Ms. Greyber. Have you considered what we talked about?,那么，格雷伯女士。你考虑过我们讨论的事情了吗?
 DT_VHS_Stella/VHS_Stella_02_Line,"Yes, Mr. Pierre. I… I won’t lie, I was at a loss for words at first.",是的，皮埃尔先生。我…我坦白说刚开始我真的不知道该说什么。
-DT_VHS_Stella/VHS_Stella_03_Line,"The information hit me pretty hard. I felt so badly- I still do- for the ones that go through the, um, testing.",这些信息对我冲击很大。我对那些经历，呃，测试的孩子感到非常难过--现在也是。
+DT_VHS_Stella/VHS_Stella_03_Line,"The information hit me pretty hard. I felt so badly- I still do- for the ones that go through the, um, testing.",这些信息对我冲击很大，我对那些经历，呃，测试的孩子感到非常难过--现在也是。
 DT_VHS_Stella/VHS_Stella_04_Line,You really care about them.,你真的很在乎他们。
-DT_VHS_Stella/VHS_Stella_05_Line,"Yes. It hurts to see them hurt, I don’t think there’s any way around that feeling…",是的。看到他们受伤我也很难过，我觉得这种感觉无论如何都避免不了…
+DT_VHS_Stella/VHS_Stella_05_Line,"Yes. It hurts to see them hurt, I don’t think there’s any way around that feeling…",是的。看到他们受伤我也很难受，我觉得这种感觉无论如何都避免不了…
 DT_VHS_Stella/VHS_Stella_06_Line,(Deep breath),(深吸一口气)
 DT_VHS_Stella/VHS_Stella_07_Line,But…,但…
-DT_VHS_Stella/VHS_Stella_08_Line,"I did some soul searching, and got to thinking about the bigger picture…",我进行了深入反思，开始思考更大的局面…
+DT_VHS_Stella/VHS_Stella_08_Line,"I did some soul searching, and got to thinking about the bigger picture…",我进行了深入反思，开始思考更长远的目标…
 DT_VHS_Stella/VHS_Stella_09_Line,About what your researchers wrote.,关于你的研究员们写的内容。
 DT_VHS_Stella/VHS_Stella_10_Line,And?,然后呢?
 DT_VHS_Stella/VHS_Stella_11_Line,"Well, the work itself, what you’ve all been able to do… I mean, it’s nothing short of a miracle.",嗯，你们所做的工作，你们所有人能做到的事…简直就是一个奇迹。
@@ -5863,38 +5865,38 @@ DT_VHS_Stella/VHS_Stella_12_Line,"I know you have more goals to hit, but even as
 DT_VHS_Stella/VHS_Stella_13_Line,Do they know when it’ll be… fully ready?,他们知道什么时候会…完全准备好吗?
 DT_VHS_Stella/VHS_Stella_14_Line,We’re still working out the timeline.,我们还在制定时间表。
 DT_VHS_Stella/VHS_Stella_15_Line,I see.,我明白了。
-DT_VHS_Stella/VHS_Stella_16_Line,"You know, the project lead- Dr. Sawyer- wasn’t sure about giving you that information in the first place. He thinks your affection towards those kids could be a liability…",说起来，项目负责人——索耶博士——当初还不确定要不要给你那些信息。他认为你对那些孩子的爱好可能会是个负担…
+DT_VHS_Stella/VHS_Stella_16_Line,"You know, the project lead- Dr. Sawyer- wasn’t sure about giving you that information in the first place. He thinks your affection towards those kids could be a liability…",说起来，项目负责人——索耶博士——当初还不确定要不要给你那些信息。他认为你对那些孩子的喜爱可能会成为一个负担…
 DT_VHS_Stella/VHS_Stella_17_Line,What do you think about that?,你对此怎么看?
 DT_VHS_Stella/VHS_Stella_18_Line,I took this job because I wanted to help change kids’ lives for the better. ,我接受了这份工作，因为我想要帮助改变更多孩子的生活，让它变得更好。
 DT_VHS_Stella/VHS_Stella_19_Line,Of course these procedures are far from ideal; I cried like a baby when I read them.,当然这些流程远非理想；我读它们的时候哭得像个孩子。
 DT_VHS_Stella/VHS_Stella_20_Line,"But I started looking past the here and now, started looking down the road a bit. That’s when it clicked.",但我开始看穿眼前的一切，开始展望未来。然后就明白了。
 DT_VHS_Stella/VHS_Stella_21_Line,"What your researchers can do down here will someday help a lot of people out there, including so so many kids.",你研究员们在这里所能做到的事未来将会帮助到外面很多人，包括好多好多的孩子。
 DT_VHS_Stella/VHS_Stella_22_Line,That’s a bigger and better change than I could ever have hoped to make. That’s a change I want to help make.,这是一个比我所能期望做出的更大、更好的改变。这是我想要帮忙实现的改变。
-DT_VHS_Stella/VHS_Stella_23_Line,I knew you’d understand.,我就知道你会理解。
+DT_VHS_Stella/VHS_Stella_23_Line,I knew you’d understand.,我就知道你会理解的。
 DT_VHS_TheaterIncident/VHS_TheaterIncident_01_Line,Got another one over here!,这边又有一个!
 DT_VHS_TheaterIncident/VHS_TheaterIncident_02_Line,Jeez… Hard to imagine how the company will tuck all this under the rug.,天哪……真难以想象公司会怎么把这些都掩盖过去。
-DT_VHS_TheaterIncident/VHS_TheaterIncident_03_Line,Not our problem.,不是我们的事。
+DT_VHS_TheaterIncident/VHS_TheaterIncident_03_Line,Not our problem.,这不是我们需要担心的事。
 DT_VHS_TheaterIncident/VHS_TheaterIncident_04_Line,Three here!,这边三个!
 DT_VHS_TheaterIncident/VHS_TheaterIncident_05_Line,How many is that now?,现在一共有多少了?
 DT_VHS_TheaterIncident/VHS_TheaterIncident_06_Line,"Fifty-eight, so far.",到目前为止，五十八个。
 DT_VHS_TheaterIncident/VHS_TheaterIncident_07_Line,Another over here!,这边还有一个!
 DT_VHS_TheaterIncident/VHS_TheaterIncident_08_Line,Fifty-nine.,五十九。
 DT_VHS_TheaterIncident/VHS_TheaterIncident_09_Line,"Where’s that Investigator? Campbell, Lockehart– whatever his name is.",那个调查员呢?坎贝尔，洛克哈特——管他叫什么名字。
-DT_VHS_TheaterIncident/VHS_TheaterIncident_10_Line,Poking around somewhere. Don’t know.,在某个地方瞎转悠。不知道。
-DT_VHS_TheaterIncident/VHS_TheaterIncident_11_Line,"You ask me, the culprit’s obvious. Just needs to be spelled out plain and clear for the bigwigs.",你要问我，罪魁祸首很明显。只需要给大人物们清清楚楚地摆出来。
-DT_VHS_TheaterIncident/VHS_TheaterIncident_12_Line,You think?,你这么觉得?
+DT_VHS_TheaterIncident/VHS_TheaterIncident_10_Line,Poking around somewhere. Don’t know.,应该在某个地方瞎转悠，不知道在干嘛。
+DT_VHS_TheaterIncident/VHS_TheaterIncident_11_Line,"You ask me, the culprit’s obvious. Just needs to be spelled out plain and clear for the bigwigs.",你要问我，罪魁祸首很明显。只需要直白清楚地告诉高层即可。
+DT_VHS_TheaterIncident/VHS_TheaterIncident_12_Line,You think?,你也这么觉得?
 DT_VHS_TheaterIncident/VHS_TheaterIncident_13_Line,"Yeah. Rotten eggs come from rotten chickens, ya know?",是啊。要知道，坏鸡蛋总是坏鸡下的，对吧?
 DT_VHS_TheaterIncident/VHS_TheaterIncident_14_Line,Can’t get more rotten a chicken than him.,比他更烂的家伙可不多了。
 DT_VHS_TheaterIncident/VHS_TheaterIncident_15_Line,"I don’t know, just seems too careless that a guy so smart wouldn’t cover his ass.",我不知道，只是觉得一个这么聪明的人居然不掩盖自己的痕迹，未免太不小心了。
 DT_VHS_TheaterIncident/VHS_TheaterIncident_16_Line,"I mean, if the investigator finds evidence of this being his fault…",我是说，要是调查员找到这是他责任的证据……
-DT_VHS_TheaterIncident/VHS_TheaterIncident_17_Line,(Chuckles) Hope Boxy’s still hungry.,(轻声笑)希望布克瑟还是那么饿。
+DT_VHS_TheaterIncident/VHS_TheaterIncident_17_Line,(Chuckles) Hope Boxy’s still hungry.,(轻声笑)希望惊吓盒子还是那么饿。
 DT_VHS_TheaterIncident/VHS_TheaterIncident_18_Line,Got another!,又找到一个!
 DT_VHS_TheaterIncident/VHS_TheaterIncident_19_Line,Sixty.,六十。
 DT_VHS_TheaterIncident/VHS_TheaterIncident_20_Line,"Right, and are we just stuffing the experiments back where they came from?",是啊，我们难道就是把实验品塞回它们来的地方?
 DT_VHS_TheaterIncident/VHS_TheaterIncident_21_Line,Acting like all this didn’t happen?,然后装作这一切都没有发生过?
 DT_VHS_TheaterIncident/VHS_TheaterIncident_22_Line,Wool over the eyes?,当没看见?
 DT_VHS_TheaterIncident/VHS_TheaterIncident_23_Line,Because I guarantee it won’t be so easy to toss a new coat of paint over sixty visitors dead.,因为我保证，要掩盖六十名访客的死亡可不是刷层新漆那么容易。
-DT_VHS_TheaterIncident/VHS_TheaterIncident_24_Line,Or the dozen Resource Extraction Specialists we’ve got swimming in the bellies of those things.,还有那些游荡在怪兽肚子里的一打资源采集专家们。
+DT_VHS_TheaterIncident/VHS_TheaterIncident_24_Line,Or the dozen Resource Extraction Specialists we’ve got swimming in the bellies of those things.,还有那些东西体内藏着的几十名资源提取专家。
 DT_VHS_TheaterIncident/VHS_TheaterIncident_25_Line,I’m sure that’s taken care of already…,我相信那已经处理好了……
 DT_VHS_TheaterIncident/VHS_TheaterIncident_26_Line,But I hear there’s plans. Something big. Somewhere to put them.,不过我听说有计划了。一个大计划。找个地方安置他们。
 DT_VHS_TheaterIncident/VHS_TheaterIncident_27_Line,"With any luck, that means stuff like this, and people like him, will be a thing of the past.",要是运气好，这事儿，还有像他这样的人，将会成为历史。
@@ -5903,7 +5905,7 @@ DT_VHS_TheDoctor/VHS_TheDoctor_01_Line,This recklessness has to stop.,这种鲁�
 DT_VHS_TheDoctor/VHS_TheDoctor_02_Line,"The Doctor has no regard for the safety of this facility, or its staff.",博士完全不顾及这个设施及其员工的安全。
 DT_VHS_TheDoctor/VHS_TheDoctor_03_Line,Or the children in Playcare. I’ve tried to set boundaries with him. He doesn’t listen to me.,还有Playcare里的那些孩子们。我试过给他设定界限。他不听我的。
 DT_VHS_TheDoctor/VHS_TheDoctor_04_Line,He doesn’t listen to any of us. Not really. Not anymore. And he’s behind schedule.,他不再听我们任何人的。真的。他进度落后了。
-DT_VHS_TheDoctor/VHS_TheDoctor_05_Line,"Playtime may have turned a corner financially, but that doesn’t change the fact that his “Bigger Bodies Initiative” is still a money hole.",游戏时间可能在财务上有了转机，但这并不改变他的「更大身躯计划」仍然是个烧钱的无底洞。
+DT_VHS_TheDoctor/VHS_TheDoctor_05_Line,"Playtime may have turned a corner financially, but that doesn’t change the fact that his “Bigger Bodies Initiative” is still a money hole.",游戏时间公司可能在财务上有了转机，但这并不改变他的「更大身躯计划」仍然是个烧钱的无底洞。
 DT_VHS_TheDoctor/VHS_TheDoctor_06_Line,"The guy’s gotta go, Leith.",这家伙必须走，雷思。
 DT_VHS_TheDoctor/VHS_TheDoctor_07_Line,And how do you suggest we do that?,那你建议我们怎么做?
 DT_VHS_TheDoctor/VHS_TheDoctor_08_Line,This wouldn’t be the first time we’ve made someone disappear.,这又不是我们第一次让人消失了。
@@ -5913,13 +5915,13 @@ DT_VHS_TheDoctor/VHS_TheDoctor_11_Line,"Because like it or not, we need him.",�
 DT_VHS_TheDoctor/VHS_TheDoctor_12_Line,"Eddie’s right though, Sawyer can’t keep leading this project.",埃迪说得对，索耶不能继续领导这个项目了。
 DT_VHS_TheDoctor/VHS_TheDoctor_13_Line,(Chuckles) So we just ask him to step down? Take a demotion?,(轻笑)所以我们只是让他辞职?降职?
 DT_VHS_TheDoctor/VHS_TheDoctor_14_Line,"No, but-",不，但是——
-DT_VHS_TheDoctor/VHS_TheDoctor_15_Line,"I’m not disagreeing. Huggy loose in the woods, that business with CatNap, the whole Stoll thing-",我没意见。哈吉在树林里乱跑，瞌睡猫的事情，整个Stoll的事件——
+DT_VHS_TheDoctor/VHS_TheDoctor_15_Line,"I’m not disagreeing. Huggy loose in the woods, that business with CatNap, the whole Stoll thing-",我没意见。哈吉在树林里乱跑，瞌睡猫的事情，整个斯托尔的事件——
 DT_VHS_TheDoctor/VHS_TheDoctor_16_Line,And half a dozen other incidents-,还有几十个其他事故——
 DT_VHS_TheDoctor/VHS_TheDoctor_17_Line,"Right, and all of that pales in comparison to the Theater Incident.",对，所有这些都比不上剧场事件。
 DT_VHS_TheDoctor/VHS_TheDoctor_18_Line,(Shudders) I don’t even want to talk about that…,(颤抖）我甚至不想谈论那个……
-DT_VHS_TheDoctor/VHS_TheDoctor_19_Line,"So… we can’t kill the sonofabitch, but we need to knock him out of the equation.",所以...我们不能杀了这个混蛋，但我们需要让他离开这个方程式。
+DT_VHS_TheDoctor/VHS_TheDoctor_19_Line,"So… we can’t kill the sonofabitch, but we need to knock him out of the equation.",所以...我们不能杀了这个混蛋，但我们必须让他退出这场游戏。
 DT_VHS_TheDoctor/VHS_TheDoctor_20_Line, What do we do?,我们怎么办?
-DT_VHS_TheDoctor/VHS_TheDoctor_21_Line,There is one thing I can think of…,我能想到一件事...
+DT_VHS_TheDoctor/VHS_TheDoctor_21_Line,There is one thing I can think of…,我想到一件事...
 DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_01_Line,(Groaning in pain),(痛苦呻吟)
 DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_02_Line,I need some help here!,我需要些帮助!
 DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_03_Line,"Hey, watch the door! Watch the door!",嘿，注意门!注意门!
@@ -5950,7 +5952,7 @@ DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_05_Line,It’s been hard to… Keep my head
 DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_06_Line,"The others, they look to me to know what to do. To know where to go…",其他人，他们都看着我，想知道该做什么，该去哪里……
 DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_07_Line,"For a long while, we had Poppy to tell us.",很长一段时间，我们有波比告诉我们。
 DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_08_Line,Go here. Go there. Do this. And it all made sense too. Poppy was nice… ,去这里，去那里，做这个。一切都很合理，波比人很好……
-DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_09_Line,I can’t find Poppy anywhere… ,我哪儿也找不到波比……
+DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_09_Line,I can’t find Poppy anywhere… ,但是现在我哪儿也找不到波比……
 DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_10_Line,"I don’t know what happened, or where she went… But it’s scary here without her.",我不知道发生了什么，也不知道她去了哪里……但没有她这里很可怕。
 DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_11_Line,Maybe she ran… Just like I have... ,也许她逃了……就像我一样……
 DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_12_Line,"I’m here, outside the Prison, in front of…",我现在在监狱外面，面前是……
@@ -5963,7 +5965,7 @@ DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_18_Line,"But… they mean a lot to me, a lo
 DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_19_Line,"And having seen what I have, knowing how they see me. How much they need me…",在目睹了我所看到的一切，知道他们如何看待我，我是多么被需要……
 DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_20_Line,I’m going back.,我要回去。
 DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_21_Line,I wanted to make this in case I ever doubt or forget that.,我希望在我怀疑或忘记之前录下这些。
-DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_22_Line,Just play this and remember.,放这段录音，然后记住。
+DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_22_Line,Just play this and remember.,放这段录音，然后记住这些。
 DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_23_Line,"Yeah… Yeah, that’s all. See ya.",是啊… 是啊，就这些。回头见。
 DT_VHS_TwoGuards/VHS_TwoGuards_01_Line, Hey Cole.,嘿，科尔。
 DT_VHS_TwoGuards/VHS_TwoGuards_02_Line,Hey Norm.,嘿，诺姆。
@@ -5972,27 +5974,27 @@ DT_VHS_TwoGuards/VHS_TwoGuards_04_Line,Yeah…,是啊…
 DT_VHS_TwoGuards/VHS_TwoGuards_05_Line," So, uh, what block are you again?.",所以，呃，你到底在哪一区?
 DT_VHS_TwoGuards/VHS_TwoGuards_06_Line,North,北区
 DT_VHS_TwoGuards/VHS_TwoGuards_07_Line,Can’t say I hear much about that one.,我可没怎么听说过那里。
-DT_VHS_TwoGuards/VHS_TwoGuards_08_Line,You wouldn’t.,你不会的。
-DT_VHS_TwoGuards/VHS_TwoGuards_09_Line,High security?,高安全级别?
-DT_VHS_TwoGuards/VHS_TwoGuards_10_Line,HIGHEST security.,最高安全级别。
-DT_VHS_TwoGuards/VHS_TwoGuards_11_Line,Tt. Cushy…,啧，安逸…
+DT_VHS_TwoGuards/VHS_TwoGuards_08_Line,You wouldn’t.,你肯定不知道。
+DT_VHS_TwoGuards/VHS_TwoGuards_09_Line,High security?,那里是高安全级别的区域?
+DT_VHS_TwoGuards/VHS_TwoGuards_10_Line,HIGHEST security.,是最高安全级别。
+DT_VHS_TwoGuards/VHS_TwoGuards_11_Line,Tt. Cushy…,啧，那真是清闲…
 DT_VHS_TwoGuards/VHS_TwoGuards_12_Line,Know what we get in the East?,你知道我们在东区有什么吗?
-DT_VHS_TwoGuards/VHS_TwoGuards_13_Line,"Toys banging on the walls, crying for their parents, their Counselors, whatever.",玩具砸在墙上，哭着找父母、找辅导员，随便什么。
-DT_VHS_TwoGuards/VHS_TwoGuards_14_Line,"It goes ALL day and night… And it just wears on ya, ya know?",他们整天整夜地吵… 真的让人受不了，你知道吗?
-DT_VHS_TwoGuards/VHS_TwoGuards_15_Line,I’d KILL for a little security. And quiet.,我愿意付出一切来换取一点点安全保障和安静。
-DT_VHS_TwoGuards/VHS_TwoGuards_16_Line,Right.,对。
-DT_VHS_TwoGuards/VHS_TwoGuards_17_Line,Right.,对。
+DT_VHS_TwoGuards/VHS_TwoGuards_13_Line,"Toys banging on the walls, crying for their parents, their Counselors, whatever.",什么玩具被砸在墙上，哭着找父母、找辅导员，啥乱七八糟的事情都有。
+DT_VHS_TwoGuards/VHS_TwoGuards_14_Line,"It goes ALL day and night… And it just wears on ya, ya know?",他们整天整夜都在吵闹… 真的让人受不了，你知道吗?
+DT_VHS_TwoGuards/VHS_TwoGuards_15_Line,I’d KILL for a little security. And quiet.,我愿意付出一切来换取一点点的安全和宁静。
+DT_VHS_TwoGuards/VHS_TwoGuards_16_Line,Right.,没错。
+DT_VHS_TwoGuards/VHS_TwoGuards_17_Line,Right.,我赞同。
 DT_VHS_TwoGuards/VHS_TwoGuards_18_Line,Know what we get in the North?,你知道我们在北区有什么吗?
-DT_VHS_TwoGuards/VHS_TwoGuards_19_Line,Things.,东西。
-DT_VHS_TwoGuards/VHS_TwoGuards_20_Line,"Whatever they are, they aren’t people anymore. Their cells might as well be cages.",无论他们是什么，他们都不再是人了。他们的牢房其实就跟笼子一样。
-DT_VHS_TwoGuards/VHS_TwoGuards_21_Line,They’re animals. Sick. Twisted. Just instincts and anger.,他们就是动物。病态、扭曲。只剩下本能和愤怒。
-DT_VHS_TwoGuards/VHS_TwoGuards_22_Line,That’s all that’s left of them.,那已经是他们的全部了。
-DT_VHS_TwoGuards/VHS_TwoGuards_23_Line,"Sure, but at least then it’s not like yelling at your own kids for them to be quiet though, ya know?",当然，但至少那样你就不用冲着你自己的孩子喊让他们安静，对吧?
-DT_VHS_TwoGuards/VHS_TwoGuards_24_Line,"I mean, if you had to listen to them—",我是说，如果你不得不听他们的话——
+DT_VHS_TwoGuards/VHS_TwoGuards_19_Line,Things.,有那些东西。
+DT_VHS_TwoGuards/VHS_TwoGuards_20_Line,"Whatever they are, they aren’t people anymore. Their cells might as well be cages.",无论他们是什么，他们都不再是人了，他们的牢房其实就跟笼子一样。
+DT_VHS_TwoGuards/VHS_TwoGuards_21_Line,They’re animals. Sick. Twisted. Just instincts and anger.,他们就是一群野兽，非常病态、扭曲，只有本能和愤怒。
+DT_VHS_TwoGuards/VHS_TwoGuards_22_Line,That’s all that’s left of them.,那已经是他们现在的样子了 。
+DT_VHS_TwoGuards/VHS_TwoGuards_23_Line,"Sure, but at least then it’s not like yelling at your own kids for them to be quiet though, ya know?",当然，至少那样你就不用冲着那些孩子叫他们安静，对吧?
+DT_VHS_TwoGuards/VHS_TwoGuards_24_Line,"I mean, if you had to listen to them—",我是说，如果你不听他们的话——
 DT_VHS_TwoGuards/VHS_TwoGuards_25_Line,"Oh, great…",哦，太棒了…
 DT_VHS_TwoGuards/VHS_TwoGuards_26_Line,(Exhales) So much for our two o’clock.,(叹气）我们的两点钟泡汤了。
 DT_VHS_TwoGuards/VHS_TwoGuards_27_Line,"Yeah, we really do have it rough, don’t we?",是啊，我们的日子可真是不好过，对吧?
-DT_VHS_WardenOmniHand/VHS_WardenOmniHand_01_Line,"(Terrified) Oh god, no no no no no.",(恐怖)哦上帝，不不不不不。
+DT_VHS_WardenOmniHand/VHS_WardenOmniHand_01_Line,"(Terrified) Oh god, no no no no no.",(恐惧)哦上帝，不不不不不。
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_02_Line,Warden?,典狱长?
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_03_Line,"Doctor! Doctor, what’s going on?! What’s happening, it’s–",博士!博士，发生什么事了?!这是怎么回事，是——
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_04_Line,"Yes. Yes, I can hear it.",是的，是的，我能听见。
@@ -6000,28 +6002,28 @@ DT_VHS_WardenOmniHand/VHS_WardenOmniHand_05_Line,They’ve staged quite the rebe
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_06_Line,"Remarkable, 1006.",非凡的成果，1006。
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_07_Line,How could this happen? There’s failsafes. Security measures. They…,这怎么可能呢?有应急措施、安防手段，它们…
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_08_Line,It’s impossible…,这不可能……
-DT_VHS_WardenOmniHand/VHS_WardenOmniHand_09_Line,Personal agendas have long been the downfall of this company.,个人私欲长久以来一直是这家公司垮台的原因。
-DT_VHS_WardenOmniHand/VHS_WardenOmniHand_10_Line,Is it unreasonable to believe there were conspirators?,认为有同谋者存在，这难道不合理吗?
-DT_VHS_WardenOmniHand/VHS_WardenOmniHand_11_Line,Playtime is filled with vipers and backstabbers.,游戏时间充满了毒蛇与背后捅刀的人。
+DT_VHS_WardenOmniHand/VHS_WardenOmniHand_09_Line,Personal agendas have long been the downfall of this company.,这家公司的失败，很大程度上是由于每个人只顾着自己的小算盘。
+DT_VHS_WardenOmniHand/VHS_WardenOmniHand_10_Line,Is it unreasonable to believe there were conspirators?,很有理由怀疑是有人秘密策划这些事情。
+DT_VHS_WardenOmniHand/VHS_WardenOmniHand_11_Line,Playtime is filled with vipers and backstabbers.,游戏时间公司充满了毒蛇和背后捅刀的人。
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_12_Line,But…But without executive access… How could anyone even get through?,但是… 如果没有执行权限… 怎么会有人进得来?
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_13_Line,Leith. Stella. Eddie. Only the four of us have that kind of clearance.,雷思、斯特拉、艾迪。只有我们四个人有这种权限。
-DT_VHS_WardenOmniHand/VHS_WardenOmniHand_14_Line,Does any of that matter now? It’s your life you have to protect.,那些现在还有什么重要的?你得保护好自己的命。
+DT_VHS_WardenOmniHand/VHS_WardenOmniHand_14_Line,Does any of that matter now? It’s your life you have to protect.,现在那些东西都不重要！你得保护好自己的命。
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_15_Line,You have executive access.,你有管理员权限。
-DT_VHS_WardenOmniHand/VHS_WardenOmniHand_16_Line,"For all the good it does me! Opening a door at a time won’t get me to the exit, not with those THINGS everywhere.",这些对我有什么好处!一次开一扇门可没法让我逃出去，尤其是到处都是那些东西。
-DT_VHS_WardenOmniHand/VHS_WardenOmniHand_17_Line,"You didn’t see what I saw. You didn’t see the trail of limbs down the hall, didn’t hear the things eating. The… ",你没看到我看到的东西。你没看到走廊上的肢体碎块，没听到那些东西在进食的声音。那……
+DT_VHS_WardenOmniHand/VHS_WardenOmniHand_16_Line,"For all the good it does me! Opening a door at a time won’t get me to the exit, not with those THINGS everywhere.",权限对我来说有什么用！用一次只能开一扇门可没法让我逃出去，尤其现在到处都是那些东西。
+DT_VHS_WardenOmniHand/VHS_WardenOmniHand_17_Line,"You didn’t see what I saw. You didn’t see the trail of limbs down the hall, didn’t hear the things eating. The… ",你没看到我看到的东西！你没看到走廊上的肢体碎块，没听到那些东西在进食的声音。那……
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_18_Line,"The wet crunches of bones… God, I…",骨头湿漉漉的断裂声……天哪，我……
-DT_VHS_WardenOmniHand/VHS_WardenOmniHand_19_Line,"There is something you can do, Warden. I can help you.",你能做点什么，典狱长。我可以帮助你。
-DT_VHS_WardenOmniHand/VHS_WardenOmniHand_20_Line,How? You’re stuck in there. You can’t–,怎么出去?你都被困在那里了。你不能——
-DT_VHS_WardenOmniHand/VHS_WardenOmniHand_21_Line,"My body’s here, sure.",我的身体的确在这里。
+DT_VHS_WardenOmniHand/VHS_WardenOmniHand_19_Line,"There is something you can do, Warden. I can help you.",典狱长，你可以做一些事情，我可以帮助你。
+DT_VHS_WardenOmniHand/VHS_WardenOmniHand_20_Line,How? You’re stuck in there. You can’t–,怎么帮我？你都被困在那里了。你不能——
+DT_VHS_WardenOmniHand/VHS_WardenOmniHand_21_Line,"My body’s here, sure.",我的身体的确是在这里。
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_22_Line,But my mind…,但是我的脑子…
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_23_Line,…What?,……什么?
-DT_VHS_WardenOmniHand/VHS_WardenOmniHand_24_Line,"The Omni-Hand. If you give it to me, I can get you anywhere. I’ll have control over everything.",全能之手。如果你把它给我，我可以带你去任何地方。我将掌控一切。
+DT_VHS_WardenOmniHand/VHS_WardenOmniHand_24_Line,"The Omni-Hand. If you give it to me, I can get you anywhere. I’ll have control over everything.",万能手。如果你把它给我，我可以带你去任何地方！我将掌控一切。
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_25_Line,"I can shut some doors, open others. I can make you a pathway that leads right to the exit.",我可以关上一些门，再打开另一些。我可以为你创造一条直达出口的路径。
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_26_Line,I don’t… I don’t know…,我……我不知道……
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_27_Line,"If you want to wait to get torn to pieces, that’s your prerogative, but look at your immediate options, Warden.",如果你想等被撕成碎片，那是你的选择，但看看你眼前的选择吧，典狱长。
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_28_Line,What choice other than this gets you out of here alive?,除了这个，还有什么选择能让你活着离开这里?
-DT_VHS_WardenOmniHand/VHS_WardenOmniHand_29_Line,I’m giving you the tool. Just get me out of here. Please.,我给了你工具。只要把我弄出去，求你了。
-DT_VHS_WardenOmniHand/VHS_WardenOmniHand_30_Line,Of course.,当然。
+DT_VHS_WardenOmniHand/VHS_WardenOmniHand_29_Line,I’m giving you the tool. Just get me out of here. Please.,我给你万能手，只要把我弄出去就行，求你了。
+DT_VHS_WardenOmniHand/VHS_WardenOmniHand_30_Line,Of course.,那当然。
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_31_Line,"You’ve made a smart decision, Warden.",你做出了一个明智的决定，典狱长。
 DT_VHS_WardenOmniHand/VHS_WardenOmniHand_32_Line,I promise I’ll get you out of here safe and sound.,我保证会把你安全无恙地送出去。
 Fifth_Experiment_S12_L12_Li01/Fifth_Experiment_S12_L12_Li01_01_Line,Anything yet?,有动静了吗?
@@ -6058,11 +6060,11 @@ Messaging/No,No,否
 Messaging/Ok,Ok,确定
 Messaging/Yes,Yes,是
 Ollie_S13_L06_Li03/Ollie_S13_L06_Li03_Line,You heard her. Now let's get to it.,你听见她说的了。现在开始行动吧。
-Ollie_S13_L06_Li05/Ollie_S13_L06_Li05_01_Line,"Whenever you’re ready, flip the breaker switch. But be aware, while it’s down, so are Safe Haven’s defenses.",当你准备好了，把断路器关掉。但需要注意，断路器一旦关闭，安全避难所的防御也会关闭。
+Ollie_S13_L06_Li05/Ollie_S13_L06_Li05_01_Line,"Whenever you’re ready, flip the breaker switch. But be aware, while it’s down, so are Safe Haven’s defenses.",当你准备好了，就把断路器关掉。但需要注意，断路器一旦关闭，避风港的防御也会关闭。
 Ollie_S13_L06_Li05/Ollie_S13_L06_Li05_02_Line,Meaning whatever’s out there has NOTHING keeping it there.,也就是说，不管外面有什么，都没有东西能阻止它。
 Ollie_S13_L06_Li05/Ollie_S13_L06_Li05_03_Line,We’ll have to be quick.,我们必须快点。
 Ollie_S13_L06_Li06/Ollie_S13_L06_Li06_Line,Grab an external resistor. Attach that to the capacitor bank.,拿个外接电阻器，把它接到电容器组上。
-Ollie_S13_L06_Li07/Ollie_S13_L06_Li07_01_Line,"Good. Now, use the Omni-Hand to override the generator’s chipset protocols so we can yank out the busted surge protector.",好。现在，用全能手来覆盖发电机的芯片组协议，这样我们就能把损坏的浪涌保护器扯出来。
+Ollie_S13_L06_Li07/Ollie_S13_L06_Li07_01_Line,"Good. Now, use the Omni-Hand to override the generator’s chipset protocols so we can yank out the busted surge protector.",好。现在，用万能手来覆盖发电机的芯片组协议，这样我们就能把损坏的浪涌保护器扯出来。
 Ollie_S13_L06_Li07/Ollie_S13_L06_Li07_02_Line,It’s the flashing blue light!,就是那个闪烁的蓝灯!
 Ollie_S13_L06_Li08/Ollie_S13_L06_Li08_Line,Pull it!,拔了它!
 Ollie_S13_L06_Li09/Ollie_S13_L06_Li09_Line,Nice. Now put in a new one.,不错。现在放一个新的进去。
