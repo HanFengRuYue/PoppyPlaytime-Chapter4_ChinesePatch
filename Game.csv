@@ -1824,7 +1824,7 @@ CELL","电击
 /56FD32534E8FB06585FD29B040A2B12B,"This door to the Organ Terminal should remain locked until the correct code is entered in the Control Console in the room below. Once the organ in the organ terminal is destroyed by pulling the plug and charging the Power Receiver it was plugged into with the Power Source on the opposite wall, the AVC17 door should automatically open.",通往器官终端的这扇门应保持锁定，直到在下方房间的控制台输入正确代码。一旦在器官终端的器官通过拔下插头并用对面墙上的电源为所插的电源接收器充电后器官被摧毁， AVX17 门应自动打开。
 /56FEA5534506EAC9ECE785AC99C2B459,Part 3,第3部分
 /5701CF5F489828B26C638BA7B99D6141,LS_06a_DoeyPointsToPipe,LS_06a_多伊指向管道
-/570AEF6541115B66FFE7E19C0760DA37,Medic:,医疗:
+/570AEF6541115B66FFE7E19C0760DA37,Medic:,医疗玩具:
 /571A267A469020CAC95248AFDA729908,08_Environment_A1,08_环境_A1
 /571B05A7471FF156DF343BA0C6BC444A,CloseDoorTut,CloseDoorTut
 /57228A9B45F7965FB9EF5EACD175C9C3,Title,标题
@@ -4399,7 +4399,7 @@ What’s important to me:
 -Getting back to being me.
 
 Why:
-Because I’d started to like life again before, and none of this should be real.","这不是我所想的，也不是任何人所想的。他们把我带到了某个地方。不是外面，而是地下。深埋在一切之下。他们给我打了一针，我就睡着了。也许那是几天前的事，也许是几周前。我记得一些画面。我的皮肤像花瓣一样绽开，一个像博士的男人在我身体里翻找，取出东西。我记得感觉到他的触碰穿过我的肋骨，深入脊柱后部。我记得听到「咔嚓」一声。到处都是红色。
+Because I’d started to like life again before, and none of this should be real.","这不是我所想的，也不是任何人所想的。他们把我带到了某个地方。不是外面，而是地下。深埋在一切之下。他们给我打了一针，我就睡着了。也许那是几天前的事，也许是几周前。我记得一些画面。我的皮肤像花瓣一样绽开，一个像医生的男人在我身体里翻找，取出东西。我记得感觉到他的触碰穿过我的肋骨，深入脊柱后部。我记得听到「咔嚓」一声。到处都是红色。
 
  当我醒来时，全身都疼，于是我开始尖叫。尖叫了数小时又数小时。意识到没人会听见后，我停止了尖叫。
 
@@ -5932,7 +5932,7 @@ DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_07_Line,Hoppy? What’s going on?,霍比?�
 DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_08_Line,"We were trying to bring supplies back up to the elevator, but we got jumped.",我们正试图把补给运回电梯，但遭到伏击。
 DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_09_Line,Had to turn all the way back around.,不得不一路折返回来了。
 DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_10_Line,They took everything we had! Right after one of em bit my leg!,他们抢走了我们所有的东西!就在其中一个咬了我的腿之后!
-DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_11_Line,"Hmm.. how is he, doc?",嗯...他怎么样了，博士?
+DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_11_Line,"Hmm.. how is he, doc?",嗯...他怎么样了，医生?
 DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_12_Line,…Hmmm. Not too bad…,……嗯，不算太糟……
 DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_13_Line,He’ll live.,他能活。
 DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_14_Line,See?,看到了吗?
@@ -5943,7 +5943,7 @@ DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_18_Line,When you’re ready.,当你准备�
 DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_19_Line,"Thanks, Doey.",谢谢，多伊。
 DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_20_Line,Sorry we lost the supplies. It won’t happen again.,很抱歉我们丢了补给。不会再发生了。
 DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_21_Line,"The important thing is you’re both okay… aside from that bite, that is.",最重要的是你们俩都没事...除了那个咬伤。
-DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_22_Line,"Hey, doc, let me grab some wound cream for our pal here.",嘿，博士，让我给我们的朋友拿些创伤膏。
+DT_VHS_ToyCivilWar1/VHS_ToyCivilWar1_22_Line,"Hey, doc, let me grab some wound cream for our pal here.",嘿，医生，让我给我们的朋友拿些创伤膏。
 DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_01_Line,I uh… I’m not sure if this thingy is on. But I need to talk. And…,呃……我不确定这玩意儿是否开着，但我需要说话。而且……
 DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_02_Line,I can’t talk about this with anyone else...,我不能和别人谈论这件事……
 DT_VHS_ToyCivilWar2/VHS_ToyCivilWar2_03_Line,"For the past few months, the fighting’s been bad… Real bad…",在过去的几个月里，战斗很激烈……非常激烈……
